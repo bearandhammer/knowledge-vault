@@ -7,12 +7,8 @@
         "id": "0c21d027f96495fe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Test Folder/Test Note.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Folder/Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
