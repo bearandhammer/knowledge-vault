@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🧪 Scratch/🙀 202203271629 Test Note.md",
+            "file": "🧪 Scratch/🐶 202203271636 Dog.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,56 @@
             {
               "leaf": "0c21d027f96495fe",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🤔 202203271630 Workflow Learning.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}}}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":39},\"to\":{\"line\":6,\"ch\":39}}}"
             },
             {
               "leaf": "0c21d027f96495fe",
@@ -112,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧪 Scratch/🙀 202203271629 Test Note.md",
+                "file": "🧪 Scratch/🐶 202203271636 Dog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +223,8 @@
   },
   "active": "0c21d027f96495fe",
   "lastOpenFiles": [
-    "🧪 Scratch/🙀 202203271629 Test Note.md",
-    "🧪 Scratch/🤔 202203271630 Workflow Learning.md"
+    "🧪 Scratch/🐶 202203271636 Dog.md",
+    "🧪 Scratch/🤔 202203271630 Workflow Learning.md",
+    "🧪 Scratch/🙀 202203271629 Test Note.md"
   ]
 }
