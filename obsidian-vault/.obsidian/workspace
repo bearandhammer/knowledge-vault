@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test Folder/Test Note.md",
+            "file": "🧪 Scratch/Untitled.md",
             "mode": "source",
             "source": true
           }
@@ -20,7 +20,13 @@
             {
               "leaf": "0c21d027f96495fe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Folder/Test Note.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -100,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Folder/Test Note.md",
+                "file": "🧪 Scratch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +160,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,6 +169,7 @@
   },
   "active": "0c21d027f96495fe",
   "lastOpenFiles": [
-    "Test Folder/Test Note.md"
+    "🧪 Scratch/Untitled.md",
+    "🧪 Scratch/🙀 Test Note.md"
   ]
 }

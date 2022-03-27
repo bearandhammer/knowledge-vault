@@ -4,4 +4,4 @@ tags: test
 
 # This is a sample note
 
-😄
+It seems like a 🐱 is a bit like a [[Dog]]
