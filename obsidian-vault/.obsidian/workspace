@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🧪 Scratch/Untitled.md",
+            "file": "🧪 Scratch/🙀 202203271629 Test Note.md",
             "mode": "source",
             "source": true
           }
@@ -20,13 +20,19 @@
             {
               "leaf": "0c21d027f96495fe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "0c21d027f96495fe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🤔 202203271630 Workflow Learning.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "0c21d027f96495fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -106,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧪 Scratch/Untitled.md",
+                "file": "🧪 Scratch/🙀 202203271629 Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +175,7 @@
   },
   "active": "0c21d027f96495fe",
   "lastOpenFiles": [
-    "🧪 Scratch/Untitled.md",
-    "🧪 Scratch/🙀 Test Note.md"
+    "🧪 Scratch/🙀 202203271629 Test Note.md",
+    "🧪 Scratch/🤔 202203271630 Workflow Learning.md"
   ]
 }
