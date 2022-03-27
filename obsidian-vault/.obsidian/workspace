@@ -79,13 +79,23 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d9112dad064dc9cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0c21d027f96495fe",
   "lastOpenFiles": [
