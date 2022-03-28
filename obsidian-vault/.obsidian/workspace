@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📧 Inbox/Use nutrition to combat tiredness..md",
+            "file": "📧 Inbox/What is Agile.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,38 @@
             {
               "leaf": "411cfd16c1974072",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Use nutrition to combat tiredness..md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/What is Agile.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "411cfd16c1974072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Use nutrition to combat tiredness..md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":8},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "411cfd16c1974072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/What is Agile.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
+            },
+            {
+              "leaf": "411cfd16c1974072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Use nutrition to combat tiredness..md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "411cfd16c1974072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/What is Agile.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "411cfd16c1974072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Use nutrition to combat tiredness..md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "411cfd16c1974072",
@@ -112,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📧 Inbox/Use nutrition to combat tiredness..md",
+                "file": "📧 Inbox/What is Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +205,7 @@
   },
   "active": "411cfd16c1974072",
   "lastOpenFiles": [
+    "📧 Inbox/What is Agile.md",
     "📧 Inbox/Use nutrition to combat tiredness..md",
     "🧪 Scratch/🐶 202203271636 Dog.md",
     "🧪 Scratch/🤔 202203271630 Workflow Learning.md",
