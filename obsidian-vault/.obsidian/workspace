@@ -21,7 +21,7 @@
               "leaf": "411cfd16c1974072",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Nutrition guidelines for runners.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "411cfd16c1974072",
@@ -267,9 +267,20 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "096916f58405ea9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
