@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📧 Inbox/Nutrition guidelines for runners.md",
+            "file": "📧 Inbox/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "411cfd16c1974072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "411cfd16c1974072",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cow.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":19}}}"
-            },
-            {
-              "leaf": "411cfd16c1974072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":36},\"to\":{\"line\":8,\"ch\":36}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📧 Inbox/Nutrition guidelines for runners.md",
+                "file": "📧 Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,6 +288,7 @@
   },
   "active": "411cfd16c1974072",
   "lastOpenFiles": [
+    "📧 Inbox/Untitled.md",
     "📧 Inbox/Nutrition guidelines for runners.md",
     "📧 Inbox/What is Agile.md",
     "📧 Inbox/Use nutrition to combat tiredness.md",
