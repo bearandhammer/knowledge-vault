@@ -21,7 +21,7 @@
               "leaf": "411cfd16c1974072",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":1.7619047619047619}"
             },
             {
               "leaf": "411cfd16c1974072",
@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad738246b9131586",
@@ -284,7 +285,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "411cfd16c1974072",
   "lastOpenFiles": [

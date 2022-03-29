@@ -24,6 +24,9 @@ Once enable, you are free to browse, install and enable community plugins by cli
 
 Browse for and install 'Obsidian Git'; post installation ensure you click the 'enable' button to turn on the plugin (all plugins, that I have tried this far, do not enable by default and wait for the user confirmation in this regard). Post installation, you should see the following if searching for the plugin again (that confirms installation is successful):
 
+Post-installation, close the search modal to return to the Settings modal and sca through the various settings until you reach the 'Installed Plugins' section; this is where you will find an entry for Obsidian Git, that allows you to access/tweak configuration settings.
+
+This is the configuration platter that I went with, but you can tailor this fully to your taste as desired. 🍴
 
 
 
