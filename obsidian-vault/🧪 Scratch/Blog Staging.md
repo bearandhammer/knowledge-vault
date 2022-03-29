@@ -41,4 +41,11 @@ The 'List filenames affected by commit in commit body' adds any adjusted files i
 
 Image
 
-It is possible to adjust the target branch for commit/push operations by toggling the 'Current branch' setting. This could be of benefit if working on a vault using a strategy such as Git flow (or where you want to stage changes into another branch and create Pull Requests/merge into another upstream branch)
+It is possible to adjust the target branch for commit/push operations by toggling the 'Current branch' setting. This could be of benefit if working on a vault using a strategy such as Git flow (or where you want to stage changes into another branch and create Pull Requests/merge into another upstream branch, perhaps in a multi-user setup).
+
+I have opted to pull updates on startup with the aid of the 'Pull updates on startup'. To pair nicely with this, the 'Pull changes before push' is also enabled, although my vault will only be for my own personal use (this could be useful if I change committed markdown files from another device).
+
+Lastly, the most important setting to alter here is 'Disable push'; it is critical this is turned off in order for automatic commit/pull operations to trigger.
+
+
+
