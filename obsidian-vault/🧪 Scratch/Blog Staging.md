@@ -37,7 +37,8 @@ I prefer more clean commit history, so I have chosen 'Rebase' for the 'Sync meth
 Template string: '{{hostname}} vault backup: {{date}}'
 Results in: 'Lews PC vault backup: 29/03/2022 19:49:58'
 
-The 'List filenames affected by commit in commit body' adds any adjusted files into the body for the commit, which results in the follow effect (when viewed in GitHub):
+The 'List filenames affected by commit in commit body' adds any adjusted files into the body for the commit, a personal preference of mine in this case, which results in the follow effect (when viewed in GitHub):
 
+Image
 
-
+It is possible to adjust the target branch for commit/push operations by toggling the 'Current branch' setting. This could be of benefit if working on a vault using a strategy such as Git flow (or where you want to stage changes into another branch and create Pull Requests/merge into another upstream branch)
