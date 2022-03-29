@@ -27,6 +27,3 @@ Browse for and install 'Obsidian Git'; post installation ensure you click the 'e
 Post-installation, close the search modal to return to the Settings modal and sca through the various settings until you reach the 'Installed Plugins' section; this is where you will find an entry for Obsidian Git, that allows you to access/tweak configuration settings.
 
 This is the configuration platter that I went with, but you can tailor this fully to your taste as desired. 🍴
-
-
-
