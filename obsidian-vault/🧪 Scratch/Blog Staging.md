@@ -20,6 +20,10 @@ The community pluging of choice for easily enabling automatic push/commits to a 
 
 First things first, the ability to use community plugins is locked off behind a specific configuration option. You'll find this option under Settings -> Community Plugins -> Safe Mode. This does come with the caveat that community plugins do have the ability to access resources on the target device; so a degree of caution is required.
 
-Once enable, you are free to browse, install and enable community plugins. The following screenshot shows the flow on how to access/adjust these settings:
+Once enable, you are free to browse, install and enable community plugins by clicking the 'Browse' button, as indicated. The following screenshot shows the flow on how to access/adjust these settings:
+
+Browse for and install 'Obsidian Git'; post installation ensure you click the 'enable' button to turn on the plugin (all plugins, that I have tried this far, do not enable by default and wait for the user confirmation in this regard). Post installation, you should see the following if searching for the plugin again (that confirms installation is successful):
+
+
 
 
