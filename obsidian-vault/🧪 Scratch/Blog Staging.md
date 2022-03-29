@@ -30,5 +30,12 @@ This is the configuration platter that I went with, but you can tailor this full
 
 Image
 
-Let's take a super-succinct tour of these settings and the exact meaning behind each setting. The 'Vault backup interval (minutes)' is, as you'd expect, the exact time interval between each automatic commit and push operation. Every 5 minutes is seems like a good balance between frequency and performance, although I have to admit I have noticed too much degradation as automatic commits/pushes occur. 'Auto pull interview (minutes)' is set to 0 to disable this feature, but if you are interested in
+Let's take a super-succinct tour of these settings and the exact meaning behind each setting. The 'Vault backup interval (minutes)' is, as you'd expect, the exact time interval between each automatic commit and push operation. Every 5 minutes is seems like a good balance between frequency and performance, although I have to admit I have noticed too much degradation as automatic commits/pushes occur. 'Auto pull interview (minutes)' is set to 0 to disable this feature, but if you are interested in pulling information (as you have a shared vault) then this could be of interest.
+
+I prefer more clean commit history, so I have chosen 'Rebase' for the 'Sync method'; but again, dealers choice here! The next four settings ('Commit message on manual backup/commit', 'Commit message on auto backup', '{{date}} placeholder format', '{{hostname}} placeholder replacement') enable to you tailor the commit messages generated but injecting a hostname and date (in the desired format) into a template string. Of course, you are free to omit anything you don't want. For example, a final commit message in my repository is as follows:
+
+Template string: '{{hostname}} vault backup: {{date}}'
+Results in: 'Lews PC vault backup: 29/03/2022 19:49:58'
+
+The 'List filenames affected by commit in commit body' adds any adjusted files into the body for the commit, which results in some
 
