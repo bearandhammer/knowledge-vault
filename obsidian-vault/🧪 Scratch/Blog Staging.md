@@ -37,5 +37,7 @@ I prefer more clean commit history, so I have chosen 'Rebase' for the 'Sync meth
 Template string: '{{hostname}} vault backup: {{date}}'
 Results in: 'Lews PC vault backup: 29/03/2022 19:49:58'
 
-The 'List filenames affected by commit in commit body' adds any adjusted files into the body for the commit, which results in some
+The 'List filenames affected by commit in commit body' adds any adjusted files into the body for the commit, which results in the follow effect (when viewed in GitHub):
+
+
 
