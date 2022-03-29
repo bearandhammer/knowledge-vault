@@ -24,7 +24,7 @@ Once enable, you are free to browse, install and enable community plugins by cli
 
 Browse for and install 'Obsidian Git'; post installation ensure you click the 'enable' button to turn on the plugin (all plugins, that I have tried this far, do not enable by default and wait for the user confirmation in this regard). Post installation, you should see the following if searching for the plugin again (that confirms installation is successful):
 
-Post-installation, close the search modal to return to the Settings modal and sca through the various settings until you reach the 'Installed Plugins' section; this is where you will find an entry for Obsidian Git, that allows you to access/tweak configuration settings.
+Post-installation, close the search modal to return to the Settings modal and sca through the various settings until you reach the 'Installed Plugins' section; this is where you will find an entry for Obsidian Git, that allows you to access/tweak configuration settings. The plugin will use any current credentials you have conf
 
 This is the configuration platter that I went with, but you can tailor this fully to your taste as desired. 🍴
 
@@ -47,5 +47,10 @@ I have opted to pull updates on startup with the aid of the 'Pull updates on sta
 
 Lastly, the most important setting to alter here is 'Disable push'; it is critical this is turned off in order for automatic commit/pull operations to trigger.
 
+You are now away to the races and automatic commit/push operations should trigger as you build out your own personal knowledge base (capturing configuration changes, mardown file alterations/additions, etc). For example, as I have been compiling notes for this blog post the process has triggered numerous times. In Obsidian you will see a toastr-style notification:
 
+Image
 
+From a Git GUI, such as Fork, you should observe the following:
+
+Image
