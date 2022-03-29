@@ -20,4 +20,6 @@ The community pluging of choice for easily enabling automatic push/commits to a 
 
 First things first, the ability to use community plugins is locked off behind a specific configuration option. You'll find this option under Settings -> Community Plugins -> Safe Mode. This does come with the caveat that community plugins do have the ability to access resources on the target device; so a degree of caution is required.
 
-Once enable
+Once enable, you are free to browse, install and enable community plugins. The following screenshot shows the flow on how to access/adjust these settings:
+
+
