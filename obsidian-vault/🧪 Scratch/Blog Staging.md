@@ -27,3 +27,8 @@ Browse for and install 'Obsidian Git'; post installation ensure you click the 'e
 Post-installation, close the search modal to return to the Settings modal and sca through the various settings until you reach the 'Installed Plugins' section; this is where you will find an entry for Obsidian Git, that allows you to access/tweak configuration settings.
 
 This is the configuration platter that I went with, but you can tailor this fully to your taste as desired. 🍴
+
+Image
+
+Let's take a super-succinct tour of these settings and the exact meaning behind each setting. The 'Vault backup interval (minutes)' is, as you'd expect, the exact time interval between each automatic commit and push operation. Every 5 minutes is seems like a good balance between frequency and performance, although I have to admit I have noticed too much degradation as automatic commits/pushes occur. 'Auto pull interview (minutes)' is set to 0 to disable this feature, but if you are interested in
+
