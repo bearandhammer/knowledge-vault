@@ -86,7 +86,7 @@ Core plugins
 
 Before looking at some community-driven plugins I wanted to take a very quick tour of some of the Core plugins bundled with Obsidian. Not all of these are enabled by default, so peruse the list and enable any that take your fancy.
 
-Some of the key (and interesting ones to note) are as follows.
+I'll run over some of key, and noteworthy/interesting ones...
 
 Obsidian comes with a stock File Explorer and Search capabilities (the standard search seems fairly powerful, below you can see a search by tag).
 
