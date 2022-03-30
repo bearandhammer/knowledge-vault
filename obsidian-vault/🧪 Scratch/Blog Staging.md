@@ -1,3 +1,5 @@
+
+![[Recording 20220330085011.webm]]
 ---
 tags: 🧪
 ---
@@ -89,5 +91,7 @@ Some of the key (and interesting ones to note) are as follows.
 
 File Explorer
 
+Audio Recording in a Note
 
-![[Recording 20220330084620.webm]]
+
+![[Recording 20220330085052.webm]]
