@@ -84,4 +84,10 @@ Core plugins
 
 Before looking at some community-driven plugins I wanted to take a very quick tour of some of the Core plugins bundled with Obsidian. Not all of these are enabled by default, so peruse the list and enable any that take your fancy.
 
-Some of the key 
+Some of the key (and interesting ones to note) are as follows.
+
+
+File Explorer
+
+
+![[Recording 20220330084620.webm]]
