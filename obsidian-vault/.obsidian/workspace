@@ -7,14 +7,22 @@
         "id": "abd91818119a9cdd",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Untitled Kanban.md"
+            "file": "🧪 Scratch/Blog Staging.md",
+            "mode": "source",
+            "source": false
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":37.785714285714285}"
+            },
             {
               "leaf": "abd91818119a9cdd",
               "group": null,
@@ -146,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "🧪 Scratch/Blog Staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +228,8 @@
   },
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "🧪 Scratch/Blog Staging.md",
+    "Untitled Kanban.md",
     "🧪 Scratch/Untitled.md",
     "Recording 20220330084620.webm",
     "📧 Inbox/Untitled.md",

@@ -116,7 +116,7 @@ The Templater plugin allows you to craft custom templates for notes, inserting t
 
 Although simple, the Paste URL into selection has become my hot favourite. It allows you to highlight raw text and then paste URLs to create fully functioning links:
 
-
+If 
 
 Templater https://github.com/SilentVoid13/Templater
 

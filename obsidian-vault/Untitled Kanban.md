@@ -7,16 +7,17 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] Feed the dog.
+- [ ] Water the plants.
 
 
 ## IN PROGRESS
 
-- [ ] Complete the blog post.
+- [ ] Complete the blog post....<br><br>Then publish it.
 
 
 ## COMPLETE
 
-- [ ] Visit the pub!
+- [ ] Visit the pub! :beer:
 
 
 
