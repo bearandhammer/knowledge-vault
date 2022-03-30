@@ -122,7 +122,7 @@ The Calendar plugin integrates, you probably guessed it, a calendar into Obsidia
 
 The Mind Map plugin shows a targeted view of the various relationships diverging off of the current note, allow a focused view of all of the links and easier navigation between them.
 
-If you have the desire to write more complex queries against your knowledgebase data, the Dataview p
+If you have the desire to write more complex queries against your knowledgebase data, the Dataview plugin enables querying by metadata using Dataview Query Language (SQL-like syntax) or JavaScript.
 
 Templater https://github.com/SilentVoid13/Templater
 
@@ -142,3 +142,16 @@ Editor Syntax Highlighter
 ### Main Resources
 ### Secondary Resources
 [[Supplementary Blog Resources]]
+
+```sql
+SELECT 
+COUNT(1) 
+FROM [dbo].[MyTable] mt
+WHERE mt.[IsDeleted] = 0
+```
+
+```csharp
+string test = "Hello World";
+Console.WriteLine(test);
+```
+
