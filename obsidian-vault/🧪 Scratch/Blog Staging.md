@@ -88,10 +88,11 @@ Before looking at some community-driven plugins I wanted to take a very quick to
 
 Some of the key (and interesting ones to note) are as follows.
 
+Obsidian comes with a stock File Explorer and Search capabilities (the standard search seems fairly powerful, below you can see a search by tag).
 
-File Explorer
+The Graph view really starts to expose the power of Obsidian showing a node-based diagram of the relationships between your notes.
 
-Obsidian comes with a stock File Explorer and Search capabilities (the standard search seems )
+One particular core plugin that caught my eye was the Audio recorder, allowing audio snapshots to be captured and injected directly into notes.
 
 Audio Recording in a Note
 
@@ -104,3 +105,21 @@ The Publish/Sync options allow access to paid services store and synchronize dat
 
 https://obsidian.md/pricing
 
+
+--- 
+
+Community Plugins
+
+Templater
+
+Paste URL into selection
+
+Kanban Board
+
+Calendar
+
+Mind Map
+
+DataView
+
+Editor Syntax Highlighter
