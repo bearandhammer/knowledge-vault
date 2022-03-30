@@ -21,7 +21,31 @@
               "leaf": "abd91818119a9cdd",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":37.785714285714285}"
+              "eState": "{\"scroll\":21.452380952380953}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🤔 202203271630 Workflow Learning.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":100.5952380952381}"
             },
             {
               "leaf": "abd91818119a9cdd",
@@ -229,14 +253,14 @@
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
     "🧪 Scratch/Blog Staging.md",
+    "🧪 Scratch/🤔 202203271630 Workflow Learning.md",
+    "🧪 Scratch/🐶 202203271636 Dog.md",
+    "🧪 Scratch/🙀 202203271629 Test Note.md",
     "Untitled Kanban.md",
     "🧪 Scratch/Untitled.md",
     "Recording 20220330084620.webm",
     "📧 Inbox/Untitled.md",
     "📧 Inbox/Nutrition guidelines for runners.md",
-    "📧 Inbox/What is Agile.md",
-    "📧 Inbox/Use nutrition to combat tiredness.md",
-    "🧪 Scratch/🙀 202203271629 Test Note.md",
-    "Cow.md"
+    "📧 Inbox/What is Agile.md"
   ]
 }

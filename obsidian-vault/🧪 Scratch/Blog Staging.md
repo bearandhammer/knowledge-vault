@@ -116,7 +116,12 @@ The Templater plugin allows you to craft custom templates for notes, inserting t
 
 Although simple, the Paste URL into selection has become my hot favourite. It allows you to highlight raw text and then paste URLs to create fully functioning links:
 
-If 
+If you wish to switch up a note and turn it into a fully functional Kanban Board, the Kanban Board plugin does just that (I've included screens of the board view and the raw markdown, for reference).
+
+The Calendar plugin integrates, you probably guessed it, a calendar into Obsidian. This does provide some tangible benefits, however, as it is possible to create note-based tasks that can be scheduled for review on target dates; metadata that is instantly visible on this calendar.
+
+The Mind Map plugin shows a targeted view of the various relationships diverging off of the current note (essentially a )
+
 
 Templater https://github.com/SilentVoid13/Templater
 
