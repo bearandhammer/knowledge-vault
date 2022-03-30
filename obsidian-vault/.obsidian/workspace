@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🧪 Scratch/Untitled.md",
+            "file": "🧪 Scratch/Blog Staging.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "abd91818119a9cdd",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "abd91818119a9cdd",
@@ -112,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧪 Scratch/Untitled.md",
+                "file": "🧪 Scratch/Blog Staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +193,8 @@
   },
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
-    "🧪 Scratch/Untitled.md",
     "🧪 Scratch/Blog Staging.md",
+    "🧪 Scratch/Untitled.md",
     "Recording 20220330084620.webm",
     "📧 Inbox/Untitled.md",
     "📧 Inbox/Nutrition guidelines for runners.md",

@@ -110,6 +110,10 @@ https://obsidian.md/pricing
 
 Community Plugins
 
+The following community plugins caught my attention, after a little bit of research (although I have yet to really get to grips with their full capabilities).
+
+The Templater plugin allows you to craft custom templates for notes, as you see fit
+
 Templater
 
 Paste URL into selection
