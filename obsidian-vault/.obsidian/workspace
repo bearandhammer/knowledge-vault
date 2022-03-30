@@ -7,11 +7,9 @@
         "id": "abd91818119a9cdd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "🧪 Scratch/Untitled.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban.md"
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +18,20 @@
             {
               "leaf": "abd91818119a9cdd",
               "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":99.04901960784314}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "abd91818119a9cdd",
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧪 Scratch/Untitled.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,20 +216,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
-    "🧪 Scratch/Untitled.md",
+    "Untitled Kanban.md",
     "🧪 Scratch/Blog Staging.md",
+    "🧪 Scratch/Untitled.md",
     "Recording 20220330084620.webm",
     "📧 Inbox/Untitled.md",
     "📧 Inbox/Nutrition guidelines for runners.md",
     "📧 Inbox/What is Agile.md",
     "📧 Inbox/Use nutrition to combat tiredness.md",
     "🧪 Scratch/🙀 202203271629 Test Note.md",
-    "Cow.md",
-    "Animals.md"
+    "Cow.md"
   ]
 }
