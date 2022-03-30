@@ -112,9 +112,13 @@ Community Plugins
 
 The following community plugins caught my attention, after a little bit of research (although I have yet to really get to grips with their full capabilities).
 
-The Templater plugin allows you to craft custom templates for notes, as you see fit
+The Templater plugin allows you to craft custom templates for notes, inserting the result of raw JavaScript functions, as you see fit; which over time will become an enormous time saver.
 
-Templater
+Although simple, the Paste URL into selection has become my hot favourite. It allows you to highlight raw text and then paste URLs to create fully functioning links:
+
+
+
+Templater https://github.com/SilentVoid13/Templater
 
 Paste URL into selection
 
