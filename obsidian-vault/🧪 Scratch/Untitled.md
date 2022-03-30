@@ -1,9 +1,9 @@
 # A Test Page
 
-yesterday
+[[2022-03-29]]
 
-tomorrow
+[[2022-03-30]]
 
 [[2022-03-31]]
 
-one week
+[[2022-04-06]]

@@ -124,6 +124,8 @@ The Mind Map plugin shows a targeted view of the various relationships diverging
 
 If you have the desire to write more complex queries against your knowledgebase data, the Dataview plugin enables querying by metadata using Dataview Query Language (SQL-like syntax) or JavaScript.
 
+I can definitely see that the Natural Language Dates plugin has legs; in this example you'll see 'inoneweek' being automatically resolved.
+
 Having some kind of syntax highlighting and copy code buttons is also a boon (check out the Editor Syntax Highlight and Copy button for code blocks plugins).
 
 I've listed the GitHub repositories for all of these plugins below:
