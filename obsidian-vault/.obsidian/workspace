@@ -4,105 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "abd91818119a9cdd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🧪 Scratch/Blog Staging.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":21.452380952380953}"
+        "id": "3a0f819ea6a91be6",
+        "type": "split",
+        "children": [
+          {
+            "id": "abd91818119a9cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧪 Scratch/Blog Staging.md",
+                "mode": "source",
+                "source": false
+              }
             },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🤔 202203271630 Workflow Learning.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":100.5952380952381}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Untitled Kanban.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":99.04901960784314}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":104.92857142857143}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":89.54761904761905}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":92.01190476190476}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":8.011904761904763}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🤔 202203271630 Workflow Learning.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🐶 202203271636 Dog.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/🙀 202203271629 Test Note.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":100.5952380952381}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Untitled Kanban.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":99.04901960784314}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":104.92857142857143}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":89.54761904761905}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":92.01190476190476}"
+                },
+                {
+                  "leaf": "abd91818119a9cdd",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
             }
-          ]
-        }
+          },
+          {
+            "id": "f2d42d496fe668c6",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "f2d42d496fe668c6",
+                  "group": null,
+                  "state": "{\"type\":\"mindmap\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -248,11 +274,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
     "🧪 Scratch/Blog Staging.md",
+    "Supplementary Blog Resources.md",
     "🧪 Scratch/🤔 202203271630 Workflow Learning.md",
     "🧪 Scratch/🐶 202203271636 Dog.md",
     "🧪 Scratch/🙀 202203271629 Test Note.md",
@@ -260,7 +288,6 @@
     "🧪 Scratch/Untitled.md",
     "Recording 20220330084620.webm",
     "📧 Inbox/Untitled.md",
-    "📧 Inbox/Nutrition guidelines for runners.md",
-    "📧 Inbox/What is Agile.md"
+    "📧 Inbox/Nutrition guidelines for runners.md"
   ]
 }
