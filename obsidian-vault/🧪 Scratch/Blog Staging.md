@@ -122,6 +122,7 @@ The Calendar plugin integrates, you probably guessed it, a calendar into Obsidia
 
 The Mind Map plugin shows a targeted view of the various relationships diverging off of the current note, allow a focused view of all of the links and easier navigation between them.
 
+If you have the desire to write more complex queries against your knowledgebase data, the Dataview p
 
 Templater https://github.com/SilentVoid13/Templater
 
