@@ -70,4 +70,18 @@ The plan, for me at least, is to build out (and then attempt to tie together) my
 
 Extra Resources
 
-I would recommend this superb YouTube resource (very long but well document with copious timestamps)
+I would recommend this superb YouTube resource (very long but well document with copious timestamps) for anyone wanting to go on an Obisidian journey.
+
+https://www.youtube.com/watch?v=wB89lJs5A3s
+
+As mentioned, the software itself is not open source but is highly extensible. Contributions in the form of plugins and themes are welcome and for those interested this repository is a good starting spot.
+
+https://github.com/obsidianmd/obsidian-releases
+
+--
+
+Core plugins
+
+Before looking at some community-driven plugins I wanted to take a very quick tour of some of the Core plugins bundled with Obsidian. Not all of these are enabled by default, so peruse the list and enable any that take your fancy.
+
+Some of the key 
