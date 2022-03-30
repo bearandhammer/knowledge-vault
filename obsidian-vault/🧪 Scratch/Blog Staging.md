@@ -54,3 +54,20 @@ Image
 From a Git GUI, such as Fork, you should observe the following:
 
 Image
+
+
+---
+
+My Current Vault
+
+If you want to checkout my current vault dedicated to weird and wonderful knowledge snippets (100% a stub-fest, at the time of writing) then you can find that here.
+
+https://github.com/bearandhammer/knowledge-vault
+
+The plan, for me at least, is to build out (and then attempt to tie together) my evolving thoughts on life, work, professional practices, programming, mindfulness, health and nutrition and see what seedlings form from the process. Perhaps these 'seedling' ideas will grow into something more, who knows!
+
+--
+
+Extra Resources
+
+I would recommend this superb YouTube resource (very long but well document with copious timestamps)
