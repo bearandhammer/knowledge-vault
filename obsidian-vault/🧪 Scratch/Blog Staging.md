@@ -160,7 +160,9 @@ Console.WriteLine(test);
 
 ---
 
-All images/gifs - captions and open in new tab. > 
-Handle all links (nicely format and open in new tab). > 
-Read all content - clear and correct? > 
+All images/gifs - captions and open in new tab. > DONE
+Handle all links (nicely format and open in new tab). > DONE
+Read all content - clear and correct? > DONE
 Grammarly pass > 
+Tags/Categories > 
+Post!!! > 
