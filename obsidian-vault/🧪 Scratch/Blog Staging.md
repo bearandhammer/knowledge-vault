@@ -91,7 +91,16 @@ Some of the key (and interesting ones to note) are as follows.
 
 File Explorer
 
+Obsidian comes with a stock File Explorer and Search capabilities (the standard search seems )
+
 Audio Recording in a Note
 
 
 ![[Recording 20220330085052.webm]]
+
+---
+
+The Publish/Sync options allow access to paid services store and synchronize data; which is why I am opting for the GitHub-based approach. Pricing details can be found here, if this is on interest.
+
+https://obsidian.md/pricing
+
