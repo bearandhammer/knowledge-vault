@@ -15,5 +15,7 @@
   "tag-wrangler",
   "templater-obsidian",
   "emoji-shortcodes",
-  "obsidian-metatable"
+  "obsidian-metatable",
+  "code-block-copy",
+  "cm-editor-syntax-highlight-obsidian"
 ]

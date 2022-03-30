@@ -124,19 +124,18 @@ The Mind Map plugin shows a targeted view of the various relationships diverging
 
 If you have the desire to write more complex queries against your knowledgebase data, the Dataview plugin enables querying by metadata using Dataview Query Language (SQL-like syntax) or JavaScript.
 
-Templater https://github.com/SilentVoid13/Templater
+Having some kind of syntax highlighting and copy code buttons is also a boon (check out the Editor Syntax Highlight and Copy button for code blocks plugins).
 
-Paste URL into selection
+I've listed the GitHub repositories for all of these plugins below:
 
-Kanban Board
-
-Calendar
-
-Mind Map
-
-DataView
-
-Editor Syntax Highlighter
+- Templater https://github.com/SilentVoid13/Templater
+- Paste URL into selection
+- Kanban Board
+- Calendar
+- Mind Map
+- Dataview
+- Editor Syntax Highlighter
+- Copy button for code blocks
 
 ## Blog Resources
 ### Main Resources
