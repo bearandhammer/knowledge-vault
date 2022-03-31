@@ -162,6 +162,13 @@ Console.WriteLine(test);
 All images/gifs - captions and open in new tab. > DONE
 Handle all links (nicely format and open in new tab). > DONE
 Read all content - clear and correct? > DONE
-Grammarly pass > 
-Tags/Categories > 
+Grammarly pass > DONE
+Tags/Categories > DONE
+Claire Pass > DONE
 Post!!! > 
+
+
+Copy...
+
+
+New blog post: @obsdmd #secondbrain #knowledgevault #notes #github #selfimproveme

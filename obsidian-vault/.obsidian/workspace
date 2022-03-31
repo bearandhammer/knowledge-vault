@@ -7,12 +7,22 @@
         "id": "abd91818119a9cdd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🧪 Scratch/Blog Staging.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":143.83652173913043}"
+            },
             {
               "leaf": "abd91818119a9cdd",
               "group": null,
@@ -126,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Blog Staging.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":0},\"to\":{\"line\":156,\"ch\":0}},\"scroll\":120.53174603174604}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧪 Scratch/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -210,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧪 Scratch/Blog Staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,9 +290,9 @@
   },
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
+    "🧪 Scratch/Blog Staging.md",
     "🧪 Scratch/Recording 20220330085011.webm.md",
     "🧪 Scratch/Recording 20220330085052.webm",
-    "🧪 Scratch/Blog Staging.md",
     "Pasted image 20220329084141.png",
     "Untitled Kanban.md",
     "Supplementary Blog Resources.md",
