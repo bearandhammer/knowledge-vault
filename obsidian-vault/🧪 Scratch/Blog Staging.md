@@ -171,4 +171,4 @@ Post!!! >
 Copy...
 
 
-New blog post: @obsdmd #secondbrain #knowledgevault #notes #github #selfimproveme
+New blog post: Happy Friday to you all! A fun foray to find of discovery; join me to find out 'What is Obsidian (and adding the magic dust of GitHub Integration)?' @obsdmd #secondbrain #knowledgevault #notes #github #selfimprovement
