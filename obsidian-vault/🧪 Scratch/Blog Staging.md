@@ -168,9 +168,7 @@ Claire Pass > DONE
 Post!!! > DONE
 
 
-Copy...
+Copy (for Twitter, Facebook and LinkedIn)...
 
 
 New blog post: Happy Friday to you all! A fun foray to find of discovery; join me to find out 'What is Obsidian (and adding the magic dust of GitHub Integration)?' @obsdmd #secondbrain #knowledgevault #notes #github #selfimprovement
-
-Auto Pull Interview = should be Auto Pull Interview
