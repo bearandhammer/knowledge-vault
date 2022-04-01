@@ -165,7 +165,7 @@ Read all content - clear and correct? > DONE
 Grammarly pass > DONE
 Tags/Categories > DONE
 Claire Pass > DONE
-Post!!! > 
+Post!!! > DONE
 
 
 Copy...
