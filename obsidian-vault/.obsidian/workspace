@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📧 Inbox/Frog & Pencil Website Improvements.md",
+            "file": "📧 Inbox/March 2022 Highlights Blog.md",
             "mode": "source",
             "source": false
           }
@@ -20,7 +20,13 @@
             {
               "leaf": "abd91818119a9cdd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Frog & Pencil Website Improvements.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/March 2022 Highlights Blog.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "abd91818119a9cdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Frog & Pencil Website Improvements.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"video\",\"state\":{\"file\":\"📰 Blog Notes (Archive)/Recording 20220330085052.webm\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "abd91818119a9cdd",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Untitled Kanban.md\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📧 Inbox/Frog & Pencil Website Improvements.md",
+                "file": "📧 Inbox/March 2022 Highlights Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,8 +290,8 @@
   },
   "active": "abd91818119a9cdd",
   "lastOpenFiles": [
-    "📧 Inbox/Frog & Pencil Website Improvements.md",
     "📧 Inbox/March 2022 Highlights Blog.md",
+    "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
     "📧 Inbox/Hydration aids.md",
     "📧 Inbox/What is Agile.md",
     "📧 Inbox/Use nutrition to combat tiredness.md",
