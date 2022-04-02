@@ -1,6 +1,6 @@
 
 ---
-tags: 🧪
+tags: 📰
 ---
 
 # Blog Staging
