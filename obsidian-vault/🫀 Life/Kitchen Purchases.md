@@ -13,8 +13,8 @@ tags: 🫀
 - [ ] 🔶 Baskets.
 - [ ] 🔶 Plate shelves.
 - [x] 🔶 Roller caddy for under the sink.
-- [ ] 🔶 Sticky trays (3M command strips).
-- [ ] 🔶 Bottle hooks (3M command strips).
+- [x] 🔶 Sticky trays (3M command strips).
+- [x] 🔶 Bottle hooks (3M command strips).
 - [ ] 🔶 Glass bottles for washing up liquid, hand soap and counter spray.
 - [x] 🔶 Olive oil glass bottle (set with base?).
 - [ ] 🔶 Drawer organisers/dividers.
