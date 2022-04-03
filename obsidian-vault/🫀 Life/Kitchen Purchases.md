@@ -11,14 +11,14 @@ tags: 🫀
 - [x] 🔶 Joseph Joseph cutlery organiser.
 - [x] 🔶 Joseph Joseph sink caddy.
 - [ ] 🔶 Baskets.
-- [ ] 🔶 Plate shelves.
+- [x] 🔶 Plate shelves.
 - [x] 🔶 Roller caddy for under the sink.
 - [x] 🔶 Sticky trays (3M command strips).
 - [x] 🔶 Bottle hooks (3M command strips).
 - [x] 🔶 Glass bottles for washing up liquid, hand soap and counter spray.
 - [x] 🔶 Olive oil glass bottle (set with base?).
 - [x] 🔶 Drawer organisers/dividers.
-- [ ] 🔶 Risers/dividers (shelves, plates).
+- [x] 🔶 Risers/dividers (shelves, plates).
 - [x] 🔶 Saucepan lid holder (back of doors).
 
 
