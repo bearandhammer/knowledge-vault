@@ -7,12 +7,22 @@
         "id": "a265ce3752c39ce2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🫀 Life/House Organisation Hacks.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/House Organisation Hacks.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":3},\"to\":{\"line\":4,\"ch\":3}}}"
+            },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
@@ -96,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🫀 Life/House Organisation Hacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +180,7 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "🫀 Life/House Organisation Hacks.md",
     "📧 Inbox/Nutrition guidelines for runners.md",
     "📰 Blog Notes (Archive)/Blog Staging.md",
     "📧 Inbox/March 2022 Highlights Blog.md",
@@ -177,7 +189,6 @@
     "📧 Inbox/What is Agile.md",
     "📧 Inbox/Use nutrition to combat tiredness.md",
     "🧪 Scratch/Recording 20220330085011.webm.md",
-    "📰 Blog Notes (Archive)/Recording 20220330085052.webm",
-    "Pasted image 20220329084141.png"
+    "📰 Blog Notes (Archive)/Recording 20220330085052.webm"
   ]
 }
