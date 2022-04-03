@@ -7,12 +7,22 @@
         "id": "a265ce3752c39ce2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🫀 Life/Kitchen Cribsheet.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Cribsheet.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.047619047619047616}"
+            },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
@@ -126,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/House Organisation Hacks.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":51.55059523809524}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Purchases.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             }
           ]
         }
@@ -210,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🫀 Life/Kitchen Cribsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382
+    "width": 382,
+    "collapsed": true
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
