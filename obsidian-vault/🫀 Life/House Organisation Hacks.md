@@ -24,6 +24,7 @@ tags: 🫀
 🔶 3m 'command' sticky trays the backs of doors.
 🔶 Cord wrappers (to stick to appliances).
 🔶 Joseph Joseph lid holders for pans.
+🔶 Over the sink cutting board (urm...game changer!).
 
 
 ### Notes
@@ -34,6 +35,11 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 
 ## Bathroom
 ---
+
+
+### Notes
+---
+
 
 ## Weird MacGuffins
 ---
