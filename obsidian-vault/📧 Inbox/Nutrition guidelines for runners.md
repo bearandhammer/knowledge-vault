@@ -18,3 +18,10 @@ Links from Claire:
 https://www.veganfoodandliving.com/vegan-lifestyle/running-on-plants-a-vegans-guide-to-running/
 
 https://www.veganfoodandliving.com/vegan-lifestyle/running-on-plants-a-vegans-guide-to-running/
+
+[Puresport](https://puresport.co/)
+
+[Puresport CBD balm](https://puresport.co/collections/pain-recovery/products/500mg-cbd-muscle-joint-balm-0-thc-50ml)
+
+[Puresport CBD Nootropics](https://puresport.co/collections/nootropics)
+
