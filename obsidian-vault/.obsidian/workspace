@@ -7,12 +7,22 @@
         "id": "a265ce3752c39ce2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🫀 Life/Kitchen Purchases.md",
+            "mode": "source",
+            "source": true
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Purchases.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
@@ -126,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Frog & Pencil Website Improvements.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Business Ideas.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -210,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🫀 Life/Kitchen Purchases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,8 +289,8 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
-    "🫀 Life/Kitchen Cribsheet.md",
     "🫀 Life/Kitchen Purchases.md",
+    "🫀 Life/Kitchen Cribsheet.md",
     "🫀 Life/House Organisation Hacks.md",
     "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
     "🐸 Frog & Pencil/Business Ideas.md",
