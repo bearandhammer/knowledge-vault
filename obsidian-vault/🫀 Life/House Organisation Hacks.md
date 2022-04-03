@@ -18,6 +18,7 @@ tags: 🫀
 🔶 Tension rod for use in the airing cupboard?
 🔶 Baskets for use under the sink.
 🔶 Joseph Joseph washing up drying rack.
+🔶 Under shelf storage trays/basket.
 
 
 ### Notes
