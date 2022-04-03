@@ -34,7 +34,7 @@ tags: 🫀
 🔶 Twist/lock stackable containers.
 🔶 Extendable drawer organiser (metal - Ikea).
 🔶 Magazine holder (space near radiator) - for cling film/foil! Great idea!
-:org
+🔶 Magnetic storage trays for the outside of a fridge (sit on the side)!
 
 
 ### Notes
