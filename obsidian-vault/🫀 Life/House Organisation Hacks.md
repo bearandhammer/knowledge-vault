@@ -21,7 +21,7 @@ tags: 🫀
 🔶 Under shelf storage trays/basket.
 🔶 Under sink caddy with wheels.
 🔶 3m 'command' spray bottle hooks for the back of doors (under the sink).
-🔶 3m 'command' sticky trays the backs of doors.
+🔶 3m 'command' sticky trays the backs of doors. Battery storage option also?
 🔶 Cord wrappers (to stick to appliances).
 🔶 Joseph Joseph lid holders for pans.
 🔶 Over the sink cutting board (urm...game changer!).

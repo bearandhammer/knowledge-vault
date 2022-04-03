@@ -2,5 +2,5 @@
 tags: 🐸
 ---
 
-# Frog & Pencil Website Improvements
+# Website Improvements
 
