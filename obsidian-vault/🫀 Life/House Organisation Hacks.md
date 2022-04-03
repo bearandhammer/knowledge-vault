@@ -52,4 +52,8 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 
 ---
 
+#### Additional Resources
+
 See also: [[Kitchenware Purchases]]
+
+##### Web links
