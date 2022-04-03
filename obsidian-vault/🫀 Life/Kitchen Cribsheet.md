@@ -44,10 +44,13 @@ The above list does not encapsulate items that we typical put in the fridge.
 🔶 Soy.
 🔶 Balsamic.
 🔶 Almond butter.
+🔶 Herbal/CBD teas.
 
 
 ### Notes
 ---
+
+Teas - could these be jarred?
 
 
 ## Fridge
@@ -91,7 +94,7 @@ Fridge - needs a separate re-organisation and tidy.
 🔶 Tupperware (and the damn lids!).
 🔶 Cutlery.
 🔶 Serving utensils.
-:
+🔶 Measuring utensils (cups/spoon measures).
 
 
 ### Notes
@@ -106,6 +109,7 @@ Better access and space for our Vitamix, coffee machine, etc would be a boon. Fr
 🔶 Bento boxes.
 🔶 Roasting dishes.
 🔶 Serving plates.
+🔶 Grater.
 
 
 ### Notes
