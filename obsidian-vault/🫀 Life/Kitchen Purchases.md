@@ -17,7 +17,7 @@ tags: 🫀
 - [x] 🔶 Bottle hooks (3M command strips).
 - [x] 🔶 Glass bottles for washing up liquid, hand soap and counter spray.
 - [x] 🔶 Olive oil glass bottle (set with base?).
-- [ ] 🔶 Drawer organisers/dividers.
+- [x] 🔶 Drawer organisers/dividers.
 - [ ] 🔶 Risers/dividers (shelves, plates).
 - [x] 🔶 Saucepan lid holder (back of doors).
 
