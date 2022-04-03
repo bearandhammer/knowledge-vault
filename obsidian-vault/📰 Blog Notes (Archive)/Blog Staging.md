@@ -171,4 +171,4 @@ Post!!! > DONE
 Copy (for Twitter, Facebook and LinkedIn)...
 
 
-New blog post: Happy Friday to you all! A fun foray to find of discovery; join me to find out 'What is Obsidian (and adding the magic dust of GitHub Integration)?' @obsdmd #secondbrain #knowledgevault #notes #github #selfimprovement
+New blog post: Happy Friday to you all! A fun foray of discovery; join me to find out 'What is Obsidian (and adding the magic dust of GitHub Integration)?' @obsdmd #secondbrain #knowledgevault #notes #github #selfimprovement
