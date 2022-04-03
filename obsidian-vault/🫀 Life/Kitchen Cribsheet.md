@@ -70,8 +70,7 @@ Fridge - needs a separate re-organisation and tidy.
 ---
 
 🔶 Vitamix.
-🔶 Coffee machine.
-🔶 Vitamix cups.
+🔶 Coffee grinder.
 🔶 Yeti coffee mugs.
 🔶 Deep blue bowls (porridge).
 🔶 Vitamix cups (shake).
@@ -81,25 +80,41 @@ Fridge - needs a separate re-organisation and tidy.
 🔶 New plates/bowls (dinners/soups).
 🔶 Toaster.
 🔶 Kettle.
-🔶 
-🔶 
-🔶 
-🔶 
-🔶
+🔶 Water filter jug.
+🔶 Kitchen foil/clingfilm.
+🔶 Mixing bowl.
+🔶 Digitial scales.
+🔶 Measuring jugs.
+🔶 Colander.
+🔶 Steamer.
+🔶 Roasting tins/trays.
+🔶 Tupperware (and the damn lids!).
+🔶 Cutlery.
+🔶 Serving utensils.
+:
 
 
 ### Notes
 ---
+
+Better access and space for our Vitamix, coffee machine, etc would be a boon. Fruit - side of the fridge?
 
 
 ## Less commonly used items, but still 1-2 times a week +.
 ---
 
+🔶 Bento boxes.
+🔶 Roasting dishes.
+🔶 Serving plates.
+
 
 ### Notes
 ---
 
+We should use our coconut bowls more often. 🥥
+
 
 #### Linked Resources
 ---
+
 See also: [[House Organisation Hacks]], [[Kitchen Purchases]]
