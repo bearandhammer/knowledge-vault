@@ -4,7 +4,7 @@ tags: 🫀
 
 # House Organisation Hacks
 
-## Kitchen
+## Kitchen 🍷
 ---
 
 🔶 Kitchen mug hooks.
@@ -35,13 +35,13 @@ tags: 🫀
 A lazy susan would be good where we have our plates -> we have a tonne of unused space to the left of our plates could be used.
  
 
-## Bathroom
+## Bathroom 🛁
 ---
 
 🔶 Extendable tile scrubber.
 
 
-## Airing Cupboard
+## Airing Cupboard 👕
 ---
 
 🔶 Shelf dividers for towels, etc.
@@ -56,7 +56,7 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 ---
 
 
-## Weird MacGuffins
+## Weird MacGuffins 👽
 ---
 
 🔶 Bag resealer (battery-powered) device.
@@ -66,7 +66,7 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 ---
 
 
-## Other Bits
+## Other Bits 🕸
 ---
 
 #### Linked Resources
@@ -80,4 +80,4 @@ See also: [[Kitchenware Purchases]]
 
 [10 AFFORDABLE HOUSEHOLD PRODUCTS YOU DIDN’T KNOW YOU NEEDED!](https://www.youtube.com/watch?v=mV8WD8d1USc)
 
-Kristen McGowan's Amazon Page ()
+[Kristen McGowan's Amazon Page (US)](https://www.amazon.com/shop/kristenmcgowan/list/2DYIRXVJU6CLP)
