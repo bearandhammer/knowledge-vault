@@ -5,7 +5,7 @@ tags: 🫀
 # Kitchen Purchases
 ---
 
-- [ ] 🔶 Fridge magnetic trays.
+- [x] 🔶 Fridge magnetic trays.
 - [ ] 🔶 Chopping board with drainer for over sink.
 - [ ] 🔶 Loads more jars and containers.
 - [x] 🔶 Joseph Joseph cutlery organiser.
@@ -39,3 +39,5 @@ More research required:
 ---
 
 See also: [[House Organisation Hacks]], [[Kitchen Cribsheet]]
+
+[Home Organisation Wish List](https://www.amazon.co.uk/hz/wishlist/ls/3BGLPZYHCKU79?ref_=wl_dp_view_your_list)
