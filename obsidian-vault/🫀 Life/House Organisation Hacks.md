@@ -50,10 +50,20 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 🔶 Bag resealer (battery-powered) device.
 
 
+### Notes
 ---
 
-#### Additional Resources
+
+## Other Bits
+---
+
+#### Linked Resources
+---
 
 See also: [[Kitchenware Purchases]]
 
-##### Web links
+
+#### Web links
+---
+
+[10 AFFORDABLE HOUSEHOLD PRODUCTS YOU DIDN’T KNOW YOU NEEDED!](https://www.youtube.com/watch?v=mV8WD8d1USc)
