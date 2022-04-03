@@ -14,7 +14,11 @@ tags: 🫀
 🔶 Risers/baskets to make use of vertical space.
 🔶 Lazy susan - to rotate for flour/baking goods.
 🔶 Joseph Joseph - compact cutlery organiser.
-🔶 Tension
+🔶 Tension rod for under the sink (hang bottles on - make use of vertical space).
+🔶 Tension rod for use in the airing cupboard?
+🔶 Baskets for use under the sink.
+🔶 Joseph Joseph washing up drying rack.
+
 
 ### Notes
 ---
