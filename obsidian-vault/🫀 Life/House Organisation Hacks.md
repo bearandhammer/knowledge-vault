@@ -33,6 +33,8 @@ tags: 🫀
 🔶 Tupperware container (with the lids)!
 🔶 Twist/lock stackable containers.
 🔶 Extendable drawer organiser (metal - Ikea).
+🔶 Magazine holder (space near radiator) - for cling film/foil! Great idea!
+:org
 
 
 ### Notes
@@ -87,3 +89,4 @@ See also: [[Kitchenware Purchases]]
 [10 AFFORDABLE HOUSEHOLD PRODUCTS YOU DIDN’T KNOW YOU NEEDED!](https://www.youtube.com/watch?v=mV8WD8d1USc)
 
 [Kristen McGowan's Amazon Page (US)](https://www.amazon.com/shop/kristenmcgowan/list/2DYIRXVJU6CLP)
+ 
