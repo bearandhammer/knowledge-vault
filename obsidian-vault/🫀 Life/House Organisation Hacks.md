@@ -30,7 +30,7 @@ tags: 🫀
 🔶 Use shower rings to hand tea towels/mitts off the oven. 🚿
 🔶 Plate racks for the cupboard.
 🔶 Shelf racks (stood up - metal).
-🔶 Tupperware container
+🔶 Tupperware container (with the lids)!
 
 
 ### Notes
