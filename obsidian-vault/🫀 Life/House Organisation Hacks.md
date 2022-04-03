@@ -27,6 +27,8 @@ tags: 🫀
 🔶 Over the sink cutting board (urm...game changer!).
 🔶 Sink caddy.
 🔶 Shelf dividers for trays/pans.
+🔶 Use shower rings to hand tea towels/mitts off the oven. 🚿
+🔶 Plate racks for the cupboard.
 
 
 ### Notes
