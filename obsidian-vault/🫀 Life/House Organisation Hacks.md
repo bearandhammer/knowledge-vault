@@ -32,6 +32,7 @@ tags: 🫀
 🔶 Shelf racks (stood up - metal).
 🔶 Tupperware container (with the lids)!
 🔶 Twist/lock stackable containers.
+🔶 Extendable drawer organiser (metal - Ikea).
 
 
 ### Notes
