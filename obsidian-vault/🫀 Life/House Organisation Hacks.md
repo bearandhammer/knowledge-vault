@@ -19,6 +19,8 @@ tags: 🫀
 🔶 Baskets for use under the sink.
 🔶 Joseph Joseph washing up drying rack.
 🔶 Under shelf storage trays/basket.
+🔶 Under sink caddy with wheels.
+🔶 3m 'command' spray bottle hooks for the back of doors (under the sink).
 
 
 ### Notes
