@@ -29,6 +29,8 @@ tags: 🫀
 🔶 Shelf dividers for trays/pans.
 🔶 Use shower rings to hand tea towels/mitts off the oven. 🚿
 🔶 Plate racks for the cupboard.
+🔶 Shelf racks (stood up - metal).
+🔶 Tupperware container
 
 
 ### Notes
