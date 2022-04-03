@@ -24,9 +24,11 @@ tags: 🫀
 🔶 Peanut Butter.
 🔶 Flax.
 🔶 Chia seeds.
-🔶 
-🔶
-🔶
+🔶 Chocolate (dark - squares for porridge/yoghurt).
+🔶 Fruit.
+🔶 Herbs.
+🔶 Spices.
+🔶 Tinned goods.
 
 
 ### Notes
@@ -41,12 +43,21 @@ The above list does not encapsulate items that we typical put in the fridge.
 🔶 Granola.
 🔶 Soy.
 🔶 Balsamic.
-🔶
-🔶
-🔶
-🔶
-🔶
-🔶
+🔶 Almond butter.
+
+
+### Notes
+---
+
+
+## Fridge
+---
+
+🔶 Vegetables.
+🔶 Milk (vg).
+🔶 Yoghurt (vg).
+🔶 Spreads/butter (vg).
+:
 
 ### Notes
 ---
