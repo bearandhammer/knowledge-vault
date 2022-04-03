@@ -25,3 +25,4 @@ https://www.veganfoodandliving.com/vegan-lifestyle/running-on-plants-a-vegans-gu
 
 [Puresport CBD Nootropics](https://puresport.co/collections/nootropics)
 
+[Puresport CBD for sleep](https://puresport.co/collections/sleep/products/unwind-oil)
