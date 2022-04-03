@@ -25,6 +25,7 @@ tags: 🫀
 🔶 Cord wrappers (to stick to appliances).
 🔶 Joseph Joseph lid holders for pans.
 🔶 Over the sink cutting board (urm...game changer!).
+🔶 Sink caddy.
 
 
 ### Notes
@@ -35,6 +36,8 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 
 ## Bathroom
 ---
+
+🔶 Extendable tile scrubber.
 
 
 ### Notes
