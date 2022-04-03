@@ -9,7 +9,7 @@ tags: 🫀
 - [x] 🔶 Chopping board with drainer for over sink.
 - [ ] 🔶 Loads more jars and containers.
 - [x] 🔶 Joseph Joseph cutlery organiser.
-- [ ] 🔶 Joseph Joseph sink caddy.
+- [x] 🔶 Joseph Joseph sink caddy.
 - [ ] 🔶 Baskets.
 - [ ] 🔶 Plate shelves.
 - [x] 🔶 Roller caddy for under the sink.
@@ -41,3 +41,6 @@ More research required:
 See also: [[House Organisation Hacks]], [[Kitchen Cribsheet]]
 
 [Home Organisation Wish List](https://www.amazon.co.uk/hz/wishlist/ls/3BGLPZYHCKU79?ref_=wl_dp_view_your_list)
+
+[Joseph Joseph Draining Board](https://www.josephjoseph.com/products/extend-dishrack-grey)
+
