@@ -8,18 +8,18 @@ tags: 🫀
 - [ ] 🔶 Fridge magnetic trays.
 - [ ] 🔶 Chopping board with drainer for over sink.
 - [ ] 🔶 Loads more jars and containers.
-- [ ] 🔶 Joseph Joseph cutlery organiser.
+- [x] 🔶 Joseph Joseph cutlery organiser.
 - [ ] 🔶 Joseph Joseph sink caddy.
 - [ ] 🔶 Baskets.
 - [ ] 🔶 Plate shelves.
-- [ ] 🔶 Roller caddy for under the sink.
+- [x] 🔶 Roller caddy for under the sink.
 - [ ] 🔶 Sticky trays (3M command strips).
 - [ ] 🔶 Bottle hooks (3M command strips).
 - [ ] 🔶 Glass bottles for washing up liquid, hand soap and counter spray.
 - [ ] 🔶 Olive oil glass bottle (set with base?).
 - [ ] 🔶 Drawer organisers/dividers.
 - [ ] 🔶 Risers/dividers (shelves, plates).
-- [ ] 🔶 Saucepan lid holder (back of doors).
+- [x] 🔶 Saucepan lid holder (back of doors).
 
 
 ## Larger Purchases
