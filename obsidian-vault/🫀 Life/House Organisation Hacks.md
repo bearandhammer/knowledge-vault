@@ -26,6 +26,7 @@ tags: 🫀
 🔶 Joseph Joseph lid holders for pans.
 🔶 Over the sink cutting board (urm...game changer!).
 🔶 Sink caddy.
+🔶 Shelf dividers for trays/pans.
 
 
 ### Notes
@@ -38,6 +39,17 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 ---
 
 🔶 Extendable tile scrubber.
+
+
+## Airing Cupboard
+---
+
+🔶 Shelf dividers for towels, etc.
+
+
+### Notes
+---
+
 
 
 ### Notes
@@ -67,3 +79,5 @@ See also: [[Kitchenware Purchases]]
 ---
 
 [10 AFFORDABLE HOUSEHOLD PRODUCTS YOU DIDN’T KNOW YOU NEEDED!](https://www.youtube.com/watch?v=mV8WD8d1USc)
+
+Kristen McGowan's Amazon Page ()
