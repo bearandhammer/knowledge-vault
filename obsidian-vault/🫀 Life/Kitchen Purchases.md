@@ -16,7 +16,7 @@ tags: 🫀
 - [ ] 🔶 Sticky trays (3M command strips).
 - [ ] 🔶 Bottle hooks (3M command strips).
 - [ ] 🔶 Glass bottles for washing up liquid, hand soap and counter spray.
-- [ ] 🔶 Olive oil glass bottle (set with base?).
+- [x] 🔶 Olive oil glass bottle (set with base?).
 - [ ] 🔶 Drawer organisers/dividers.
 - [ ] 🔶 Risers/dividers (shelves, plates).
 - [x] 🔶 Saucepan lid holder (back of doors).
@@ -43,4 +43,6 @@ See also: [[House Organisation Hacks]], [[Kitchen Cribsheet]]
 [Home Organisation Wish List](https://www.amazon.co.uk/hz/wishlist/ls/3BGLPZYHCKU79?ref_=wl_dp_view_your_list)
 
 [Joseph Joseph Draining Board](https://www.josephjoseph.com/products/extend-dishrack-grey)
+
+[Olive Oil Dispenser](https://www.etsy.com/uk/listing/1004736097/glass-bottles-olive-oilvinegar-pourer?click_key=4756b1a0dadae7525cef432561c9bc532b12e37b%3A1004736097&click_sum=16b4eac3&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=home+tailor&ref=sr_gallery-1-1&organic_search_click=1&frs=1&pop=1)
 
