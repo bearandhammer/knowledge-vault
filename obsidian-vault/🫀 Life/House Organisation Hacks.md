@@ -26,7 +26,6 @@ tags: 🫀
 🔶 Joseph Joseph lid holders for pans.
 
 
-
 ### Notes
 ---
 
@@ -36,6 +35,10 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 ## Bathroom
 ---
 
+## Weird MacGuffins
+---
+
+🔶 Bag resealer (battery-powered) device.
 
 
 ---
