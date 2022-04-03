@@ -23,6 +23,7 @@ tags: 🫀
 🔶 3m 'command' spray bottle hooks for the back of doors (under the sink).
 🔶 3m 'command' sticky trays the backs of doors.
 🔶 Cord wrappers (to stick to appliances).
+🔶 Joseph Joseph lid holders for pans.
 
 
 
@@ -34,3 +35,7 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 
 ## Bathroom
 ---
+
+
+
+See also: [[Kitchenware Purposes]]
