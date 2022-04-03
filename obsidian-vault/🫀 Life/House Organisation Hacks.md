@@ -81,7 +81,7 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 #### Linked Resources
 ---
 
-See also: [[Kitchenware Purchases]]
+See also: [[Kitchen Purchases]], [[Kitchen Cribsheet]]
 
 
 #### Web links
