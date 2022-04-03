@@ -22,6 +22,7 @@ tags: 🫀
 🔶 Under sink caddy with wheels.
 🔶 3m 'command' spray bottle hooks for the back of doors (under the sink).
 🔶 3m 'command' sticky trays the backs of doors.
+🔶 Cord wrappers (to stick to appliances).
 
 
 
