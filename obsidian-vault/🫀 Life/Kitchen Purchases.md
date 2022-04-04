@@ -22,6 +22,12 @@ tags: 🫀
 - [x] 🔶 Saucepan lid holder (back of doors).
 
 
+### Notes
+---
+
+Jars/containers - need to wait until we have cleared out the space to figure out exactly what additions we need.
+
+
 ## Larger Purchases
 ---
 
