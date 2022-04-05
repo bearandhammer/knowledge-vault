@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📧 Inbox/March 2022 Highlights Blog.md",
+            "file": "💻 Programming/Azure Data Lake Resources.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Azure Data Lake Resources.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/March 2022 Highlights Blog.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6086956521739131}"
+              "eState": "{\"scroll\":0.38095238095238093}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/House Organisation Hacks.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":1.9523809523809523}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Purchases.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📧 Inbox/March 2022 Highlights Blog.md",
+                "file": "💻 Programming/Azure Data Lake Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "💻 Programming/Azure Data Lake Resources.md",
     "📧 Inbox/March 2022 Highlights Blog.md",
     "🫀 Life/Kitchen Purchases.md",
     "🫀 Life/House Organisation Hacks.md",
@@ -297,7 +298,6 @@
     "🐸 Frog & Pencil/Business Ideas.md",
     "📧 Inbox/Nutrition guidelines for runners.md",
     "📰 Blog Notes (Archive)/Archive/Blog Staging.md",
-    "📧 Inbox/Hydration aids.md",
-    "📧 Inbox/What is Agile.md"
+    "📧 Inbox/Hydration aids.md"
   ]
 }
