@@ -26,7 +26,10 @@ ABS -[hidden]> ASMS
 
 package "Azure Web" {
 [Azure CDN] as ACDN
-[Frog Pencil Web] as FPW
-[Frog Pencil Admin] as AS FPA
+[Frog & Pencil Web] as FPW
+[Frog & Pencil Admin] as FPA
+
+ACDN -[hidden]-> FPW
+FPW -[hidden]-> FPA
 }
 ```
