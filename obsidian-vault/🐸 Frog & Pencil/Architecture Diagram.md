@@ -25,8 +25,11 @@ node "Utility" as UT {
 [Cloudflare] as CF
 }
 
-DS --d-> WEB
-WEB --r-> UT
+DS -[hidden]d-> WEB
+WEB -[hidden]r-> UT
+
+DS <|-- WEB
+UT <|-- WEB
 ```
 	
 ```plantuml
