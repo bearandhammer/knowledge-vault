@@ -8,7 +8,11 @@ The following is a basic architecture diagram for the refresh Frog & Pencil web 
 
 ```plantuml
 package "Data Storage" {
-[Azure Cosmos DB (MongoDB API)]
+[Azure Blob Storage] as ABS
+
+note left of ABS
+	This is to the left
+end note
 }
 ```
 
