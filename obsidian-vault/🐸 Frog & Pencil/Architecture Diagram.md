@@ -7,6 +7,11 @@ tags: 🐸
 The following is a basic architecture diagram for the refresh Frog & Pencil web platform.
 
 ```plantuml
+package "Data Storage" {
+[Azure Cosmos DB (MongoDB API)]
+}
+```
+
 package "Some Group" {
   HTTP - [First Component]
   [Another Component]
@@ -35,4 +40,3 @@ database "MySql" {
 [Another Component] --> [Example 1]
 [Example 1] --> [Folder 3]
 [Folder 3] --> [Frame 4]
-```
