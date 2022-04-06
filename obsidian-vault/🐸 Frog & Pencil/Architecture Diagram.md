@@ -64,7 +64,6 @@ component "F&P Web" as FPW {
 }
 
 cloud "Cloudflare" as CF {
-
 }
 
 component "F&P Admin" as FPA {
@@ -87,12 +86,12 @@ note bottom of FPA
     Blazor, TypeScript, Bulma, ChartJS.
 end note
 
-note left of ASMS
+note top of ASMS
     FY data and Identity Server.
 end note
 
 note right of ACDN
-    Serves content at the 'edge'
+    Serves content at the 'edge'.
 end note
 
 ABS <-- ACDN
@@ -100,11 +99,11 @@ ABS <-- FPA
 ACDN <-- FPW
 ACDN <-- FPA
 ASMS <-- FPA
-FPA --> CF
-CF <-- FPW
+FPA <-- CF
+CF --> FPW
 
-FPA -[hidden]l> CF
-FPW -[hidden]l> CF
+FPA -[hidden]> CF
+FPW -[hidden]> CF
 ```
 
 
