@@ -37,6 +37,11 @@ component {
 	LineThickness 1
 	LineColor black
 }
+cloud {
+	BackgroundColor #d8e887
+	LineThickness 1
+	LineColor black
+}
 database {
 	BackgroundColor #87b2e8
 	LineThickness 1
@@ -55,6 +60,18 @@ storage "Azure Blob Storage" as ABS {
 database "Azure SQL MS" as ASMS {
 }
 
+component "F&P Web" as FPW {
+}
+
+component "F&P Admin" as FPA {
+}
+
+cloud "Azure CDN" as ACDN {
+}
+
+ABS --> ACDN
+ACDN --> FPW
+AC
 ```
 
 
