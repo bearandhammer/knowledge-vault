@@ -9,10 +9,13 @@ The following is a basic architecture diagram for the refresh Frog & Pencil web 
 ```plantuml
 package "Data Storage" {
 [Azure Blob Storage] as ABS
+[Azure SQL Managed Service]
 
 note left of ABS
-	This is to the left
+	Used to store Page metadata 
+	and minified JS/CSS resources.
 end note
+
 }
 ```
 
