@@ -20,6 +20,7 @@ tags: 🫀
 - [x] 🔶 Drawer organisers/dividers.
 - [x] 🔶 Risers/dividers (shelves, plates).
 - [x] 🔶 Saucepan lid holder (back of doors).
+- [x] 🔶 [New pasta plate (busted!).](https://www.thewhitecompany.com/uk/Portobello-Pasta-Bowl/p/CRHOA?swatch=Grey)
 
 
 ### Notes
@@ -45,6 +46,10 @@ More research required:
 ---
 
 See also: [[House Organisation Hacks]], [[Kitchen Cribsheet]]
+
+
+#### Other Docs
+---
 
 [Home Organisation Wish List](https://www.amazon.co.uk/hz/wishlist/ls/3BGLPZYHCKU79?ref_=wl_dp_view_your_list)
 
