@@ -63,6 +63,10 @@ database "Azure SQL MS" as ASMS {
 component "F&P Web" as FPW {
 }
 
+cloud "Cloudflare" as CF {
+
+}
+
 component "F&P Admin" as FPA {
 }
 
@@ -92,10 +96,15 @@ note right of ACDN
 end note
 
 ABS <-- ACDN
-ACDN <-- FPW
 ABS <-- FPA
+ACDN <-- FPW
 ACDN <-- FPA
 ASMS <-- FPA
+FPA --> CF
+CF <-- FPW
+
+FPA -[hidden]l> CF
+FPW -[hidden]l> CF
 ```
 
 
