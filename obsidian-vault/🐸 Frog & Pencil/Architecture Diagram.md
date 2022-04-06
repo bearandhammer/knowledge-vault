@@ -7,11 +7,21 @@ tags: 🐸
 The following is a basic architecture diagram for the refresh Frog & Pencil web platform.
 
 ```plantuml
-node Data Storage as ds {
+node "Data Storage" as ds {
 [Item 1]
 [Item 2]
 }
-node Web as web {}
+node "Web" as web {
+[Item 3]
+[Item 4]
+}
+node "Utility" as ut {
+[Item 5]
+[Item 6]
+}
+
+ds -[hidden]-> web
+web -[hidden]> ut
 ```
 
 ```plantuml
