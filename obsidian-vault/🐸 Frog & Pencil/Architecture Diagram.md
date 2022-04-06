@@ -74,24 +74,26 @@ note top of ABS
 end note
 
 note bottom of FPW  
-    PFW note 
+    Frog & Pencil core site. Using
+    Blazor, TypeScript, Bulma. 
 end note
 
 note bottom of FPA
-    PFA note 
+    Frog & Pencil admin site. Using
+    Blazor, TypeScript, Bulma, ChartJS.
 end note
 
 note left of ASMS
-    ASMS note 
+    FY data and Identity Server.
 end note
 
 note right of ACDN
     Serves content at the 'edge'
 end note
 
-
 ABS <-- ACDN
 ACDN <-- FPW
+ABS <-- FPA
 ACDN <-- FPA
 ASMS <-- FPA
 ```
