@@ -31,13 +31,30 @@ WEB -[hidden]r-> UT
 	
 
 ```plantuml
+<style>
+component {
+	BackgroundColor #b487e8
+	LineThickness 1
+	LineColor black
+}
 database {
 	BackgroundColor #87b2e8
 	LineThickness 1
-	LineColor grey
+	LineColor black
+}
+storage {
+	BackgroundColor #87e8c4
+	LineThickness 1
+	LineColor black
+}
+</style>
+
+storage "Azure Blob Storage" as ABS {
 }
 
-database
+database "Azure SQL MS" as ASMS {
+}
+
 ```
 
 
