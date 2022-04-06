@@ -7,7 +7,7 @@ tags: 🐸
 The following is a basic architecture diagram for the refresh Frog & Pencil web platform.
 
 ```plantuml
-package "Data Storage" {
+package "Azure Data Storage" {
 [Azure Blob Storage] as ABS
 [Azure SQL Managed Service] as ASMS
 
@@ -21,5 +21,12 @@ note top of ASMS
 end note
 
 ABS -[hidden]> ASMS
+}
+
+
+package "Azure Web" {
+[Azure CDN] as ACDN
+[Frog Pencil Web] as FPW
+[Frog Pencil Admin] as AS FPA
 }
 ```
