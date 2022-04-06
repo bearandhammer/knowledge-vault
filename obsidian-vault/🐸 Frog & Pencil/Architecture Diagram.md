@@ -55,6 +55,7 @@ storage {
 </style>
 
 storage "Azure Blob Storage" as ABS {
+	note top: On last defined class
 }
 
 database "Azure SQL MS" as ASMS {
@@ -69,9 +70,11 @@ component "F&P Admin" as FPA {
 cloud "Azure CDN" as ACDN {
 }
 
-ABS --> ACDN
-ACDN --> FPW
-AC
+
+ABS <-- ACDN
+ACDN <-- FPW
+ACDN <-- FPA
+ASMS <-- FPA
 ```
 
 
