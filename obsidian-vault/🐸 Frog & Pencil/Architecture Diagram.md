@@ -55,7 +55,6 @@ storage {
 </style>
 
 storage "Azure Blob Storage" as ABS {
-	note top: On last defined class
 }
 
 database "Azure SQL MS" as ASMS {
@@ -69,6 +68,26 @@ component "F&P Admin" as FPA {
 
 cloud "Azure CDN" as ACDN {
 }
+
+note top of ABS  
+    Store page meta, images and resources.
+end note
+
+note bottom of FPW  
+    PFW note 
+end note
+
+note bottom of FPA
+    PFA note 
+end note
+
+note left of ASMS
+    ASMS note 
+end note
+
+note right of ACDN
+    Serves content at the 'edge'
+end note
 
 
 ABS <-- ACDN
