@@ -30,3 +30,14 @@ WEB -[hidden]r-> UT
 ```
 	
 
+```plantuml
+database {
+	BackgroundColor #87b2e8
+	LineThickness 1
+	LineColor grey
+}
+
+database
+```
+
+
