@@ -20,10 +20,10 @@ node "Utility" as ut {
 [Item 6]
 }
 
-ds -[hidden]-> web
-web -[hidden]> ut
+ds -[hidden]d-> web
+web -[hidden]r-> ut
 ```
-
+	
 ```plantuml
 node Node1 as n1
 node "Node 2" as n2
