@@ -60,6 +60,8 @@ storage "Azure Blob Storage" as ABS {
 database "Azure SQL MS" as ASMS {
 }
 
+circle Request as REQ
+
 component "F&P Web" as FPW {
 }
 
@@ -101,9 +103,10 @@ ACDN <-- FPA
 ASMS <-- FPA
 FPA <-- CF
 CF --> FPW
+REQ --> CF
 
-FPA -[hidden]> CF
-FPW -[hidden]> CF
+FPA -[hidden]-> CF
+FPW -[hidden]-> CF
 ```
 
 
