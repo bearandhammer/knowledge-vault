@@ -7,21 +7,26 @@ tags: 🐸
 The following is a basic architecture diagram for the refresh Frog & Pencil web platform.
 
 ```plantuml
-node "Data Storage" as ds {
-[Item 1]
-[Item 2]
-}
-node "Web" as web {
-[Item 3]
-[Item 4]
-}
-node "Utility" as ut {
-[Item 5]
-[Item 6]
+node "Data Storage" as DS {
+[Azure Blob Storage] as ABS
+[Azure SQL MS] as ASMS
 }
 
-ds -[hidden]d-> web
-web -[hidden]r-> ut
+node "Web" as WEB {
+[Azure CDN] as ACDN
+[F&P Web] as FPW
+[F&P Admin] as FPA
+
+ACDN -[hidden]d-> FPW
+FPW -[hidden]d-> FPA
+}
+
+node "Utility" as UT {
+[Cloudflare] as CF
+}
+
+DS -[hidden]d-> WEB
+WEB -[hidden]r-> UT
 ```
 	
 ```plantuml
