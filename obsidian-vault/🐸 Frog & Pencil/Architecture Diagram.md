@@ -105,6 +105,7 @@ FPA <-- CF
 CF --> FPW
 REQ --> CF
 
+CF -[hidden]d-> REQ
 FPA -[hidden]-> CF
 FPW -[hidden]-> CF
 ```
