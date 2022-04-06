@@ -20,7 +20,7 @@ note top of ASMS
 	Used to store F&P FY data.
 end note
 
-ABS -[hidden]> ASMS
+ABS -[hidden]d-> ASMS
 }
 
 
@@ -30,5 +30,24 @@ node "Azure Web" as AW {
 [Frog & Pencil Admin] as FPA
 }
 
-ADS -d-> AW
+ADS -[hidden]-> AW
+```
+
+```plantuml
+node Node1 as n1
+node "Node 2" as n2
+file f1 as "File 1"
+cloud c1 as "this
+is
+a
+cloud"
+cloud c2 [this
+is
+another
+cloud]
+
+n1 -> n2
+n1 --> f1
+f1 -> c1
+c1 -> c2
 ```
