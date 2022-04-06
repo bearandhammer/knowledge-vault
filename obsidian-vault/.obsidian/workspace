@@ -11,7 +11,7 @@
           "state": {
             "file": "🐸 Frog & Pencil/Architecture Diagram.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +20,8 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Architecture Diagram.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":1.1428571428571428}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Architecture Diagram.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "a265ce3752c39ce2",

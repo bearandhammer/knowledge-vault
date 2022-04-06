@@ -7,30 +7,11 @@ tags: 🐸
 The following is a basic architecture diagram for the refresh Frog & Pencil web platform.
 
 ```plantuml
-node "Azure Data Storage" as ADS {
-[Azure Blob Storage] as ABS
-[Azure SQL Managed Service] as ASMS
-
-note top of ABS
-	Used to store Page metadata, images
-	and minified JS/CSS resources.
-end note
-
-note top of ASMS
-	Used to store F&P FY data.
-end note
-
-ABS -[hidden]d-> ASMS
+node Data Storage as ds {
+[Item 1]
+[Item 2]
 }
-
-
-node "Azure Web" as AW {
-[Azure CDN] as ACDN
-[Frog & Pencil Web] as FPW
-[Frog & Pencil Admin] as FPA
-}
-
-ADS -[hidden]-> AW
+node Web as web {}
 ```
 
 ```plantuml
@@ -51,3 +32,31 @@ n1 --> f1
 f1 -> c1
 c1 -> c2
 ```
+
+note top of ABS
+	Used to store Page metadata, images
+	and minified JS/CSS resources.
+end note
+
+note top of ASMS
+	Used to store F&P FY data.
+end note
+
+node "Azure Data Storage" as ADS {
+[Azure S] as ABS
+[Azure SQL] as ASMS
+
+ABS -[hidden]d-> ASMS
+}
+
+
+node "Azure Web" as AW {
+[Azure C] as ACDN
+[Frog P Web] as FPW
+[Frog Admin] as FPA
+
+ACDN -[hidden]d-> FPW
+FPW -[hidden]d-> FPA
+}
+
+ADS -[hidden]d-> AW
