@@ -17,16 +17,16 @@ node "Web" as WEB {
 [F&P Web] as FPW
 [F&P Admin] as FPA
 
-ACDN -[hidden]d-> FPW
-FPW -[hidden]d-> FPA
+ACDN -[hidden]d-> FPA
+FPA -[hidden]d-> FPW
 }
 
 node "Utility" as UT {
 [Cloudflare] as CF
 }
 
-DS -[hidden]d-> WEB
-WEB -[hidden]r-> UT
+DS --d-> WEB
+WEB --r-> UT
 ```
 	
 ```plantuml
