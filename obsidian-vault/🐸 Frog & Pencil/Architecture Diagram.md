@@ -72,7 +72,6 @@ component "F&P Admin" as FPA {
 }
 
 component "Identity Server" as IS {
-
 }
 
 cloud "Azure CDN" as ACDN {
@@ -110,12 +109,10 @@ CF <--> FPW
 REQ <--> CF
 FPA <--> IS
 FPW <--> IS
-IS <--> ASMS
 
 CF -[hidden]d-> REQ
 FPA -[hidden]-> CF
 FPW -[hidden]-> CF
-FPA -[hidden]r-> IS
 ```
 
 
