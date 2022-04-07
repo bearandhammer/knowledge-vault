@@ -71,6 +71,10 @@ cloud "Cloudflare" as CF {
 component "F&P Admin" as FPA {
 }
 
+component "Identity Server" as IS {
+
+}
+
 cloud "Azure CDN" as ACDN {
 }
 
@@ -96,18 +100,22 @@ note right of ACDN
     Serves content at the 'edge'.
 end note
 
-ABS <-- ACDN
-ABS <-- FPA
-ACDN <-- FPW
-ACDN <-- FPA
-ASMS <-- FPA
-FPA <-- CF
-CF --> FPW
-REQ --> CF
+ABS <--> ACDN
+ABS <--> FPA
+ACDN <--> FPW
+ACDN <--> FPA
+ASMS <--> FPA
+FPA <--> CF
+CF <--> FPW
+REQ <--> CF
+FPA <--> IS
+FPW <--> IS
+IS <--> ASMS
 
 CF -[hidden]d-> REQ
 FPA -[hidden]-> CF
 FPW -[hidden]-> CF
+FPA -[hidden]r-> IS
 ```
 
 
