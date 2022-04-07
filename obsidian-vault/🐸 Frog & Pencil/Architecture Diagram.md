@@ -108,11 +108,13 @@ FPA <--> CF
 CF <--> FPW
 REQ <--> CF
 IS <--> ASMS
+FPA <--> IS
 
 CF -[hidden]d-> REQ
 FPA -[hidden]-> CF
 FPW -[hidden]-> CF
 ASMS -[hidden]-> IS
+FPA -[hidden]-> IS
 ```
 
 
