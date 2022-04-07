@@ -71,10 +71,10 @@ cloud "Cloudflare" as CF {
 component "F&P Admin" as FPA {
 }
 
-component "Identity Server" as IS {
+cloud "Azure CDN" as ACDN {
 }
 
-cloud "Azure CDN" as ACDN {
+component "Identity Server" as IS {
 }
 
 note top of ABS  
@@ -107,14 +107,12 @@ ASMS <--> FPA
 FPA <--> CF
 CF <--> FPW
 REQ <--> CF
-FPA <--> IS
-FPW <--> IS
+IS <--> ASMS
 
 CF -[hidden]d-> REQ
 FPA -[hidden]-> CF
 FPW -[hidden]-> CF
-FPA -[hidden]> IS
-FPW -[hidden]> FPA
+ASMS -[hidden]-> IS
 ```
 
 
