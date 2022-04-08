@@ -4,7 +4,7 @@ tags: 🐸
 
 # Architecture Diagram
 
-The following is a basic architecture diagram for the refresh Frog & Pencil web platform.
+The following arebasic architecture diagrams for the refresh Frog & Pencil web platform.
 
 ```plantuml
 node "Data Storage" as DS {
@@ -118,3 +118,10 @@ FPA -[hidden]-> IS
 ```
 
 
+Page meta - could be relational in SQL?
+
+Need blob storage anyway for CDN (images, css, js).
+
+Bulma? Gulp? Definitely TypeScript.
+
+Charting - chartJS?
