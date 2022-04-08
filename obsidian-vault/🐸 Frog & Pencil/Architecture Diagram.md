@@ -122,6 +122,6 @@ Page meta - could be relational in SQL?
 
 Need blob storage anyway for CDN (images, css, js).
 
-Bulma? Gulp? Definitely TypeScript.
+Bulma? Gulp? Definitely TypeScript. SASS approach.
 
 Charting - chartJS?
