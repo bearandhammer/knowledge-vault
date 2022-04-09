@@ -277,3 +277,72 @@ docker pull mcr.microsoft.com/mssql/server:2017-latest
  
 
 SQL SA: [XXX]
+
+---
+
+version: '3.1'
+
+ 
+
+services:
+
+  sql-server-db:
+
+    container_name: sql-server-db
+
+    image: mcr.microsoft.com/mssql/server:2017-latest
+
+    restart: always
+
+    ports:
+
+      - "1433:1433"
+
+    environment:
+
+      SA_PASSWORD: "[SOME_PASSWORD]"
+
+      ACCEPT_EULA: "Y"
+
+
+version: '3.1'
+
+ 
+
+services:
+
+  mongo:
+
+    image: mongo
+
+    restart: always
+
+    environment:
+
+      MONGO_INITDB_ROOT_USERNAME: root
+
+      MONGO_INITDB_ROOT_PASSWORD: [SOME_OTHER_PASSWORD]
+
+    ports:
+
+      - 27017:27017
+
+  mongo-express:
+
+    image: mongo-express
+
+    restart: always
+
+    ports:
+
+      - 8081:8081
+
+    environment:
+
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+
+      ME_CONFIG_MONGODB_ADMINPASSWORD: [SOME_OTHER_PASSWORD]
+
+    depends_on:
+
+      - mongo
