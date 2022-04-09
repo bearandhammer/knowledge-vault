@@ -174,7 +174,16 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose up
 ```
 
+---
+
+https://docs.microsoft.com/en-us/windows/wsl/wsl-config
+
+
+
 ### Connectivity
+
+---
+
 
 ```text
 sudo apt install net-tools
@@ -191,6 +200,8 @@ Set-ExecutionPolicy -Scope CurrentUser
 ```
 
 Type RemoteSigned
+
+---
 
 
 
