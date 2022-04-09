@@ -13,16 +13,23 @@ TBD!
 ## Clear Down
 ---
 
-Navigate to Settings -> Apps & features -> Docker Destop and uninstall the current installation.
+Before starting, ensure you you remove any current installation of Docker Desktop (taking appropriate backup measures as required). Navigate to Settings -> Apps & features -> Search for Docker Destop and uninstall the current installation.
 
 
 ## Install WSL2 (Ubuntu)
+---
+
+To install WSL run the following command from the terminal (I'm using the terminal inside Visual Studio code).
 
 ```
 wsl --install -d ubuntu
 ```
 
+After running this command you should see an Ubuntu terminal pop into existence. Provive a default UNIX user account name of your choice and provide a password (and confirm it) when prompted.
+
 ![[ubuntu-startup-post-installation.jpg]]
+
+
 
 ![[ubuntu-terminal-in-vs-code.jpg]]
 
