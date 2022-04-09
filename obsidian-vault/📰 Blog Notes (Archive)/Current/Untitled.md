@@ -178,6 +178,10 @@ docker-compose up
 
 https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 
+```php
+sudo chown -R myuser /path/to/folder
+```
+
 
 
 ### Connectivity
@@ -315,67 +319,64 @@ SQL SA: [XXX]
 
 version: '3.1'
 
- 
+  
 
 services:
 
-  sql-server-db:
+ sql-server-db:
 
-    container_name: sql-server-db
+ container_name: sql-server-db
 
-    image: mcr.microsoft.com/mssql/server:2017-latest
+ image: mcr.microsoft.com/mssql/server:2017-latest
 
-    restart: always
+ restart: always
 
-    ports:
+ ports:
 
-      - "1433:1433"
+ - "1433:1433"
 
-    environment:
+ environment:
 
-      SA_PASSWORD: "[SOME_PASSWORD]"
+ SA_PASSWORD: "{PASSWORD}"
 
-      ACCEPT_EULA: "Y"
+ ACCEPT_EULA: "Y"
 
+ mongo:
 
-version: '3.1'
+ image: mongo:latest
 
- 
+ container_name: mongo-db
 
-services:
+ restart: always
 
-  mongo:
+ environment:
 
-    image: mongo
+ MONGO_INITDB_ROOT_USERNAME: root
 
-    restart: always
+ MONGO_INITDB_ROOT_PASSWORD: {PASSWORD}
 
-    environment:
+ ports:
 
-      MONGO_INITDB_ROOT_USERNAME: root
+ - 27017:27017
 
-      MONGO_INITDB_ROOT_PASSWORD: [SOME_OTHER_PASSWORD]
+ mongo-express:
 
-    ports:
+ image: mongo-express:0.54
 
-      - 27017:27017
+ container_name: mongo-express
 
-  mongo-express:
+ restart: always
 
-    image: mongo-express
+ ports:
 
-    restart: always
+ - 8081:8081
 
-    ports:
+ environment:
 
-      - 8081:8081
+ ME_CONFIG_MONGODB_ADMINUSERNAME: root
 
-    environment:
+ ME_CONFIG_MONGODB_ADMINPASSWORD: {PASSWORD}
 
-      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+ depends_on:
 
-      ME_CONFIG_MONGODB_ADMINPASSWORD: [SOME_OTHER_PASSWORD]
-
-    depends_on:
-
-      - mongo
+ - mongo
