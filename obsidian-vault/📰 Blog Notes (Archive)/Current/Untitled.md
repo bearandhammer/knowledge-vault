@@ -112,6 +112,23 @@ Press 'Y' and then enter to confirm ->
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
+Start the Docker Engine:
+
+```text
+sudo service docker start
+```
+
+Verify docker is running:
+
+```text
+docker -v
+```
+
+You should see verification, something like `Docker version 20.10.14, build a224086` .
+
+### Hello World!
+
+
 
 ### Manage Docker as non-root User
 
@@ -126,7 +143,6 @@ $USER = your UNIX user.
 ```text
 sudo usermod -aG docker $USER
 ```
-
 
 
 ### Original Source Notes
