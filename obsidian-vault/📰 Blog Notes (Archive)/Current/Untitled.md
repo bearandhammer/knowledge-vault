@@ -144,6 +144,18 @@ $USER = your UNIX user.
 sudo usermod -aG docker $USER
 ```
 
+## Get SQL
+
+```text
+docker pull mcr.microsoft.com/mssql/server:2017-latest
+```
+
+
+```
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD={YOUR_STRONG_PASSWORD}" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest
+```
+
+https://hub.docker.com/_/microsoft-mssql-server
 
 ### Original Source Notes
 
@@ -246,7 +258,7 @@ newgrp docker
 docker pull mcr.microsoft.com/mssql/server
 
  
-
+docker pull mcr.microsoft.com/mssql/server:2017-latest
  
 
 SQL SA: [XXX]
