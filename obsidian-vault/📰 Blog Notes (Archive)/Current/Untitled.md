@@ -172,6 +172,10 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 
 
+```text
+docker-compose up
+```
+
 ### Original Source Notes
 
 wsl --install -d ubuntu
