@@ -29,9 +29,21 @@ After running this command you should see an Ubuntu terminal pop into existence.
 
 ![[ubuntu-startup-post-installation.jpg]]
 
-
+With the installation complete, I noted that VS Code added a Ubuntu (WSL) option for use when creating new terminal windows, nice!
 
 ![[ubuntu-terminal-in-vs-code.jpg]]
+
+I've gone through this process a couple of times and it is possible that version 1, instead of 2, can be installed. Verify this by using the following command (back in powershell for the moment):
+
+```text
+wsl -l -v
+```
+
+Check the version as follows:
+
+![[check-wsl-ubuntu-version.jpg]]
+
+If you are running version 1, this can be easily altered by using the following command:
 
 ```text
 wsl --set-version Ubuntu 2
@@ -39,6 +51,9 @@ wsl --set-version Ubuntu 2
 
 
 ## Install Docker Engine on WSL2
+
+As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which, if you are following this guide,)
+
 In order to resynchronise `apt`  
 
 ```text
