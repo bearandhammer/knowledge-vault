@@ -52,15 +52,21 @@ wsl --set-version Ubuntu 2
 
 ## Install Docker Engine on WSL2
 
-As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which, if you are following this guide,)
+As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which you, if you are following this guide, should have already done so). Then, for sanity, I ran the following to ensure I have all Docker components fully removed (again, running this in powershell):
 
-In order to resynchronise `apt`  
+```text
+sudo apt-get remove docker docker-engine docker.io containerd runc
+```
+
+A prerequisite to installing the Docker Engine itself is to set up a Docker repository. Once in place, you can install and update Docker from this repository.
+
+In order to resynchronise `apt`  package indexes (from source) run the following.
 
 ```text
 sudo apt-get update
 ```
 
-Then run, hitting 'Y' and enter when prompted to continue.
+The `app` package tool can be configured to a repository over https as follow. (press 'Y' and enter when prompted to continue):
 
 ```text
 sudo apt-get install \
@@ -123,6 +129,7 @@ sudo apt-get install \
                
 
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+
 
  
 
