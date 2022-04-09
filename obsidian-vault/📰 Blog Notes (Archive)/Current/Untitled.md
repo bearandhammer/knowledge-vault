@@ -146,6 +146,8 @@ sudo usermod -aG docker $USER
 
 ## Get SQL
 
+Test run...
+
 ```text
 docker pull mcr.microsoft.com/mssql/server:2017-latest
 ```
@@ -154,6 +156,16 @@ docker pull mcr.microsoft.com/mssql/server:2017-latest
 ```
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD={YOUR_STRONG_PASSWORD}" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest
 ```
+
+
+### Docker Compose
+
+Check latest version: https://docs.docker.com/compose/install/
+
+```text
+sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+```
+
 
 
 ### Original Source Notes
