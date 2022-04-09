@@ -60,6 +60,8 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 A prerequisite to installing the Docker Engine itself is to set up a Docker repository. Once in place, you can install and update Docker from this repository.
 
+Back over to the WSL terminal window...
+
 In order to resynchronise `apt`  package indexes (from source) run the following.
 
 ```text
@@ -86,7 +88,15 @@ For more information on GPG see: https://www.digitalocean.com/community/tutorial
 
 Why use a GPG key for downloading packages: https://www.quora.com/Why-do-we-require-a-GPG-key-downloading-Docker-packages
 
-In essence, we want to ensure we are dealing with unmodified, source material when downloading packages over 
+In essence, we want to ensure we are dealing with unmodified and secure source material when downloading packages.
+
+To finish configuration
+
+```
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+```
 
 ### Original Source Notes
 
