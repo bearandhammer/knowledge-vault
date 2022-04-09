@@ -187,8 +187,10 @@ Restart-Service LxssManager
 Run as admin:
 
 ```None
-Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy -Scope CurrentUser
 ```
+
+Type RemoteSigned
 
 
 
