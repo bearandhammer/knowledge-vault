@@ -32,23 +32,21 @@ wsl --set-version Ubuntu 2
 
 
 ## Install Docker Engine on WSL2
+In order to resynchronise `apt`  
 
 ```text
 sudo apt-get update
 ```
 
+Then run, hitting 'Y' and enter when prompted to continue.
+
 ```text
 sudo apt-get install \
-
     ca-certificates \
-
     curl \
-
     gnupg \
-
-	lsb-release
+    lsb-release
 ```
-
 
 ### Original Source Notes
 
