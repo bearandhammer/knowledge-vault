@@ -18,18 +18,41 @@ Navigate to Settings -> Apps & features -> Docker Destop and uninstall the curre
 
 ## Install WSL2 (Ubuntu)
 
+```
+wsl --install -d ubuntu
+```
+
+![[ubuntu-startup-post-installation.jpg]]
+
+![[ubuntu-terminal-in-vs-code.jpg]]
+
 ```text
 wsl --set-version Ubuntu 2
 ```
 
 
-
 ## Install Docker Engine on WSL2
+
+```text
+sudo apt-get update
+```
+
+```text
+sudo apt-get install \
+
+    ca-certificates \
+
+    curl \
+
+    gnupg \
+
+	lsb-release
+```
 
 
 ### Original Source Notes
 
-wsl --install -d ubuntu 2
+wsl --install -d ubuntu
 
  
 
