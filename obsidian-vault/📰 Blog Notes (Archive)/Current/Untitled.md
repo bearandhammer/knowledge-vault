@@ -184,6 +184,14 @@ https://superuser.com/questions/1594420/cant-access-127-0-0-180-outside-of-wsl2-
 
 Restart-Service LxssManager
 
+Run as admin:
+
+```None
+Set-ExecutionPolicy RemoteSigned
+```
+
+
+
 ### Original Source Notes
 
 wsl --install -d ubuntu
