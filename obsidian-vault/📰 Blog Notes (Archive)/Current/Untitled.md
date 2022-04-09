@@ -113,6 +113,20 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
 
+### Manage Docker as non-root User
+
+```text
+sudo groupadd docker
+```
+
+$USER = your UNIX user.
+
+```text
+sudo usermod -aG docker $USER
+```
+
+
+
 ### Original Source Notes
 
 wsl --install -d ubuntu
