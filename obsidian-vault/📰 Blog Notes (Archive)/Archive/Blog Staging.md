@@ -3,7 +3,7 @@
 tags: 📰
 ---
 
-# Blog Staging
+# Obsidian & Git (original blog notes)
 
 Get whatever flavour of installation underway that you require. Once complete, you'll be presented with the following once your start the application:
 
