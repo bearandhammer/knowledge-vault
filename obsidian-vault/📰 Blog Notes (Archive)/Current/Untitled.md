@@ -170,11 +170,18 @@ sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-c
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-
-
 ```text
 docker-compose up
 ```
+
+### Connectivity
+
+```text
+sudo apt install net-tools
+```
+
+https://superuser.com/questions/1594420/cant-access-127-0-0-180-outside-of-wsl2-ubuntu-20-04
+
 
 ### Original Source Notes
 
