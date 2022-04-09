@@ -115,6 +115,8 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 ### Manage Docker as non-root User
 
+Mine already existed (assuming the installation step created this). Verify by running anyway (will just prompt that it already exists):
+
 ```text
 sudo groupadd docker
 ```
