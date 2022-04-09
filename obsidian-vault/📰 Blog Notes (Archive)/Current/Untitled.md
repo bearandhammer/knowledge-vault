@@ -52,6 +52,8 @@ wsl --set-version Ubuntu 2
 
 ## Install Docker Engine on WSL2
 
+### Setup a Docker Repository
+
 As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which you, if you are following this guide, should have already done so). Then, for sanity, I ran the following to ensure I have all Docker components fully removed (again, running this in powershell):
 
 ```text
@@ -80,7 +82,7 @@ sudo apt-get install \
 
 To save from any security headaches we next retrieve the official Docker GPG key: 
 
-```
+```text
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 ```
 
@@ -90,13 +92,26 @@ Why use a GPG key for downloading packages: https://www.quora.com/Why-do-we-requ
 
 In essence, we want to ensure we are dealing with unmodified and secure source material when downloading packages.
 
-To finish configuration
+To finish configuring a ***stable*** repository execute the following:
 
-```
+```text
 echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
+
+### Install Docker Engine
+
+```text
+sudo apt-get update
+```
+
+Press 'Y' and then enter to confirm ->
+
+```text
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+
 
 ### Original Source Notes
 
