@@ -76,6 +76,18 @@ sudo apt-get install \
     lsb-release
 ```
 
+To save from any security headaches we next retrieve the official Docker GPG key: 
+
+```
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+```
+
+For more information on GPG see: https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages
+
+Why use a GPG key for downloading packages: https://www.quora.com/Why-do-we-require-a-GPG-key-downloading-Docker-packages
+
+In essence, we want to ensure we are dealing with unmodified, source material when downloading packages over 
+
 ### Original Source Notes
 
 wsl --install -d ubuntu
@@ -129,9 +141,6 @@ sudo apt-get install \
                
 
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-
-
- 
 
 echo \
 
