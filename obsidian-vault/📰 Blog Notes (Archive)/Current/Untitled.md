@@ -182,7 +182,7 @@ In the WSL VS Code window you should now see these additional panes in the Explo
 As a test run, which we will tear down in short order, let's try and pull down the latest SQL Server 2017 Image for kicks. Hit up the WSL terminal and start by pulling the Image.
 
 ```bash
-docker pull mcr.microsopft.com/mssql/server:2017-latest
+docker pull mcr.microsoft.com/mssql/server:2017-latest
 ```
 
 Verify the existence of the Image by running:
