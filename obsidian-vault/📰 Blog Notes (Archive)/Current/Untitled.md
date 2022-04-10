@@ -292,7 +292,19 @@ Next, let's take Mongo Express for a spin by attempting to access it via 'http:/
 
 IMAGE
 
-For SQL, if you have SSMS (although there are other ways, including a CLI interface, to verify this works) you can do the following.
+For SQL, if you have SSMS (although there are other ways, including a CLI interface, to verify this works) you can follow this process. The first thing you'll need is the generated Container name for SQL Server, which you can obtain using 'docker container ls':
+
+IMAGE
+
+With this in hand, pop on over to SSMS and adjust the 'Server name' using the following convention, ensuring you use the 'sa' password you specified in your 'docker-compose.yml' file during setup (the port should be 1433):
+
+```text
+convention: 127.0.0.1\{container-name}, {container-port}
+```
+
+IMAGE
+
+You should now be connected to your SQL instance running in Docker!
 
 It is possible to right-click on any Container entity in VS Code and 'inspect' (get configuration details), get 'Statistics' or scour 'Logs' as required, so you've always got plenty of actions you can take if you end up getting caught out. 
 
