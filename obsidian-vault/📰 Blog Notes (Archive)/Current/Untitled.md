@@ -159,7 +159,13 @@ sudo usermod -aG docker $USER
 
 ## Tooling
 
-Two key extensions to obtain at this point, before going any further, are 'Remote - WSL' and 'Docker Explorer'. Remote WSL enables you to connect to and open folders within WSL, enabling you to open a version of Visual Studio Code in the context of WSL. With Visual Studio Code 
+Two key extensions to obtain at this point, before going any further, are 'Remote - WSL' and 'Docker Explorer'. Remote WSL enables you to connect to and open folders within WSL, enabling you to open a version of VS Code in the context of WSL. With VS Code connected to WSL you can add extensions just to this particular 'flavour' of VS Code; this is where Docker Explorer comes in. When installing Docker Explorer in the WSL connected application context extra functionality is added to the standard Explorer pane, allowing management of Images and Containers using GUI components.
+
+Start with installing Remote WSL in VS Code, as shown:
+
+IMAGE
+
+
 
 ## Get SQL
 
