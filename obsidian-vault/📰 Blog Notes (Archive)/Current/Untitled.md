@@ -211,9 +211,13 @@ docker container ls -a
 
 ### Docker Compose
 
-In my use case, I have created a simple 'docker-compose.yml' file that is designed to provide a stock SQL Server (2017) setup alongside a MongoDB instance, 
+In my use case, I have created a simple 'docker-compose.yml' file that is designed to provide a stock SQL Server (2017) setup alongside a MongoDB instance, with Mongo Express in play so I have a basic web frontend.
+
+To begin, you'll need to install the latest version of Docker Compose. Use this link as a reference...
 
 Check latest version: https://docs.docker.com/compose/install/
+
+...then, run the following commands in tow to install it and apply executable permissions to the binary:
 
 ```text
 sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
@@ -223,11 +227,15 @@ sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-c
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
+
+
 ```text
 docker-compose up
 ```
 
 ---
+
+## WSL Refinements
 
 https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 
