@@ -183,6 +183,33 @@ sudo chown -R myuser /path/to/folder
 ```
 
 
+wsl.conf
+
+```
+[boot]
+command = service docker start
+```
+
+---
+
+.wslconfig
+
+```
+# Settings apply across all Linux distros running on WSL 2
+[wsl2]
+
+# Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB
+memory=2GB 
+
+# Sets the VM to use two virtual processors
+processors=2
+
+# Turn off default connection to bind WSL 2 localhost to Windows localhost
+localhostforwarding=true
+
+# Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging
+debugConsole=true
+
 
 ### Connectivity
 
