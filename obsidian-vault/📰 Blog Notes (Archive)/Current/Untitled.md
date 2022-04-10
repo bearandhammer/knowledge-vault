@@ -167,7 +167,15 @@ IMAGE
 
 Then, on the footer bar in VS Code, in the bottom lefthand corner, you can 'Open a Remote Window':
 
-This will open a subset of command pallette options 
+IMAGE
+
+This will open a subset of command palette options, when you can select a 'New WSL Window':
+
+IMAGE
+
+Picking this will launch a new instance of VS Code bound to WSL. So far, so good! Inside this new window instance we then need to hunt out Docker Explorer. I very much messed up here on my first run through and installed this as an extension in the wrong environment, if you happen to do this by mistake you'll see, as per my second screenshot below, that VS Code will prompt you to 'Install in WSL: Ubuntu':
+
+In the WSL VS Code window you should now see the 
 
 ## Get SQL
 
