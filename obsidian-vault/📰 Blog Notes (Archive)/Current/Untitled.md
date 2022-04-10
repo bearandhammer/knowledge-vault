@@ -165,7 +165,9 @@ Start with installing Remote WSL in VS Code, as shown:
 
 IMAGE
 
+Then, on the footer bar in VS Code, in the bottom lefthand corner, you can 'Open a Remote Window':
 
+This will open a subset of command pallette options 
 
 ## Get SQL
 
