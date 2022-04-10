@@ -2,12 +2,12 @@
 tags: 📰
 ---
 
-# Docker on Windows with WSL2
+# Docker on Windows with WSL 2
 
 ## Intro
 ---
 
-TBD!
+With the licensing changes around Docker Desktop I've been on a journey to investigate the possibilities of just running the Docker Engine, with other kinds of tooling and WSL 2 (Window Subsystem for Linux).
 
 
 ## Clear Down
