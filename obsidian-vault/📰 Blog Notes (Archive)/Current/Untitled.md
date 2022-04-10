@@ -177,12 +177,12 @@ Picking this will launch a new instance of VS Code bound to WSL. So far, so good
 
 In the WSL VS Code window you should now see these additional panes in the Explorer where you can manage Images and Containers (double-clicking an entity will run a command to get filtered details for the particular Container).
 
-## Get SQL
+## Spin up a SQL Server 2017 (Latest) Container
 
-Test run...
+As a test run, which we will tear down in short order, let's try and pull down the latest SQL Server 2017 Image for kicks.  Let's start by pulling the image.
 
 ```text
-docker pull mcr.microsoft.com/mssql/server:2017-latest
+docker pull mcr.microsopft.com/mssql/server:2017-latest
 ```
 
 Verify the existence of the Image by running:
@@ -312,7 +312,11 @@ It is possible to right-click on any Container entity in VS Code and 'inspect' (
 
 ## WSL Refinements
 
+Two additional files can be used to tailor and smarten up your configuration; the 'wsl.config' and 'wsl.conf'. For a complete list of options available you can peruse this link.
+
 https://docs.microsoft.com/en-us/windows/wsl/wsl-config
+
+
 
 ```php
 sudo chown -R myuser /path/to/folder
@@ -369,6 +373,10 @@ Set-ExecutionPolicy -Scope CurrentUser
 Type RemoteSigned
 
 ---
+
+## Starting WSL on Startup (Windows)
+
+For extra brownie points and cherries on top you could opt to start WSL on boot of Windows. This article looks like a great starting point to get you squared away:
 
 https://medium.com/swlh/how-to-run-ubuntu-in-wsl2-at-startup-on-windows-10-c4567d6c48f1
 
