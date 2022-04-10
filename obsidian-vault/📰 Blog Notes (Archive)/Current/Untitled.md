@@ -227,7 +227,46 @@ sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-c
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
+You can use the following example 'docker-compose.yml' file as a guide. At the time of writing this guide the 'latest' image for 'mongo-express' was pulling a pre-alpha version, which caused complete and utter chaos with my local setup. Please review all versions and ensure you are happy with the settings before proceeding.
 
+```yml
+version: '3.1'
+
+services:
+  sql-server-db:
+    container_name: sql-server-db
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    restart: always
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "{YOUR_STRONG_PASSWORD}"
+      ACCEPT_EULA: "Y"
+  mongo:
+    image: mongo:latest
+    container_name: mongo-db
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: {PASSWORD}
+    ports:
+      - 27017:27017
+  mongo-express:
+    image: mongo-express:0.54
+    container_name: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: {PASSWORD}
+    depends_on:
+      - mongo
+```
+
+The Mongo passwords (and other values, such as ports) do not require quotes, although the convention here is something to be investigated further. You'll also note that 'restart: always' is specified, which means you will not have to manually start Containers in future when Docker springs into life.
+
+Place a file called 'docker-compose.yml' into your Windows file system with the above content, I have placed this in a folder called 'DockerCompose'
 
 ```text
 docker-compose up
