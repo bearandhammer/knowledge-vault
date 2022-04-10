@@ -201,13 +201,13 @@ Once this is completed, verify the image is up and running as follows:
 docker container ls
 ```
 
-If you specifiy a password that does not meet the SQL Server requirements you may find that the container doesn't start up, which isn't an issue as we'll be deleting this momentarily to pull Images and spin up Containers using Docker Compose. The Container may be in a restart/retry loop, but you can check that it exists by running:
+If you specify a password that does not meet the SQL Server requirements you may find that the container doesn't start up, which isn't an issue as we'll be deleting this momentarily to pull Images and spin up Containers using Docker Compose. The Container may be in a restart/retry loop, but you can check that it exists by running:
 
 ```bash
 docker container ls -a
 ```
 
-### Docker Compose
+### Switch Up to using Docker Compose
 
 In my use case, I have created a simple 'docker-compose.yml' file that is designed to provide a stock SQL Server (2017) setup alongside a MongoDB instance, with Mongo Express in play so I have a basic web frontend.
 
