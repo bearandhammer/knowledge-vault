@@ -26,7 +26,7 @@ You do have options around which Linux distribution you want, but for ease and b
 
 To install WSL run the following command from the terminal (I'm using the powershell terminal inside Visual Studio code).
 
-```
+```shell
 wsl --install -d ubuntu
 ```
 
@@ -61,9 +61,9 @@ wsl --set-version Ubuntu 2
 
 For the next set of commands we will be executing these using the Ubuntu (WSL) terminal in Visual Studio Code (or something like bash if you are connected to WSL already).
 
-As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which you, if you are following this guide, should have already done so). Then, for sanity, I ran the following to ensure I have all Docker components fully removed (again, running this in powershell):
+As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which you, if you are following this guide, should have already done so). Then, for sanity, I ran the following to ensure I have all Docker components fully removed:
 
-```text
+```bash
 sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 
@@ -73,13 +73,13 @@ Back over to the WSL terminal window...
 
 In order to resynchronise `apt`  package indexes (from source) run the following.
 
-```text
+```bash
 sudo apt-get update
 ```
 
 The `app` package tool can be configured to a repository over https as follow. (press 'Y' and enter when prompted to continue):
 
-```text
+```bash
 sudo apt-get install \
     ca-certificates \
     curl \
@@ -89,7 +89,7 @@ sudo apt-get install \
 
 To save from any security headaches we next retrieve the official Docker GPG key: 
 
-```text
+```bash
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 ```
 
@@ -101,7 +101,7 @@ In essence, we want to ensure we are dealing with unmodified and secure source m
 
 To finish configuring a ***stable*** repository execute the following:
 
-```text
+```bash
 echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
@@ -109,25 +109,25 @@ echo \
 
 ### Install Docker Engine
 
-```text
+```bash
 sudo apt-get update
 ```
 
 Press 'Y' and then enter to confirm ->
 
-```text
+```bash
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
 Start the Docker Engine:
 
-```text
+```bash
 sudo service docker start
 ```
 
 Verify docker is running:
 
-```text
+```bash
 docker -v
 ```
 
@@ -135,7 +135,7 @@ You should see verification, something like `Docker version 20.10.14, build a224
 
 Let's run the Docker hello-world image and confirm we're fully up and running:
 
-```text
+```bash
 docker run hello-world
 ```
 
@@ -146,13 +146,13 @@ Adding your specific UNIX user to the 'docker' group is a particular nice piece 
 
 The 'docker' group already existed in my case, with my assumption being that the engine installation created this for me. You are able to verify this with the following command regardless, and this will prompt if the group already exists:
 
-```text
+```bash
 sudo groupadd docker
 ```
 
 To add your UNIX user to the group, run this command, substituting in your username in place of '$USER':
 
-```text
+```bash
 sudo usermod -aG docker $USER
 ```
 
@@ -181,31 +181,31 @@ In the WSL VS Code window you should now see these additional panes in the Explo
 
 As a test run, which we will tear down in short order, let's try and pull down the latest SQL Server 2017 Image for kicks. Hit up the WSL terminal and start by pulling the Image.
 
-```text
+```bash
 docker pull mcr.microsopft.com/mssql/server:2017-latest
 ```
 
 Verify the existence of the Image by running:
 
-```text
+```bash
 docker image ls
 ```
 
 Then, let's spin up a SQL Server instance for the latest 2017 image that we have just pulled down. Ensure that you specify a strong password in place of '{YOUR_STRONG_PASSWORD}' (that meets the password requirements for SQL Server).
 
-```
+```bash
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD={YOUR_STRONG_PASSWORD}" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest
 ```
 
 Once this is completed, verify the image is up and running as follows:
 
-```text
+```bash
 docker container ls
 ```
 
 If you specifiy a password that does not meet the SQL Server requirements you may find that the container doesn't start up, which isn't an issue as we'll be deleting this momentarily to pull Images and spin up Containers using Docker Compose. The Container may be in a restart/retry loop, but you can check that it exists by running:
 
-```text
+```bash
 docker container ls -a
 ```
 
@@ -219,11 +219,11 @@ Check latest version: https://docs.docker.com/compose/install/
 
 ...then, run the following commands in tow to install it and apply executable permissions to the binary:
 
-```text
+```bash
 sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
 ```
 
-```text
+```bash
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
