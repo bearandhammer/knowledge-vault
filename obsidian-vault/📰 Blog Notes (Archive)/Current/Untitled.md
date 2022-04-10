@@ -284,7 +284,10 @@ docker-compose up
 
 ## Verify Setup
 
+Verifying you are in a good spot isn't too tricky. 
 
+
+It is possible to right-click on any Container entity in VS Code and 'inspect', get 'Statistics' or 
 
 ---
 
