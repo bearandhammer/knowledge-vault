@@ -284,10 +284,17 @@ docker-compose up
 
 ## Verify Setup
 
-Verifying you are in a good spot isn't too tricky. 
+Verifying you are in a good spot isn't too tricky. First, in VS Code, verify that Containers are present and running (denoted with a green colour), as illustrated:
 
+IMAGE
 
-It is possible to right-click on any Container entity in VS Code and 'inspect', get 'Statistics' or 
+Next, let's take Mongo Express for a spin by attempting to access it via 'http://localhost:8081' (the default port for this installation). You should see the web interface in all its glory:
+
+IMAGE
+
+For SQL, if you have SSMS (although there are other ways, including a CLI interface, to verify this works) you can do the following.
+
+It is possible to right-click on any Container entity in VS Code and 'inspect' (get configuration details), get 'Statistics' or scour 'Logs' as required, so you've always got plenty of actions you can take if you end up getting caught out. 
 
 ---
 
