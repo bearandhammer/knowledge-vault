@@ -9,24 +9,28 @@ tags: 📰
 
 With the licensing changes around Docker Desktop I've been on a journey to investigate the possibilities of just running the Docker Engine, with other kinds of tooling and WSL 2 (Window Subsystem for Linux). For someone who is mostly focusing (at the moment) of leveraging this for development purposes I'm happy to not be mired in licensing woes; with an added bonus being that I get some further understanding of the 'guts' around how all of this operates.
 
-I've pooled together numerous sources and gone through the basic setup I followed. Where I have bolted together components from other articles/b
+I've pooled together numerous sources and gone through the basic setup I followed. Where I have bolted together components from other articles/blogs I have provided a detailed breakdown to cite all sources (so many thanks to everyone who has produced excellent content on this so far).
 
-## Clear Down
+Here's how my adventure went down, buckle up!
+
+## Clear Down Existing Docker Components
 ---
 
-Before starting, ensure you you remove any current installation of Docker Desktop (taking appropriate backup measures as required). Navigate to Settings -> Apps & features -> Search for Docker Destop and uninstall the current installation.
+Before starting, ensure you you remove any current installation of Docker Desktop (taking appropriate backup measures as required). Navigate to 'Settings -> Apps & features -> Search for Docker Destop' and select uninstall. With this removed, you are primed to install WSL 2 on Windows.
 
 
-## Install WSL2 (Ubuntu)
+## Install WSL 2 (Ubuntu)
 ---
 
-To install WSL run the following command from the terminal (I'm using the terminal inside Visual Studio code).
+You do have options around which Linux distribution you want, but for ease and brevity (and familiarity if I am being brutally honest) I moored myself up to Ubuntu.
+
+To install WSL run the following command from the terminal (I'm using the powershell terminal inside Visual Studio code).
 
 ```
 wsl --install -d ubuntu
 ```
 
-After running this command you should see an Ubuntu terminal pop into existence. Provive a default UNIX user account name of your choice and provide a password (and confirm it) when prompted.
+After running this command you should see an Ubuntu terminal pop into existence. Provide a default UNIX user account name of your choice and provide a password (and confirm it) when prompted.
 
 ![[ubuntu-startup-post-installation.jpg]]
 
