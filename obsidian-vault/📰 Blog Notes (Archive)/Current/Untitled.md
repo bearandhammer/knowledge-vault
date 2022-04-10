@@ -7,8 +7,9 @@ tags: 📰
 ## Intro
 ---
 
-With the licensing changes around Docker Desktop I've been on a journey to investigate the possibilities of just running the Docker Engine, with other kinds of tooling and WSL 2 (Window Subsystem for Linux).
+With the licensing changes around Docker Desktop I've been on a journey to investigate the possibilities of just running the Docker Engine, with other kinds of tooling and WSL 2 (Window Subsystem for Linux). For someone who is mostly focusing (at the moment) of leveraging this for development purposes I'm happy to not be mired in licensing woes; with an added bonus being that I get some further understanding of the 'guts' around how all of this operates.
 
+I've pooled together numerous sources and gone through the basic setup I followed. Where I have bolted together components from other articles/b
 
 ## Clear Down
 ---
