@@ -278,7 +278,7 @@ cd /mnt/c/dockercompose
 
 Once you have changed directory to the location container the 'docker-compose.yml' you are execute docker-compose to pull down all of the relevant Images and configure Containers:
 
-```text
+```bash
 docker-compose up
 ```
 
@@ -318,14 +318,14 @@ https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 
 
 
-```php
+```bash
 sudo chown -R myuser /path/to/folder
 ```
 
 
 wsl.conf
 
-```
+```text
 [boot]
 command = service docker start
 ```
@@ -334,7 +334,7 @@ command = service docker start
 
 .wslconfig
 
-```
+```text
 # Settings apply across all Linux distros running on WSL 2
 [wsl2]
 
@@ -349,14 +349,10 @@ localhostforwarding=true
 
 # Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging
 debugConsole=true
+```
 
 
-### Connectivity
-
----
-
-
-```text
+```bash
 sudo apt install net-tools
 ```
 
@@ -366,7 +362,7 @@ Restart-Service LxssManager
 
 Run as admin:
 
-```None
+```shell
 Set-ExecutionPolicy -Scope CurrentUser
 ```
 
