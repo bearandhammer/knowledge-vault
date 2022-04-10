@@ -179,7 +179,7 @@ In the WSL VS Code window you should now see these additional panes in the Explo
 
 ## Spin up a SQL Server 2017 (Latest) Container
 
-As a test run, which we will tear down in short order, let's try and pull down the latest SQL Server 2017 Image for kicks.  Let's start by pulling the image.
+As a test run, which we will tear down in short order, let's try and pull down the latest SQL Server 2017 Image for kicks. Hit up the WSL terminal and start by pulling the Image.
 
 ```text
 docker pull mcr.microsopft.com/mssql/server:2017-latest
