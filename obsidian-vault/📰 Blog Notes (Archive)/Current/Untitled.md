@@ -266,11 +266,25 @@ services:
 
 The Mongo passwords (and other values, such as ports) do not require quotes, although the convention here is something to be investigated further. You'll also note that 'restart: always' is specified, which means you will not have to manually start Containers in future when Docker springs into life.
 
-Place a file called 'docker-compose.yml' into your Windows file system with the above content, I have placed this in a folder called 'DockerCompose'
+Place a file called 'docker-compose.yml' into your Windows file system with the above content, I have placed this in a folder called 'DockerCompose':
+
+IMAGE
+
+Within a WSL terminal you can access a Windows folder using '/mnt', I changed my directory to this location using this command:
+
+```bash
+cd /mnt/c/dockercompose
+```
+
+Once you have changed directory to the location container the 'docker-compose.yml' you are execute docker-compose to pull down all of the relevant Images and configure Containers:
 
 ```text
 docker-compose up
 ```
+
+## Verify Setup
+
+
 
 ---
 
