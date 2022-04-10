@@ -133,7 +133,13 @@ docker -v
 
 You should see verification, something like `Docker version 20.10.14, build a224086` .
 
-Let's run the Docker hello-world image and confirm 
+Let's run the Docker hello-world image and confirm we're fully up and running:
+
+```text
+docker run hello-world
+```
+
+
 
 ### Manage Docker as non-root User
 
