@@ -55,9 +55,11 @@ wsl --set-version Ubuntu 2
 ```
 
 
-## Install Docker Engine on WSL2
+## Install the Docker Engine on WSL2
 
 ### Setup a Docker Repository
+
+For the next set of commands we will be executing these using the Ubuntu (WSL) terminal in Visual Studio Code (or something like bash if you are connected to WSL already)
 
 As you can see from my screenshot, when I ran `wsl -l -v` I hadn't yet uninstalled Docker Desktop. At this stage, I backtracked and uninstalled it (which you, if you are following this guide, should have already done so). Then, for sanity, I ran the following to ensure I have all Docker components fully removed (again, running this in powershell):
 
@@ -132,8 +134,6 @@ docker -v
 You should see verification, something like `Docker version 20.10.14, build a224086` .
 
 ### Hello World!
-
-
 
 ### Manage Docker as non-root User
 
