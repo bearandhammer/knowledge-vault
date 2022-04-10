@@ -175,7 +175,7 @@ IMAGE
 
 Picking this will launch a new instance of VS Code bound to WSL. So far, so good! Inside this new window instance we then need to hunt out Docker Explorer. I very much messed up here on my first run through and installed this as an extension in the wrong environment, if you happen to do this by mistake you'll see, as per my second screenshot below, that VS Code will prompt you to 'Install in WSL: Ubuntu':
 
-In the WSL VS Code window you should now see the 
+In the WSL VS Code window you should now see these additional panes in the Explorer where you can manage Images and Containers (double-clicking an entity will run a command to get filtered details for the particular Container).
 
 ## Get SQL
 
@@ -185,10 +185,16 @@ Test run...
 docker pull mcr.microsoft.com/mssql/server:2017-latest
 ```
 
+Verify the existence of the Image by running:
+
+```text
+docker image ls
+```
 
 ```
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD={YOUR_STRONG_PASSWORD}" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest
 ```
+
 
 
 ### Docker Compose
