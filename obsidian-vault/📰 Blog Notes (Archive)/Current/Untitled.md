@@ -310,7 +310,7 @@ It is possible to right-click on any Container entity in VS Code and 'inspect' (
 
 ## WSL Refinements
 
-Two additional files can be used to tailor and smarten up your configuration; the 'wsl.config' and 'wsl.conf'. For a complete list of options available you can peruse this link.
+Two additional files can be used to tailor and smarten up your configuration; the '.wslconfig' and 'wsl.conf'. For a complete list of options available you can peruse this link.
 
 https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 
