@@ -234,6 +234,9 @@ Type RemoteSigned
 
 ---
 
+https://medium.com/swlh/how-to-run-ubuntu-in-wsl2-at-startup-on-windows-10-c4567d6c48f1
+
+---
 
 
 ### Original Source Notes
