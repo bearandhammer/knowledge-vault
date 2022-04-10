@@ -140,10 +140,11 @@ docker run hello-world
 ```
 
 
+### Manage Docker as Non-root User
 
-### Manage Docker as non-root User
+Adding your specific UNIX user to the 'docker' group is a particular nice piece of frosting on the cake, that allows the running of docker commands as the non-root user.
 
-Mine already existed (assuming the installation step created this). Verify by running anyway (will just prompt that it already exists):
+The 'docker' group already existed in my case, with my assumption being that the engine installation created this for me. You are able to verify this with the following command regardless, and this will prompt if the grou:
 
 ```text
 sudo groupadd docker
