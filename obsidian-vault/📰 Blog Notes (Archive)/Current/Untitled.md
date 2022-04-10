@@ -144,18 +144,22 @@ docker run hello-world
 
 Adding your specific UNIX user to the 'docker' group is a particular nice piece of frosting on the cake, that allows the running of docker commands as the non-root user.
 
-The 'docker' group already existed in my case, with my assumption being that the engine installation created this for me. You are able to verify this with the following command regardless, and this will prompt if the grou:
+The 'docker' group already existed in my case, with my assumption being that the engine installation created this for me. You are able to verify this with the following command regardless, and this will prompt if the group already exists:
 
 ```text
 sudo groupadd docker
 ```
 
-$USER = your UNIX user.
+To add your UNIX user to the group, run this command, substituting in your username in place of '$USER':
 
 ```text
 sudo usermod -aG docker $USER
 ```
 
+
+## Tooling
+
+Two key extensions to obtain at this point, before going any further, are 'Remote - WSL' and 'Docker Explorer'. Remote WSL enables you to connect to and open folders within WSL, enabling you to open a version of Visual Studio Code in the context of WSL. With Visual Studio Code 
 
 ## Get SQL
 
