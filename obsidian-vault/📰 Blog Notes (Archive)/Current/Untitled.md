@@ -69,15 +69,13 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 A prerequisite to installing the Docker Engine itself is to set up a Docker repository. Once in place, you can install and update Docker from this repository.
 
-Back over to the WSL terminal window...
-
 In order to resynchronise `apt`  package indexes (from source) run the following.
 
 ```bash
 sudo apt-get update
 ```
 
-The `app` package tool can be configured to a repository over https as follow. (press 'Y' and enter when prompted to continue):
+The `apt` package tool can be configured to a repository over https as follow. (press 'Y' and enter when prompted to continue):
 
 ```bash
 sudo apt-get install \
