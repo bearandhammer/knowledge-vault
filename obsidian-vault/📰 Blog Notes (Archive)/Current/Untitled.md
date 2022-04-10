@@ -138,7 +138,7 @@ docker run hello-world
 ```
 
 
-### Manage Docker as Non-root User
+### Manage Docker as a Non-Root User
 
 Adding your specific UNIX user to the 'docker' group is a particular nice piece of frosting on the cake, that allows the running of docker commands as the non-root user.
 
