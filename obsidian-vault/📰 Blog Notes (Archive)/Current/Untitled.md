@@ -55,7 +55,7 @@ wsl --set-version Ubuntu 2
 ```
 
 
-## Install the Docker Engine on WSL2
+## Install the Docker Engine on WSL 2
 
 ### Setup a Docker Repository
 
