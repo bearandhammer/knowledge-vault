@@ -319,7 +319,7 @@ https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 
 
 ```bash
-sudo chown -R myuser /path/to/folder
+sudo chown -R myuser /etc
 ```
 
 
