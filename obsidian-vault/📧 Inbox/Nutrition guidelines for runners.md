@@ -2,7 +2,7 @@
 tags: 🥑
 ---
 
-# Nutrition guidelines for runners
+# Nutrition Guidelines for Runners
 
 ## Sources
 ---
