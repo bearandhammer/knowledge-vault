@@ -2,9 +2,9 @@
 tags: 📰
 ---
 
-# March 2022 Highlights Blog
+# April 2022 Highlights Blog
 
-## Bears Biggest Baddest Best March 2022
+## Bears Biggest Baddest Best April 2022
 
 - WSL2! - blog post won't be in time but can earmark it as a follow up. 💻
 - Obsidian. 🫀

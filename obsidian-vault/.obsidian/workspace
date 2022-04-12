@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md",
+            "file": "📰 Blog Notes (Archive)/Current/March 2022 Highlights Blog.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📰 Blog Notes (Archive)/Current/March 2022 Highlights Blog.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.7826086956521738}"
+              "eState": "{\"scroll\":0.9523809523809523}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -74,7 +80,7 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/March 2022 Highlights Blog.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📰 Blog Notes (Archive)/Current/March 2022 Highlights Blog.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0.38095238095238093}"
             },
             {
@@ -129,12 +135,6 @@
               "leaf": "a265ce3752c39ce2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Cribsheet.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Purchases.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
             }
           ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md",
+                "file": "📰 Blog Notes (Archive)/Current/March 2022 Highlights Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,13 +289,13 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "📰 Blog Notes (Archive)/Current/March 2022 Highlights Blog.md",
     "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md",
     "📰 Blog Notes (Archive)/Archive/Obsidian & Git.md",
     "🐸 Frog & Pencil/Architecture Diagram.md",
     "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
     "🫀 Life/Kitchen Purchases.md",
     "💻 Programming/Azure Data Lake Resources.md",
-    "📧 Inbox/March 2022 Highlights Blog.md",
     "🫀 Life/House Organisation Hacks.md",
     "🫀 Life/Kitchen Cribsheet.md",
     "🐸 Frog & Pencil/Business Ideas.md"
