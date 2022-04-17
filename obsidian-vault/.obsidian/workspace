@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
+            "file": "2022-04-17.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-04-17.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Azure Data Lake Resources.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
+                "file": "2022-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,15 +280,16 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 382,
-    "collapsed": true
+    "width": 497.3333435058594
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "2022-04-17.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md",
     "📰 Blog Notes (Archive)/Archive/Obsidian & Git.md",
@@ -297,7 +298,6 @@
     "🫀 Life/House Organisation Hacks.md",
     "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
     "🐸 Frog & Pencil/Business Ideas.md",
-    "🐸 Frog & Pencil/Architecture Diagram.md",
-    "📧 Inbox/Hydration Aids.md"
+    "🐸 Frog & Pencil/Architecture Diagram.md"
   ]
 }
