@@ -14,4 +14,9 @@ tags: 🥑
 🔸[Dark Chocolate Quinoa Breakfast Bowl](https://minimalistbaker.com/dark-chocolate-quinoa-breakfast-bowl/)
 
 
-b
+## Wraps
+---
+
+🔸[Samosa Sweet Potato Breakfast Wraps with Tofu Scramble](https://www.pickuplimes.com/recipe/samosa-sweet-potato-breakfast-wraps-with-tofu-scramble-152)
+🔸[Make-Ahead Freezer Burritos](https://www.pickuplimes.com/recipe/make-ahead-freezer-burritos-330)
+
