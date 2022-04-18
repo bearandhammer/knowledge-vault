@@ -2,7 +2,10 @@
 tags: 🥑
 ---
 
-# Quinoa Breakfast Ideas
+# Breakfast Ideas
+
+## Quinoa Fun
+---
 
 🔸[Crunchy Almond & Mango Granola](https://www.pickuplimes.com/recipe/crunchy-almond-mango-granola-58)
 🔸[Vegan Breakfast Quinoa Bowl](https://simpleveganblog.com/vegan-breakfast-quinoa-bowl/)
@@ -10,3 +13,5 @@ tags: 🥑
 🔸[Cinnamon Toast Breakfast Quinoa](https://cookieandkate.com/cinnamon-breakfast-quinoa-recipe/)
 🔸[Dark Chocolate Quinoa Breakfast Bowl](https://minimalistbaker.com/dark-chocolate-quinoa-breakfast-bowl/)
 
+
+b

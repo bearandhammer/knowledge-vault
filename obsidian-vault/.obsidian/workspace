@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🥑 Nutritition/Breakfasts/Untitled.md",
+            "file": "🥑 Nutritition/Breakfasts/Breakfast Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,8 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🥑 Nutritition/Breakfasts/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🥑 Nutritition/Breakfasts/Breakfast Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":1},\"to\":{\"line\":13,\"ch\":1}}}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🥑 Nutritition/Breakfasts/Untitled.md",
+                "file": "🥑 Nutritition/Breakfasts/Breakfast Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
-    "🥑 Nutritition/Breakfasts/Untitled.md",
+    "🥑 Nutritition/Breakfasts/Breakfast Ideas.md",
     "📧 Inbox/What is Agile.md",
     "📆 Calendar/2022-WK16/2022-W16.md",
     "📆 Calendar/2022-WK16/2022-04-24.md",
