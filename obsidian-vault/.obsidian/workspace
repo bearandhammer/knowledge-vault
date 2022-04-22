@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🫀 Life/Kitchen Purchases.md",
+            "file": "🏃‍♂ Fitness/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Purchases.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022-WK16/2022-W16.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":8.4523804074242}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Kitchen Purchases.md",
+                "file": "🏃‍♂ Fitness/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "🏃‍♂ Fitness/Untitled.md",
     "🫀 Life/Kitchen Purchases.md",
     "🫀 Life/Kitchen Cribsheet.md",
     "🫀 Life/House Organisation Hacks.md",
@@ -297,7 +298,6 @@
     "📆 Calendar/2022-WK16/2022-04-23.md",
     "📆 Calendar/2022-WK16/2022-04-22.md",
     "📆 Calendar/2022-WK16/2022-04-21.md",
-    "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md",
-    "📆 Calendar/2022-WK16/2022-04-20.md"
+    "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md"
   ]
 }
