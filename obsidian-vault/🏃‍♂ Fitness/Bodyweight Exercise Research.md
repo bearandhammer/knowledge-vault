@@ -2,7 +2,7 @@
 tags: 🏃‍♂
 ---
 
-# Bodyweight Excercise Research
+# Bodyweight Exercise Research
 
 https://www.menshealth.com/fitness/a29996061/bodyweight-workout-program-burn-fat/
 
