@@ -12,3 +12,4 @@ https://www.active.com/fitness/articles/20-minute-bodyweight-workout-for-weight-
 
 https://www.menshealth.com/fitness/a39761735/chris-hemsworth-centr-bodyweight-workout-superset-instagram/
 
+https://www.outsideonline.com/health/training-performance/types-of-pushups/
