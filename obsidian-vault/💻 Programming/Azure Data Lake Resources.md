@@ -12,6 +12,9 @@ A collection of Azure Data Lake Resources for upcoming consumption (to aid with 
 
 [Microsoft Starter Page](https://azure.microsoft.com/en-gb/solutions/data-lake/)
 
+[Introduction to Azure Data Lake Gen2](https://visualbi.com/blogs/microsoft/azure/introduction-azure-data-lake-gen2/#:~:text=Azure%20Data%20Lake%20Gen%201,and%20object%20storage%20for%20scalability.&text=Azure%20Data%20Lake%20analytics%20support%20is%20not,till%20date%202nd%20July%202019)
+
+
 ### Quick Fire YouTube Videos:
 
 [Azure Data Lake Storage Gen2 overview | Azure Friday](https://www.youtube.com/watch?v=McJj_N-pjgI)
