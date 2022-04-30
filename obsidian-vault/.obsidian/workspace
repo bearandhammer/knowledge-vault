@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏃‍♂ Fitness/Fitness Utilities.md",
+            "file": "💻 Programming/Microsoft Build.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Microsoft Build.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK17/2022-04-26.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK17/2022-04-25.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏃‍♂ Fitness/Fitness Utilities.md",
+                "file": "💻 Programming/Microsoft Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "💻 Programming/Microsoft Build.md",
     "🏃‍♂ Fitness/Fitness Utilities.md",
     "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
     "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
@@ -297,7 +298,6 @@
     "💻 Programming/Azure Data Lake Resources.md",
     "🫀 Life/House Organisation Hacks.md",
     "📆 Calendar/2022/2022-WK17/2022-04-30.md",
-    "📆 Calendar/2022/2022-WK17/2022-05-01.md",
-    "📆 Calendar/2022/2022-WK17/2022-04-29.md"
+    "📆 Calendar/2022/2022-WK17/2022-05-01.md"
   ]
 }
