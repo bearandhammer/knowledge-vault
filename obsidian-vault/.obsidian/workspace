@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05-05.md",
+            "file": "📆 Calendar/2022/2022-WK18/2022-W18.md",
             "mode": "source",
             "source": false
           }
@@ -20,25 +20,61 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-05.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-W18.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-04.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK17/2022-W17.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-03.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-02.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-02.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-08.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-07.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-06.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-05.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-04.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-03.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK18/2022-05-02.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -99,42 +135,6 @@
               "leaf": "a265ce3752c39ce2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/House Organisation Hacks.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Frog & Pencil Website Improvements.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Business Ideas.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Architecture Diagram.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Fitness Utilities.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Bodyweight Exercise Research.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK17/2022-04-30.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05-05.md",
+                "file": "📆 Calendar/2022/2022-WK18/2022-W18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,15 +289,15 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
-    "2022-05-05.md",
-    "2022-05-04.md",
-    "2022-05-03.md",
-    "2022-05-02.md",
-    "📆 Calendar/2022/2022-WK17/2022-05-01.md",
-    "📆 Calendar/2022/2022-WK17/2022-04-30.md",
-    "💻 Programming/Microsoft Build.md",
-    "🏃‍♂ Fitness/Fitness Utilities.md",
-    "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
-    "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md"
+    "📆 Calendar/2022/2022-WK18/2022-W18.md",
+    "📆 Calendar/2022/2022-WK17/2022-W17.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-02.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-08.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-07.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-06.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-05.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-04.md",
+    "📆 Calendar/2022/2022-WK18/2022-05-03.md",
+    "📆 Calendar/2022/2022-WK17/2022-05-01.md"
   ]
 }
