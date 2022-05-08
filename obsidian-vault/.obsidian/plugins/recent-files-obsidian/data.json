@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Throw Framework",
+      "path": "💻 Programming/Throw Framework.md"
+    },
+    {
       "basename": "Azure Pipelines YAML",
       "path": "💻 Programming/Azure Pipelines YAML.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Kitchen Cribsheet",
       "path": "🫀 Life/Kitchen Cribsheet.md"
-    },
-    {
-      "basename": "Breakfast Ideas",
-      "path": "🥑 Nutritition/Breakfasts/Breakfast Ideas.md"
     }
   ],
   "omittedPaths": [],
