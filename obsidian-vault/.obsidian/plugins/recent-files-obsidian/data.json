@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TypeScript ASP.NET Core",
+      "path": "💻 Programming/TypeScript ASP.NET Core.md"
+    },
+    {
       "basename": "Architecture Diagram",
       "path": "🐸 Frog & Pencil/Architecture Diagram.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Kitchen Purchases",
       "path": "🫀 Life/Kitchen Purchases.md"
-    },
-    {
-      "basename": "Kitchen Cribsheet",
-      "path": "🫀 Life/Kitchen Cribsheet.md"
     }
   ],
   "omittedPaths": [],
