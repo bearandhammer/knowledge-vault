@@ -5,6 +5,38 @@
       "path": "📆 Calendar/2022/2022-WK19/2022-05-15.md"
     },
     {
+      "basename": "2022-05-22",
+      "path": "2022-05-22.md"
+    },
+    {
+      "basename": "2022-05-21",
+      "path": "2022-05-21.md"
+    },
+    {
+      "basename": "2022-05-20",
+      "path": "2022-05-20.md"
+    },
+    {
+      "basename": "2022-05-19",
+      "path": "2022-05-19.md"
+    },
+    {
+      "basename": "2022-05-18",
+      "path": "2022-05-18.md"
+    },
+    {
+      "basename": "2022-05-17",
+      "path": "2022-05-17.md"
+    },
+    {
+      "basename": "2022-05-16",
+      "path": "2022-05-16.md"
+    },
+    {
+      "basename": "2022-W19",
+      "path": "📆 Calendar/2022/2022-WK19/2022-W19.md"
+    },
+    {
       "basename": "2022-05-12",
       "path": "📆 Calendar/2022/2022-WK19/2022-05-12.md"
     },
@@ -97,10 +129,6 @@
       "path": "📆 Calendar/2022/2022-WK18/2022-05-05.md"
     },
     {
-      "basename": "2022-W19",
-      "path": "📆 Calendar/2022/2022-WK19/2022-W19.md"
-    },
-    {
       "basename": "Azure Pipelines YAML",
       "path": "💻 Programming/Azure Pipelines YAML.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "2022-04-21",
       "path": "📆 Calendar/2022/2022-WK16/2022-04-21.md"
-    },
-    {
-      "basename": "2022-04-20",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-20.md"
-    },
-    {
-      "basename": "2022-04-19",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-19.md"
-    },
-    {
-      "basename": "2022-04-18",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-18.md"
-    },
-    {
-      "basename": "2022-04-17",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-17.md"
-    },
-    {
-      "basename": "2022-04-23",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-23.md"
-    },
-    {
-      "basename": "2022-04-22",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-22.md"
-    },
-    {
-      "basename": "Kitchen Purchases",
-      "path": "🫀 Life/Kitchen Purchases.md"
     }
   ],
   "omittedPaths": [],
