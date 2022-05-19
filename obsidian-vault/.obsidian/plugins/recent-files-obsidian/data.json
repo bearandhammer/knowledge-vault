@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Udemy Courses",
+      "path": "💻 Programming/Udemy Courses.md"
+    },
+    {
       "basename": "Azure Data Lake Resources",
       "path": "💻 Programming/Azure Data Lake Resources.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-04-29",
       "path": "📆 Calendar/2022/2022-WK17/2022-04-29.md"
-    },
-    {
-      "basename": "2022-04-24",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-24.md"
     }
   ],
   "omittedPaths": [],
