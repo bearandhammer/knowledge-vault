@@ -36,6 +36,10 @@ Collaborative apps
 Code, test and ship from secure cloud developer environments:
 - Collaborate from anywhere securely.
 - Codespaces - onboard someone in seconds.
+
+MS Dev Cloud
+- VS, GitHub and MS Azure.
+- GitHub Copilot - AI pair programmer.
 - 
 
 
