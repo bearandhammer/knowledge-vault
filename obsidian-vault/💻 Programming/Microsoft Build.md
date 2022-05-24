@@ -92,6 +92,8 @@ Azure Managed Grafana - dashboards!
 
 ![[Pasted image 20220524175129.png]]
 
+![[Pasted image 20220524175212.png]]
+
 
 
 ### Other Thoughts
