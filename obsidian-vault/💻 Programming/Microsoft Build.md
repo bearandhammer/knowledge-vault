@@ -40,6 +40,11 @@ Code, test and ship from secure cloud developer environments:
 MS Dev Cloud
 - VS, GitHub and MS Azure.
 - GitHub Copilot - AI pair programmer.
+	- 35% of new code written using assistance from AI pair programmer.
+- GitHub - codespaces!
+- Microsoft Dev Box - ready-to-code, secure dev workstations for a hybrid team.
+	- Windows desktop in the cloud.
+- .NET Maui - native apps for multiple devices.
 - 
 
 
