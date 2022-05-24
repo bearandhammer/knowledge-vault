@@ -19,7 +19,20 @@ No sessions listed yet.
 ## Notes
 ---
 
- 
+Low code/no-code...
+
+Express design in Power Apps.
+- Hand-drawn sketch - convert to app.
+- Stubs out models.
+
+Power Pages - build fully-features web apps.
+- Idea to impact!
+
+
+Collaborative apps
+- Microsoft Graph - info about people, relationships and all of their artifacts.
+
+
 
 
 ### Other Thoughts
