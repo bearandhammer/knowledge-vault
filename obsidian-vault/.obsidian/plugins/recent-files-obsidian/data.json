@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Microsoft Build",
-      "path": "💻 Programming/Microsoft Build.md"
+      "basename": "Microsoft Build 2022",
+      "path": "💻 Programming/MS Build 2022/Microsoft Build 2022.md"
+    },
+    {
+      "basename": "Pasted image 20220524201937",
+      "path": "💻 Programming/MS Build 2022/Pasted image 20220524201937.png"
+    },
+    {
+      "basename": "2022-05-30",
+      "path": "📆 Calendar/2022/2022-WK22/2022-05-30.md"
+    },
+    {
+      "basename": "2022-05-31",
+      "path": "📆 Calendar/2022/2022-WK22/2022-05-31.md"
     },
     {
       "basename": "2022-05-25",
@@ -11,14 +23,6 @@
     {
       "basename": "2022-05-24",
       "path": "📆 Calendar/2022/2022-WK21/2022-05-24.md"
-    },
-    {
-      "basename": "2022-05-31",
-      "path": "2022-05-31.md"
-    },
-    {
-      "basename": "2022-05-30",
-      "path": "2022-05-30.md"
     },
     {
       "basename": "2022-05-29",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-W17",
       "path": "📆 Calendar/2022/2022-WK17/2022-W17.md"
-    },
-    {
-      "basename": "2022-05-01",
-      "path": "📆 Calendar/2022/2022-WK17/2022-05-01.md"
     }
   ],
   "omittedPaths": [],

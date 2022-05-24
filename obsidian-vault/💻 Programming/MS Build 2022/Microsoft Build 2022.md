@@ -189,6 +189,8 @@ Near realtime analytics - Azure Synapse Link for SQL (check it out).
 
 ![[Pasted image 20220524201937.png]]
 
+#### Data Wrangling with Azure CosmosDB MongoDB API
+
 
 
 ---
