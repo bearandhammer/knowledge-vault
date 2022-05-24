@@ -94,6 +94,11 @@ Azure Managed Grafana - dashboards!
 
 ![[Pasted image 20220524175212.png]]
 
+---
+
+#### Modernize your applications with new innovations across SQL Server 2022 and Azure SQL
+
+
 
 
 ### Other Thoughts
