@@ -76,6 +76,18 @@ Azure Container Apps - Serverless containers for microservices.
 - Pub/sub
 - Secure
 
+Powered by Azure Kubernetes - can be moved to that if the full power of this service is required.
+
+Adobe:
+
+![[Pasted image 20220524174508.png]]
+
+Azure Kubernetes Service (AKS).
+Draft v2 - generate docker files, etc.
+
+Web App Routing
+KEDA add-on - event driven autoscaling
+
 
 
 ### Other Thoughts
