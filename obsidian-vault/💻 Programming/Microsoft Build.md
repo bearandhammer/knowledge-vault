@@ -118,6 +118,32 @@ Disaster recovery (DR):
 ![[Pasted image 20220524193504.png]]
 
 
+![[Pasted image 20220524193600.png]]
+
+
+![[Pasted image 20220524193622.png]]
+
+
+![[Pasted image 20220524193640.png]]
+
+Cross-platform SNAPSHOT backups - very good.
+
+https://aka.ms/sqlserver2022docs
+
+Query tuning!!!
+
+![[Pasted image 20220524193755.png]]
+
+IQP will solve:
+
+![[Pasted image 20220524193824.png]]
+
+![[Pasted image 20220524193940.png]]
+
+![[Pasted image 20220524194012.png]]
+
+Save the world from parameter sniffing!
+
 
 
 ### Other Thoughts
