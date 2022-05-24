@@ -185,6 +185,13 @@ Near realtime analytics - Azure Synapse Link for SQL (check it out).
 
 ![[Pasted image 20220524201543.png]]
 
+![[Pasted image 20220524201910.png]]
+
+![[Pasted image 20220524201937.png]]
+
+
+
+---
 
 
 ### Other Thoughts
