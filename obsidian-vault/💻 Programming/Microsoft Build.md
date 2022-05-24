@@ -98,6 +98,25 @@ Azure Managed Grafana - dashboards!
 
 #### Modernize your applications with new innovations across SQL Server 2022 and Azure SQL
 
+MIDP - Microsoft Intelligent Data Platform.
+
+SQL Server 2022 - public preview available!
+
+aka.ms/getsqlserver2022
+
+Main features:
+
+![[Pasted image 20220524193245.png]]
+
+
+![[Pasted image 20220524193322.png]]
+
+![[Pasted image 20220524193356.png]]
+
+Disaster recovery (DR):
+
+![[Pasted image 20220524193504.png]]
+
 
 
 
