@@ -88,6 +88,10 @@ Draft v2 - generate docker files, etc.
 Web App Routing
 KEDA add-on - event driven autoscaling
 
+Azure Managed Grafana - dashboards!
+
+![[Pasted image 20220524175129.png]]
+
 
 
 ### Other Thoughts
