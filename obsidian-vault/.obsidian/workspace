@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK21/2022-05-25.md",
+            "file": "💻 Programming/Microsoft Build.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Microsoft Build.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK21/2022-05-25.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.7826086956521738}"
+              "eState": "{\"scroll\":1.7826086956521738}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-31.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK21/2022-05-25.md",
+                "file": "💻 Programming/Microsoft Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,10 +285,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381
+    "width": 381,
+    "collapsed": true
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "💻 Programming/Microsoft Build.md",
     "📆 Calendar/2022/2022-WK21/2022-05-25.md",
     "📆 Calendar/2022/2022-WK21/2022-05-24.md",
     "2022-05-31.md",
@@ -297,7 +299,6 @@
     "📆 Calendar/2022/2022-WK21/2022-05-28.md",
     "📆 Calendar/2022/2022-WK21/2022-05-27.md",
     "📆 Calendar/2022/2022-WK21/2022-05-26.md",
-    "📆 Calendar/2022/2022-WK21/2022-05-23.md",
-    "📆 Calendar/2022/2022-WK20/2022-05-22.md"
+    "📆 Calendar/2022/2022-WK21/2022-05-23.md"
   ]
 }
