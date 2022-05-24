@@ -45,6 +45,13 @@ MS Dev Cloud
 - Microsoft Dev Box - ready-to-code, secure dev workstations for a hybrid team.
 	- Windows desktop in the cloud.
 - .NET Maui - native apps for multiple devices.
+	- Windows subsystem for andriod!
+
+GitHub Advanced Security - ship secure applications.
+- Security tab - get those alerts!
+- Secret scanning!!!
+- GitHub push protection! Stop secrets from being created.
+- Dependabot - keeping dependencies up to date.
 - 
 
 
