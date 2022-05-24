@@ -152,6 +152,15 @@ Breaking down barriers - SQL ->...
 
 ![[Pasted image 20220524195024.png]]
 
+![[Pasted image 20220524195109.png]]
+
+
+![[Pasted image 20220524195204.png]]
+
+![[Pasted image 20220524195234.png]]
+
+Near realtime analytics - Azure Synapse Link for SQL (check it out).
+
 
 
 ### Other Thoughts
