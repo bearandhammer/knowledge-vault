@@ -60,6 +60,22 @@ GitHub OIDC - Azure AD Workflow Identity Federation.
 Shift security left!
 
 
+![[Pasted image 20220524173655.png]]
+
+![[Pasted image 20220524173717.png]]
+
+![[Pasted image 20220524173755.png]]
+
+![[Pasted image 20220524173812.png]]
+
+![[Pasted image 20220524173830.png]]
+
+![[Pasted image 20220524173905.png]]
+
+Azure Container Apps - Serverless containers for microservices.
+- Pub/sub
+- Secure
+
 
 
 ### Other Thoughts
