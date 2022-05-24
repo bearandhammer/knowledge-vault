@@ -144,6 +144,14 @@ IQP will solve:
 
 Save the world from parameter sniffing!
 
+Azure Synapse for SQL Server!!!
+
+ETL - expensive, data is out of date, this impacts operation workload.
+
+Breaking down barriers - SQL ->...
+
+![[Pasted image 20220524195024.png]]
+
 
 
 ### Other Thoughts
