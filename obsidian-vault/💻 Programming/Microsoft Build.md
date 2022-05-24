@@ -33,6 +33,10 @@ Collaborative apps
 - Microsoft Graph - info about people, relationships and all of their artifacts.
 
 
+Code, test and ship from secure cloud developer environments:
+- Collaborate from anywhere securely.
+- Codespaces - onboard someone in seconds.
+- 
 
 
 ### Other Thoughts
