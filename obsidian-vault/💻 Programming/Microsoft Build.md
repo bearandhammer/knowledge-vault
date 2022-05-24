@@ -52,7 +52,14 @@ GitHub Advanced Security - ship secure applications.
 - Secret scanning!!!
 - GitHub push protection! Stop secrets from being created.
 - Dependabot - keeping dependencies up to date.
-- 
+- Code QL - static analysis engine.
+- Azure Load Testing - apache jMeter.
+
+GitHub OIDC - Azure AD Workflow Identity Federation.
+
+Shift security left!
+
+
 
 
 ### Other Thoughts
