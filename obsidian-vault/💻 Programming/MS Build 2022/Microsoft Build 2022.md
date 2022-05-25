@@ -240,6 +240,8 @@ https://openai.com/dall-e-2/
 
 PDF translation!!!
 
+![[Pasted image 20220525182405.png]]
+
 
 
 ---
