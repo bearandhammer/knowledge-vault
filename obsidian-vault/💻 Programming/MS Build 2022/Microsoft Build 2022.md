@@ -242,7 +242,7 @@ PDF translation!!!
 
 ![[Pasted image 20220525182405.png]]
 
-
+![[Pasted image 20220525182847.png]]
 
 ---
 
