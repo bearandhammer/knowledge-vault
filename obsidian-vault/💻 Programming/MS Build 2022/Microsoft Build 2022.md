@@ -244,6 +244,14 @@ PDF translation!!!
 
 ![[Pasted image 20220525182847.png]]
 
+#### Deliver Cloud-Scale Developer Productivity with Feature Flags
+
+LaunchDarkly - one to review (feature managements). Boils down to a boolean.
+
+
+
+
+
 ---
 
 
