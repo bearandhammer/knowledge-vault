@@ -211,6 +211,12 @@ Codex!!! Natural language processing == code.
 
 Codex - ability to create code for games (e.g. Minecraft bots driven by AI).
 
+**Azure OpenAI Service** - democratizing AI for everyone.
+
+![[Pasted image 20220525173111.png]]
+
+Hybrid Loop - read up!
+
 
 
 ---
