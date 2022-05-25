@@ -234,6 +234,12 @@ https://openai.com/dall-e-2/
 
 ![[Pasted image 20220525181022.png]]
 
+![[Pasted image 20220525181658.png]]
+
+![[Pasted image 20220525181812.png]]
+
+PDF translation!!!
+
 
 
 ---
