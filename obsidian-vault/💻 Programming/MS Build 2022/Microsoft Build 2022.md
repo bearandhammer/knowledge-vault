@@ -222,6 +222,15 @@ DALL-E - open AI project for dynamic image creation.
 https://openai.com/dall-e-2/
 
 
+#### Microsoft Build Into Focus
+
+![[Pasted image 20220525180251.png]]
+
+![[Pasted image 20220525180303.png]]
+
+![[Pasted image 20220525180402.png]]
+
+
 
 ---
 
