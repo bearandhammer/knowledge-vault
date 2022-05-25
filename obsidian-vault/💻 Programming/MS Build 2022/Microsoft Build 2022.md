@@ -230,6 +230,10 @@ https://openai.com/dall-e-2/
 
 ![[Pasted image 20220525180402.png]]
 
+![[Pasted image 20220525181008.png]]
+
+![[Pasted image 20220525181022.png]]
+
 
 
 ---
