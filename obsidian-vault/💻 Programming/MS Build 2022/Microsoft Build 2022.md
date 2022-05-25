@@ -217,6 +217,10 @@ Codex - ability to create code for games (e.g. Minecraft bots driven by AI).
 
 Hybrid Loop - read up!
 
+DALL-E - open AI project for dynamic image creation.
+
+https://openai.com/dall-e-2/
+
 
 
 ---
