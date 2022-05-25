@@ -21,7 +21,7 @@
               "leaf": "a265ce3752c39ce2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK21/2022-05-25.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -139,57 +139,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "5eb4bc57bf1f43fd",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "💻 Programming/MS Build 2022/Pasted image 20220525173111.png"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "5eb4bc57bf1f43fd",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Pasted image 20220525173111.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5eb4bc57bf1f43fd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Microsoft Build 2022.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":256,\"ch\":0},\"to\":{\"line\":256,\"ch\":0}},\"scroll\":242.6640625}"
-            },
-            {
-              "leaf": "5eb4bc57bf1f43fd",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Pasted image 20220524201937.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5eb4bc57bf1f43fd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Microsoft Build 2022.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5eb4bc57bf1f43fd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK22/2022-05-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5eb4bc57bf1f43fd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK22/2022-05-31.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
       }
     ],
     "direction": "vertical"
@@ -265,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/MS Build 2022/Pasted image 20220525173111.png",
+                "file": "📆 Calendar/2022/2022-WK21/2022-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,11 +288,11 @@
     "width": 381,
     "collapsed": true
   },
-  "active": "5eb4bc57bf1f43fd",
+  "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK21/2022-05-25.md",
     "💻 Programming/MS Build 2022/Pasted image 20220525173111.png",
     "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
-    "📆 Calendar/2022/2022-WK21/2022-05-25.md",
     "📆 Calendar/2022/2022-WK21/2022-05-24.md",
     "📆 Calendar/2022/2022-WK21/2022-05-23.md",
     "📆 Calendar/2022/2022-WK22/2022-05-30.md",
