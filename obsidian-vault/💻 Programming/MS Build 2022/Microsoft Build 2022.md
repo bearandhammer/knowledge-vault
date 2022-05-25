@@ -191,7 +191,15 @@ Near realtime analytics - Azure Synapse Link for SQL (check it out).
 
 #### Data Wrangling with Azure CosmosDB MongoDB API
 
+To catch up...
 
+---
+
+#### The Future of AI Development Tools with Kevin Scott, CTO and EVP, Technology & Research, Microsoft
+
+Software and AI...
+
+Copilot - AI Pair Programmer. Currently
 
 ---
 
