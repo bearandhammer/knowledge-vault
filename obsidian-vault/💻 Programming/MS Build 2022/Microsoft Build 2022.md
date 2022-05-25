@@ -248,6 +248,10 @@ PDF translation!!!
 
 LaunchDarkly - one to review (feature managements). Boils down to a boolean.
 
+Production...is the best test environment!
+
+Feature - small things with feature flags - easy to deploy and easy to roll back.
+
 
 
 
