@@ -199,7 +199,17 @@ To catch up...
 
 Software and AI...
 
-Copilot - AI Pair Programmer. Currently
+Copilot - AI Pair Programmer. Currently active - free access to attendees.
+
+Uses NLP. Over 1/3 of new code being suggested by Copilot.
+
+Copilot labs - VS Code.
+
+Copilot explain!!! Highlight and get english explanation.
+
+Codex!!! Natural language processing == code.
+
+
 
 ---
 
