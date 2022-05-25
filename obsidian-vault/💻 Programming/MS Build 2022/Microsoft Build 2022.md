@@ -252,7 +252,7 @@ Production...is the best test environment!
 
 Feature - small things with feature flags - easy to deploy and easy to roll back.
 
-
+What value does a release candidate branch give when we use feature flags in anger...not much!
 
 
 
