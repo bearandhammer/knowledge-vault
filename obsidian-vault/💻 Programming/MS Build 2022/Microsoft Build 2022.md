@@ -209,6 +209,8 @@ Copilot explain!!! Highlight and get english explanation.
 
 Codex!!! Natural language processing == code.
 
+Codex - ability to create code for games (e.g. Minecraft bots driven by AI).
+
 
 
 ---
