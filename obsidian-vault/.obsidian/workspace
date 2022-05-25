@@ -144,11 +144,9 @@
         "id": "5eb4bc57bf1f43fd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
-            "mode": "source",
-            "source": false
+            "file": "💻 Programming/MS Build 2022/Pasted image 20220525173111.png"
           }
         },
         "pane-relief:history-v1": {
@@ -157,8 +155,14 @@
             {
               "leaf": "5eb4bc57bf1f43fd",
               "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Pasted image 20220525173111.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5eb4bc57bf1f43fd",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Microsoft Build 2022.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":96,\"ch\":3},\"to\":{\"line\":96,\"ch\":0}},\"scroll\":92.38767650834403}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":256,\"ch\":0},\"to\":{\"line\":256,\"ch\":0}},\"scroll\":242.6640625}"
             },
             {
               "leaf": "5eb4bc57bf1f43fd",
@@ -261,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
+                "file": "💻 Programming/MS Build 2022/Pasted image 20220525173111.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,6 +341,7 @@
   },
   "active": "5eb4bc57bf1f43fd",
   "lastOpenFiles": [
+    "💻 Programming/MS Build 2022/Pasted image 20220525173111.png",
     "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
     "📆 Calendar/2022/2022-WK21/2022-05-25.md",
     "📆 Calendar/2022/2022-WK21/2022-05-24.md",
@@ -345,7 +350,6 @@
     "💻 Programming/MS Build 2022/Pasted image 20220524201937.png",
     "📆 Calendar/2022/2022-WK22/2022-05-31.md",
     "📆 Calendar/2022/2022-WK21/2022-05-29.md",
-    "📆 Calendar/2022/2022-WK21/2022-05-28.md",
-    "📆 Calendar/2022/2022-WK21/2022-05-27.md"
+    "📆 Calendar/2022/2022-WK21/2022-05-28.md"
   ]
 }
