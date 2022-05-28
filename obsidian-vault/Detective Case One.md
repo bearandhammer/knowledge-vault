@@ -71,3 +71,13 @@ Rupert James Owens - RIC, VA, USA.
 
 ---
 
+## Leads 🕵‍♀
+
+- [ ] #119 - FW - Interrogate Yin Auction House.
+- [ ] #134 - RPD - Funeral (8am | day 3).
+- [ ] #115 - HQ - History on Kurt Blutholz.
+- [x] #105 - RPD - Marcus Owens case/robbery.
+- [ ] #120 - HQ - Weberr & Son lawyers.
+- [ ] #102 - Lab - Box and Watch.
+- [ ] #113 - HQ - Haratio Personnel File.
+- [ ] 
