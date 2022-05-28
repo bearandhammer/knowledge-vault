@@ -69,12 +69,10 @@ RUPERT OWENS
 
 Rupert James Owens - RIC, VA, USA.
 
-
 ---
-
 
 Leads:
 
-
+- [x] #108 
 #115
 #105
