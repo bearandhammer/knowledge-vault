@@ -80,4 +80,7 @@ Rupert James Owens - RIC, VA, USA.
 - [ ] #120 - HQ - Weberr & Son lawyers.
 - [ ] #102 - Lab - Box and Watch.
 - [ ] #113 - HQ - Haratio Personnel File.
-- [ ] 
+- [ ] #106 - RPD - Evidence for the case (Horatio murder).
+- [ ] #117 - RPD - Horatio Autopsy.
+- [ ] #110 - CH - Consult Forensic Psychologist (Horatio case).
+- [ ] #131 - FW - Haratios Grave.
