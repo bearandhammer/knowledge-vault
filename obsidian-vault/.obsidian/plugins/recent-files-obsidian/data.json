@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Detective Case One",
+      "path": "Detective Case One.md"
+    },
+    {
       "basename": "2022-05-29",
       "path": "📆 Calendar/2022/2022-WK21/2022-05-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Microsoft Build 2022",
       "path": "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md"
-    },
-    {
-      "basename": "Language Features csharp",
-      "path": "📰 Blog Notes (Archive)/Current/Language Features csharp.md"
     }
   ],
   "omittedPaths": [],

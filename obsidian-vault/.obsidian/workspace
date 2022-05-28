@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK21/2022-05-29.md",
+            "file": "Detective Case One.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a265ce3752c39ce2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Detective Case One.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK21/2022-05-24.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a265ce3752c39ce2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK22/2022-05-31.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
             }
           ]
         }
@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad738246b9131586",
@@ -214,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK21/2022-05-29.md",
+                "file": "Detective Case One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +291,7 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
+    "Detective Case One.md",
     "📆 Calendar/2022/2022-WK21/2022-05-29.md",
     "📆 Calendar/2022/2022-WK21/2022-05-28.md",
     "📆 Calendar/2022/2022-WK21/2022-05-27.md",
@@ -298,7 +300,6 @@
     "📆 Calendar/2022/2022-WK21/2022-05-25.md",
     "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
     "💻 Programming/MS Build 2022/Pasted image 20220524173717.png",
-    "💻 Programming/MS Build 2022/Pasted image 20220525173111.png",
-    "📆 Calendar/2022/2022-WK21/2022-05-24.md"
+    "💻 Programming/MS Build 2022/Pasted image 20220525173111.png"
   ]
 }
