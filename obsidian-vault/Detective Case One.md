@@ -30,7 +30,7 @@ The Auction House bought the watch for $5000 - from `Rupert Owens`. We now have 
 
 Delicate matter!!! If `Blutholz` had live in the US postwar it would be bad for political reasons. Worse yet, the press will sniff around - scandal! Agency wants to avoid - let's find answers before questions roll in.
 
-Sad piece of info...morning after tomorrow, at the `Olivet Cemetery` , `Michael Slater's` funeral is taking place (he helped create the unit). Hit and run - 
+Sad piece of info...morning after tomorrow, at the `Olivet Cemetery` , `Michael Slater's` funeral is taking place (he helped create the unit). Hit and run - gotta be deliberate.
 
 ***MORNING OF DAY 3 - FUNERAL.***
 
@@ -45,4 +45,10 @@ Time Limit: 4 days.
 Stress Limit: 7 tokens.
 
 ---
+
+Marker #1 is on day three - funeral.
+
+---
+
+
 
