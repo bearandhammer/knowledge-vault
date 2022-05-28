@@ -16,7 +16,7 @@ July 5th - 8:11am - EST
 
 Ministry of Foreign Affairs of the Republic of Poland...confidential note for clarification for an unusual event.
 
-At the Ying Auction House, a pocket with a gold plated bezel appeared.
+At the Ying Auction House, a pocket watch with a gold plated bezel appeared.
 
 Watch in DB of objects lost during WW2. Showpiece looted by Germans from the Museum of the Land in Posen, Poland. During the occupation of Poland.
 
@@ -30,6 +30,19 @@ The Auction House bought the watch for $5000 - from `Rupert Owens`. We now have 
 
 Delicate matter!!! If `Blutholz` had live in the US postwar it would be bad for political reasons. Worse yet, the press will sniff around - scandal! Agency wants to avoid - let's find answers before questions roll in.
 
-Sad piece of info...morning after tomorrow, at the `Olivet Cemetery` , `Michael Slater's` funeral is taking place (he helped create the unit).
+Sad piece of info...morning after tomorrow, at the `Olivet Cemetery` , `Michael Slater's` funeral is taking place (he helped create the unit). Hit and run - 
 
-<span color="red">***MORNING OF DAY 3 - FUNERAL.***</span>***
+***MORNING OF DAY 3 - FUNERAL.***
+
+---
+
+## Objective
+---
+
+Investigate events leading up to the watch from Poland ending up in the Ying Auction House. Discover all stages and find evidence to confirm them.
+
+Time Limit: 4 days.
+Stress Limit: 7 tokens.
+
+---
+
