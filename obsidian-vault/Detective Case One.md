@@ -50,5 +50,12 @@ Marker #1 is on day three - funeral.
 
 ---
 
+KURT BLUTHOLZ
 
+Surname/names: Blutholz / Kurt / -
+
+Date of birth: January 31st, 1911
+
+Paresit left hand (shrapnel wound) - not confirmed.
+A tattoo of a spider above the right wrist - not confirmed.
 
