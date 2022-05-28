@@ -50,6 +50,8 @@ Marker #1 is on day three - funeral.
 
 ---
 
+## People
+
 KURT BLUTHOLZ
 
 Surname/names: Blutholz / Kurt / -
@@ -61,3 +63,8 @@ A tattoo of a spider above the right wrist - not confirmed.
 
 Definitely linked to Posen.
 
+---
+
+RUPERT OWENS
+
+Rupert James Owens - RIC, VA, USA.
