@@ -78,9 +78,10 @@ Rupert James Owens - RIC, VA, USA.
 - [ ] #115 - HQ - History on Kurt Blutholz.
 - [x] #105 - RPD - Marcus Owens case/robbery.
 - [ ] #120 - HQ - Weberr & Son lawyers.
-- [ ] #102 - Lab - Box and Watch.
+- [ ] #102 - Lab - Box and Watch. THIS (4 hours)
 - [x] #113 - HQ - Haratio Personnel File.
-- [ ] #106 - RPD - Evidence for the case (Horatio murder).
-- [ ] #117 - RPD - Horatio Autopsy.
-- [ ] #110 - CH - Consult Forensic Psychologist (Horatio case).
+- [ ] #106 - RPD - Evidence for the case (Horatio murder). ...
+- [ ] #117 - RPD - Horatio Autopsy. ...
+- [ ] #110 - CH - Consult Forensic Psychologist (Horatio case). ...
 - [x] #131 - FW - Haratios Grave.
+- [ ] #109 - RPD - Talk about Michaels cases. ...
