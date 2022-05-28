@@ -56,7 +56,7 @@ Surname/names: Blutholz / Kurt / -
 
 Date of birth: January 31st, 1911
 
-Paresit left hand (shrapnel wound) - not confirmed.
+Paresis left hand (shrapnel wound) - not confirmed.
 A tattoo of a spider above the right wrist - not confirmed.
 
 Definitely linked to Posen.
