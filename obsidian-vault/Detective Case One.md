@@ -22,4 +22,14 @@ Watch in DB of objects lost during WW2. Showpiece looted by Germans from the Mus
 
 1939-1944
 
-Poles - symbolic and sentimental value. Belonged to great pianist `Ignacy Paderewski` . The watch was stolen by Nazi called (based on info from poles) `Kurt Blutholz`
+Poles - symbolic and sentimental value. Belonged to great pianist `Ignacy Paderewski` . The watch was stolen by Nazi called (based on info from poles) `Kurt Blutholz` .
+
+Records can be found about this guy in the database.
+
+The Auction House bought the watch for $5000 - from `Rupert Owens`. We now have the watch in evidence.
+
+Delicate matter!!! If `Blutholz` had live in the US postwar it would be bad for political reasons. Worse yet, the press will sniff around - scandal! Agency wants to avoid - let's find answers before questions roll in.
+
+Sad piece of info...morning after tomorrow, at the `Olivet Cemetery` , `Michael Slater's` funeral is taking place (he helped create the unit).
+
+<span color="red">***MORNING OF DAY 3 - FUNERAL.***</span>***
