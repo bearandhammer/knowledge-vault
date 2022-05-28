@@ -75,12 +75,12 @@ Rupert James Owens - RIC, VA, USA.
 
 - [x] #119 - FW - Interrogate Yin Auction House.
 - [x] #134 - RPD - Funeral (8am | day 3).
-- [ ] #115 - HQ - History on Kurt Blutholz.
+- [x] #115 - HQ - History on Kurt Blutholz.
 - [x] #105 - RPD - Marcus Owens case/robbery.
 - [ ] #120 - HQ - Weberr & Son lawyers.
 - [x] #102 - Lab - Box and Watch. THIS (3 hours)
 - [x] #113 - HQ - Haratio Personnel File.
-- [ ] #106 - RPD - Evidence for the case (Horatio murder). ...
+- [x] #106 - RPD - Evidence for the case (Horatio murder). ...
 - [ ] #117 - RPD - Horatio Autopsy. ...
 - [x] #110 - CH - Consult Forensic Psychologist (Horatio case). ...
 - [x] #131 - FW - Haratios Grave.
