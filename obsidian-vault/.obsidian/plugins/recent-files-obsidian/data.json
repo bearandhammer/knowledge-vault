@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "Detective Case One",
-      "path": "Detective Case One.md"
+      "path": "♟ Board Games/Detective/Detective Case One.md"
+    },
+    {
+      "basename": "Recording 20220528144622",
+      "path": "♟ Board Games/Detective/Recording 20220528144622.webm"
+    },
+    {
+      "basename": "Pasted image 20220528230708",
+      "path": "♟ Board Games/Detective/Pasted image 20220528230708.png"
     },
     {
       "basename": "2022-05-29",
@@ -191,14 +199,6 @@
     {
       "basename": "2022-05-05",
       "path": "📆 Calendar/2022/2022-WK18/2022-05-05.md"
-    },
-    {
-      "basename": "Azure Pipelines YAML",
-      "path": "💻 Programming/Azure Pipelines YAML.md"
-    },
-    {
-      "basename": "Microsoft Build 2022",
-      "path": "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md"
     }
   ],
   "omittedPaths": [],

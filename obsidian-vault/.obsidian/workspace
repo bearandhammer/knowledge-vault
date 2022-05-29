@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Detective Case One.md",
+            "file": "♟ Board Games/Detective/Detective Case One.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,8 @@
             {
               "leaf": "a265ce3752c39ce2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Detective Case One.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"♟ Board Games/Detective/Detective Case One.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":32.55643994211288}"
             },
             {
               "leaf": "a265ce3752c39ce2",
@@ -139,6 +139,48 @@
             }
           ]
         }
+      },
+      {
+        "id": "4ad93538b63ab1ec",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "♟ Board Games/Detective/Pasted image 20220528230708.png"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4ad93538b63ab1ec",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"♟ Board Games/Detective/Pasted image 20220528230708.png\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7e503eb92ce223f9",
+        "type": "leaf",
+        "state": {
+          "type": "video",
+          "state": {
+            "file": "♟ Board Games/Detective/Recording 20220528144622.webm"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7e503eb92ce223f9",
+              "group": null,
+              "state": "{\"type\":\"video\",\"state\":{\"file\":\"♟ Board Games/Detective/Recording 20220528144622.webm\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -198,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad738246b9131586",
@@ -215,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detective Case One.md",
+                "file": "♟ Board Games/Detective/Detective Case One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,15 +332,15 @@
   },
   "active": "a265ce3752c39ce2",
   "lastOpenFiles": [
-    "Detective Case One.md",
+    "♟ Board Games/Detective/Detective Case One.md",
+    "♟ Board Games/Detective/Recording 20220528144622.webm",
+    "♟ Board Games/Detective/Pasted image 20220528230708.png",
     "📆 Calendar/2022/2022-WK21/2022-05-29.md",
     "📆 Calendar/2022/2022-WK21/2022-05-28.md",
     "📆 Calendar/2022/2022-WK21/2022-05-27.md",
     "📆 Calendar/2022/2022-WK21/2022-W21.md",
     "📆 Calendar/2022/2022-WK21/2022-05-26.md",
     "📆 Calendar/2022/2022-WK21/2022-05-25.md",
-    "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
-    "💻 Programming/MS Build 2022/Pasted image 20220524173717.png",
-    "💻 Programming/MS Build 2022/Pasted image 20220525173111.png"
+    "💻 Programming/MS Build 2022/Microsoft Build 2022.md"
   ]
 }
