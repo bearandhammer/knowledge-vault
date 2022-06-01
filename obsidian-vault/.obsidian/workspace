@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🫀 Life/House Organisation Hacks.md",
+            "file": "🫀 Life/Crunch Plan.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Crunch Plan.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/House Organisation Hacks.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -102,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad738246b9131586",
@@ -118,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/House Organisation Hacks.md",
+                "file": "🫀 Life/Crunch Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,12 +196,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381
+    "width": 381,
+    "collapsed": true
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "🫀 Life/House Organisation Hacks.md",
     "🫀 Life/Crunch Plan.md",
+    "🫀 Life/House Organisation Hacks.md",
     "📆 Calendar/2022/2022-WK22/2022-06-02.md",
     "📆 Calendar/2022/2022-WK22/2022-06-05.md",
     "📆 Calendar/2022/2022-WK22/2022-06-04.md",

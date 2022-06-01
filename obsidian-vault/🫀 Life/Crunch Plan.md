@@ -9,6 +9,22 @@ tags: 🫀
 
 
 ## Daily
+---
 
 7:20am - out of bed.
 Morning walk increase to ~50 minutes (each day).
+Usual 30 minute lunch time walk.
+Usual 30 minute evening walk (if not running).
+20 minutes of 'house jogging'.
+
+
+## 01/06/2022
+---
+
+- [ ] Running Channel HIIT workout #2.
+
+
+## 02/06/2022
+---
+
+- [ ] 5.5K run 
