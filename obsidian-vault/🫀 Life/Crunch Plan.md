@@ -48,4 +48,8 @@ Usual 30 minute evening walk (if not running).
 - [ ] Weigh in (hoping for 1 - 1.5lbs).
 - [ ] Rest (outside of daily activities).
 
-## 0
+
+## 06/06/2022
+---
+
+TBD
