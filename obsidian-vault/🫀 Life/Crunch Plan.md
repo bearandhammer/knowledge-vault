@@ -90,6 +90,8 @@ Usual 30 minute evening walk (if not running in the evening).
 ---
 
 - [ ] Weigh in (hoping for 1 - 1.5lbs).
+- [ ] Extended morning walk.
+- [ ] Lunchtime walk.
 - [ ] 6K run (easy pace).
 
 
