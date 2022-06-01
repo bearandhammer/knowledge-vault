@@ -13,7 +13,7 @@ tags: 🫀
 
 7:20am - out of bed.
 Morning walk increase to ~50 minutes (each day).
-Usual 30 minute lunch time walk.
+Usual 30 minute lunch time walk (depending on run time).
 Usual 30 minute evening walk (if not running in the evening).
 ~30 minutes of 'house jogging' (if not running).
 
@@ -21,51 +21,80 @@ Usual 30 minute evening walk (if not running in the evening).
 ## 01/06/2022
 ---
 
+- [ ] Evening walk.
 - [ ] Running Channel HIIT workout #2.
 
 
 ## 02/06/2022
 ---
 
+- [ ] Extended morning walk.
 - [ ] 5.5K run (easy pace). 6K if feeling good.
+- [ ] Evening walk.
 
 
 ## 03/06/2022
 ---
 
+- [ ] Extended morning walk.
 - [ ] Running Channel HIIT workout #1.
+- [ ] Lunchtime walk.
+- [ ] Evening walk.
 
 
 ## 04/06/2022
 ---
 
+- [ ] Extended morning walk.
 - [ ] 6K run (easy pace & will depend on feel from the previous day).
+- [ ] Evening walk.
 
 
 ## 05/06/2022
 ---
 
-- [ ] Weigh in (hoping for 1 - 1.5lbs).
+- [ ] Extended morning walk.
+- [ ] Lunchtime walk.
+- [ ] Evening walk.
 - [ ] Rest (outside of daily activities).
+- [ ] Weigh in (hoping for 1 - 1.5lbs).
 
 
 ## 06/06/2022
 ---
 
+- [ ] Extended morning walk.
+- [ ] Lunchtime walk.
+- [ ] 6K run (easy pace).
+
 
 ## 07/06/2022
 ---
+
+- [ ] Extended morning walk.
+- [ ] Lunchtime walk.
+- [ ] Evening walk.
+- [ ] Running Channel HIIT workout #2.
 
 
 ## 08/06/2022
 ---
 
+- [ ] Extended morning walk.
+- [ ] Lunchtime walk.
+- [ ] Evening walk.
+- [ ] Running Channel HIIT workout #1.
+
 
 ## 09/06/2022
 ---
 
-- [ ] 6K run (easy pace)).
+- [ ] Weigh in (hoping for 1 - 1.5lbs).
+- [ ] 6K run (easy pace).
+
 
 ## 10/06/2022
 ---
 
+- [ ] Weigh in (official).
+- [ ] Smash scales.
