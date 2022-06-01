@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Crucnh Plan",
-      "path": "🫀 Life/Crucnh Plan.md"
+      "basename": "House Organisation Hacks",
+      "path": "🫀 Life/House Organisation Hacks.md"
+    },
+    {
+      "basename": "Crunch Plan",
+      "path": "🫀 Life/Crunch Plan.md"
     },
     {
       "basename": "2022-06-02",
@@ -195,10 +199,6 @@
     {
       "basename": "Xamarin Forms & Azure DevOps",
       "path": "💻 Programming/Xamarin Forms & Azure DevOps.md"
-    },
-    {
-      "basename": "2022-05-10",
-      "path": "📆 Calendar/2022/2022-WK19/2022-05-10.md"
     }
   ],
   "omittedPaths": [],
