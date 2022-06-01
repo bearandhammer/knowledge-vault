@@ -14,8 +14,8 @@ tags: 🫀
 7:20am - out of bed.
 Morning walk increase to ~50 minutes (each day).
 Usual 30 minute lunch time walk.
-Usual 30 minute evening walk (if not running).
-20 minutes of 'house jogging'.
+Usual 30 minute evening walk (if not running in the evening).
+~30 minutes of 'house jogging' (if not running).
 
 
 ## 01/06/2022
@@ -27,7 +27,7 @@ Usual 30 minute evening walk (if not running).
 ## 02/06/2022
 ---
 
-- [ ] 5.5K run (easy pace).
+- [ ] 5.5K run (easy pace). 6K if feeling good.
 
 
 ## 03/06/2022
@@ -52,4 +52,20 @@ Usual 30 minute evening walk (if not running).
 ## 06/06/2022
 ---
 
-TBD
+
+## 07/06/2022
+---
+
+
+## 08/06/2022
+---
+
+
+## 09/06/2022
+---
+
+- [ ] 6K run (easy pace)).
+
+## 10/06/2022
+---
+
