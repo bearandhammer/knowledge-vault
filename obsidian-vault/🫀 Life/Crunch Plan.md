@@ -5,7 +5,7 @@ tags: 🫀
 # Crunch Plan
 
 ***Target:*** 3-3.5 lb.
-***Deficit through exercise:*** 10,500 calories/8 days.
+***Deficit through exercise/food intake reduction:*** 10,500 calories/8 days.
 
 
 ## Daily
