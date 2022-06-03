@@ -29,8 +29,8 @@ Usual 30 minute evening walk (if not running in the evening).
 ---
 
 - [x] Extended morning walk.
-- [ ] 5.5K run (easy pace). 6K if feeling good.
-- [ ] Evening walk.
+- [x] 5.5K run (easy pace). 6K if feeling good.
+- [x] Evening walk.
 
 
 ## 03/06/2022
