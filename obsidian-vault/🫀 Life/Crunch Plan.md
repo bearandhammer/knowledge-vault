@@ -38,7 +38,7 @@ Usual 30 minute evening walk (if not running in the evening).
 
 - [x] Extended morning walk.
 - [x] Running Channel HIIT workout #1.
-- [ ] Lunchtime walk.
+- [x] Lunchtime walk.
 - [ ] Evening walk.
 
 
