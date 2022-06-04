@@ -45,7 +45,7 @@ Usual 30 minute evening walk (if not running in the evening).
 ## 04/06/2022
 ---
 
-- [ ] Extended morning walk.
+- [x] Extended morning walk.
 - [ ] 6K run (easy pace & will depend on feel from the previous day).
 - [ ] Evening walk.
 
