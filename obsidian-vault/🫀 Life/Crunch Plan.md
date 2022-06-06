@@ -63,7 +63,7 @@ Usual 30 minute evening walk (if not running in the evening).
 ## 06/06/2022
 ---
 
-- [x] Extended morning walk.
+- [x] Extended morning walk. Switched to morning jog (in-house).
 - [ ] Lunchtime walk.
 - [ ] 6K run (easy pace).
 
