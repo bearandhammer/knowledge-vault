@@ -55,7 +55,7 @@ Usual 30 minute evening walk (if not running in the evening).
 
 - [x] Extended morning walk.
 - [x] Lunchtime walk.
-- [ ] Evening walk.
+- [x] Evening walk.
 - [x] Rest (outside of daily activities).
 - [x] Weigh in (hoping for 1 - 1.5lbs). Nearly at 1!
 
@@ -63,7 +63,7 @@ Usual 30 minute evening walk (if not running in the evening).
 ## 06/06/2022
 ---
 
-- [ ] Extended morning walk.
+- [x] Extended morning walk.
 - [ ] Lunchtime walk.
 - [ ] 6K run (easy pace).
 
