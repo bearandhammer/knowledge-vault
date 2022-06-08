@@ -80,10 +80,10 @@ Usual 30 minute evening walk (if not running in the evening).
 ## 08/06/2022
 ---
 
-- [ ] Extended morning walk. In house.
-- [ ] Lunchtime - Running Channel HIIT workout #1.
+- [x] Extended morning walk. In house.
+- [x] Lunchtime - Running Channel HIIT workout #1.
 - [ ] Lounge run (1 hour).
-- [ ] Evening walk + roll.
+- [x] Evening walk + roll. Walked into town and back.
 
 
 ## 09/06/2022
