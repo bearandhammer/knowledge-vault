@@ -90,12 +90,14 @@ Usual 30 minute evening walk (if not running in the evening).
 ---
 
 - [x] Extended morning walk.
-- [ ] Lunchtime walk.
-- [ ] 6K run (easy pace).
+- [x] Lunchtime walk.
+- [x] 6K run (easy pace).
 
 
 ## 10/06/2022
 ---
 
-- [ ] Weigh in (official).
-- [ ] Smash scales.
+- [x] Weigh in (official).
+- [x] Smash scales.
+
+AND WE DID IT!!!!!
