@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06-07.md",
+            "file": "📆 Calendar/2022/2022-WK23/2022-06-12.md",
             "mode": "source",
             "source": false
           }
@@ -20,13 +20,43 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-06-07.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-12.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-06-06.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-11.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-10.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-09.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-08.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-07.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK23/2022-06-06.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -160,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-07.md",
+                "file": "📆 Calendar/2022/2022-WK23/2022-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,15 +265,15 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "2022-06-07.md",
-    "2022-06-06.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-12.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-11.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-10.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-09.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-08.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-07.md",
+    "📆 Calendar/2022/2022-WK23/2022-06-06.md",
     "🥑 Nutritition/Breakfasts/Breakfast Ideas.md",
     "♟ Board Games/Detective/Detective Case One.md",
-    "🏃‍♂ Fitness/Fitness Utilities.md",
-    "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
-    "🫀 Life/Crunch Plan.md",
-    "🫀 Life/House Organisation Hacks.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-02.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-05.md"
+    "🏃‍♂ Fitness/Fitness Utilities.md"
   ]
 }
