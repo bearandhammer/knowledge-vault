@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-07",
+      "path": "2022-06-07.md"
+    },
+    {
+      "basename": "2022-06-06",
+      "path": "2022-06-06.md"
+    },
+    {
+      "basename": "Breakfast Ideas",
+      "path": "🥑 Nutritition/Breakfasts/Breakfast Ideas.md"
+    },
+    {
+      "basename": "Detective Case One",
+      "path": "♟ Board Games/Detective/Detective Case One.md"
+    },
+    {
+      "basename": "Fitness Utilities",
+      "path": "🏃‍♂ Fitness/Fitness Utilities.md"
+    },
+    {
+      "basename": "Bodyweight Exercise Research",
+      "path": "🏃‍♂ Fitness/Bodyweight Exercise Research.md"
+    },
+    {
       "basename": "Crunch Plan",
       "path": "🫀 Life/Crunch Plan.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "2022-05-28",
       "path": "📆 Calendar/2022/2022-WK21/2022-05-28.md"
-    },
-    {
-      "basename": "Detective Case One",
-      "path": "♟ Board Games/Detective/Detective Case One.md"
     },
     {
       "basename": "Recording 20220528144622",
@@ -179,26 +199,6 @@
     {
       "basename": "Architecture Diagram",
       "path": "🐸 Frog & Pencil/Architecture Diagram.md"
-    },
-    {
-      "basename": "Business Ideas",
-      "path": "🐸 Frog & Pencil/Business Ideas.md"
-    },
-    {
-      "basename": "Frog & Pencil Website Improvements",
-      "path": "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md"
-    },
-    {
-      "basename": "Throw Framework",
-      "path": "💻 Programming/Throw Framework.md"
-    },
-    {
-      "basename": "VS Project Templates",
-      "path": "💻 Programming/VS Project Templates.md"
-    },
-    {
-      "basename": "Xamarin Forms & Azure DevOps",
-      "path": "💻 Programming/Xamarin Forms & Azure DevOps.md"
     }
   ],
   "omittedPaths": [],

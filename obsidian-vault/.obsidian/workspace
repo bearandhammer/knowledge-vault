@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🫀 Life/Crunch Plan.md",
+            "file": "2022-06-07.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,44 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-06-07.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-06-06.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🥑 Nutritition/Breakfasts/Breakfast Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"♟ Board Games/Detective/Detective Case One.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":78.08652729384437}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Fitness Utilities.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Bodyweight Exercise Research.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Crunch Plan.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.7826086956521738}"
+              "eState": "{\"scroll\":82.62253193960511}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -124,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Crunch Plan.md",
+                "file": "2022-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,20 +231,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381,
-    "collapsed": true
+    "width": 381
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "2022-06-07.md",
+    "2022-06-06.md",
+    "🥑 Nutritition/Breakfasts/Breakfast Ideas.md",
+    "♟ Board Games/Detective/Detective Case One.md",
+    "🏃‍♂ Fitness/Fitness Utilities.md",
+    "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
     "🫀 Life/Crunch Plan.md",
     "🫀 Life/House Organisation Hacks.md",
     "📆 Calendar/2022/2022-WK22/2022-06-02.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-05.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-04.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-03.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-01.md",
-    "📆 Calendar/2022/2022-WK22/2022-05-31.md",
-    "📆 Calendar/2022/2022-WK22/2022-05-30.md",
-    "📆 Calendar/2022/2022-WK21/2022-05-29.md"
+    "📆 Calendar/2022/2022-WK22/2022-06-05.md"
   ]
 }
