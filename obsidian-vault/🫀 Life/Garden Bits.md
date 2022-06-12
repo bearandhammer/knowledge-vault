@@ -8,4 +8,8 @@
 - [ ] [Large Black Lantern](https://www.dunelm.com/product/large-black-lantern-1000190268?defaultSkuId=30745262)
 - [ ] [Cut Out Black Lantern](https://www.dunelm.com/product/cut-out-black-lantern-1000188150?defaultSkuId=30732416)
 - [ ] [Oriental Lanterns Lantern Lanterns Metal Antique Outside Outdoor](https://www.ebay.co.uk/itm/265633895439?chn=ps&mkevt=1&mkcid=28)
+- [ ] [Habitat Semi Circle Geo Print Cushion - Blush Pink](https://www.habitat.co.uk/product/9618091?clickPR=plp:65:84)
+- [ ] [Habitat Studio Geo Print Cushion Cover - Navy & Terracotta](https://www.habitat.co.uk/product/9340802?clickPR=plp:14:84)
+- [ ] [Habitat Studio OH Graphic Patterned Cushion](https://www.habitat.co.uk/product/9333008?clickPR=plp:13:84)
+- [ ] [Jersey Bobble Cushion](https://www.dunelm.com/product/jersey-bobble-cushion-1000187618)
 - [ ] 
