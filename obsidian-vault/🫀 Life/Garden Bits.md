@@ -12,4 +12,3 @@
 - [ ] [Habitat Studio Geo Print Cushion Cover - Navy & Terracotta](https://www.habitat.co.uk/product/9340802?clickPR=plp:14:84)
 - [ ] [Habitat Studio OH Graphic Patterned Cushion](https://www.habitat.co.uk/product/9333008?clickPR=plp:13:84)
 - [ ] [Jersey Bobble Cushion](https://www.dunelm.com/product/jersey-bobble-cushion-1000187618)
-- [ ] 
