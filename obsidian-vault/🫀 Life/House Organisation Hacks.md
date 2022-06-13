@@ -59,11 +59,6 @@ A lazy susan would be good where we have our plates -> we have a tonne of unused
 ---
 
 
-
-### Notes
----
-
-
 ## Weird MacGuffins 👽
 ---
 
