@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK24/2022-06-13.md",
+            "file": "📆 Calendar/2022/2022-WK24/2022-06-19.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,42 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-19.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-18.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-17.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-16.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-15.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-14.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":10},\"to\":{\"line\":7,\"ch\":10}}}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -100,42 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-13.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-19.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-18.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-17.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-18.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-17.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-16.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK24/2022-06-13.md",
+                "file": "📆 Calendar/2022/2022-WK24/2022-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,14 +289,14 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "📆 Calendar/2022/2022-WK24/2022-06-13.md",
     "📆 Calendar/2022/2022-WK24/2022-06-19.md",
-    "📆 Calendar/2022/2022-WK24/2022-W24.md",
     "📆 Calendar/2022/2022-WK24/2022-06-18.md",
     "📆 Calendar/2022/2022-WK24/2022-06-17.md",
     "📆 Calendar/2022/2022-WK24/2022-06-16.md",
     "📆 Calendar/2022/2022-WK24/2022-06-15.md",
     "📆 Calendar/2022/2022-WK24/2022-06-14.md",
+    "📆 Calendar/2022/2022-WK24/2022-06-13.md",
+    "📆 Calendar/2022/2022-WK24/2022-W24.md",
     "📆 Calendar/2022/2022-WK19/2022-05-11.md",
     "📆 Calendar/2022/2022-WK20/2022-05-17.md"
   ]
