@@ -2,7 +2,13 @@
 tags: 💻
 ---
 
-- [ ] What's New in C# 7 - complete by 15/06/2022
-- [ ] What's ew in C# 7.1 - complete by COP 17/06/2022
-- [ ] What's new in C# 7.2 - complete by COP 19/06/2022
-- [ ] What's new in
+# CSharp Language Feature Course Timeline
+---
+
+- [ ] What's New in C# 7 - complete by COP 15/06/2022.
+- [ ] What's New in C# 7.1 - complete by COP 17/06/2022.
+- [ ] What's New in C# 7.2 - complete by COP 19/06/2022.
+- [ ] What's New in C# 7.3 - complete by COP 21/06/2022.
+- [ ] What's New in C#8 - complete by COP 24/06/2022.
+- [ ] What's New in C#9 - complete by COP  26/06/2022.
+- [ ] What's New in C#10 - complete by COP 29/06/2022.
