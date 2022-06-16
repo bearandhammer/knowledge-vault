@@ -7,3 +7,4 @@ tags: 💻
 1. Deep dive into .NET Maui.
 2. BenchmarkDotNet.
 3. Throw extension library.
+4. Further OData post (capabilities/batching).

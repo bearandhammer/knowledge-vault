@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
+    },
+    {
+      "basename": "Docker on Windows with WSL 2",
+      "path": "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md"
+    },
+    {
       "basename": "CSharp Language Feature Course Timeline",
       "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Garden Bits",
       "path": "🫀 Life/Garden Bits.md"
-    },
-    {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
     },
     {
       "basename": "2022-W22",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20220528230708",
       "path": "♟ Board Games/Detective/Pasted image 20220528230708.png"
-    },
-    {
-      "basename": "2022-05-27",
-      "path": "📆 Calendar/2022/2022-WK21/2022-05-27.md"
     }
   ],
   "omittedPaths": [],
