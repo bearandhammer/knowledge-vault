@@ -4,7 +4,7 @@ tags: 💻
 
 # Further Blog Post Ideas
 
-1. Deep dive into .NET Maui.
+1. Deep dive into .NET MAUI.
 2. BenchmarkDotNet.
 3. Throw extension library.
 4. Further OData post (capabilities/batching).
