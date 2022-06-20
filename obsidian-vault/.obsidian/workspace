@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK24/2022-06-18.md",
+            "file": "📆 Calendar/2022/2022-WK24/2022-W24.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,20 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-W24.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-19.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-18.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-13.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-06-19.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK24/2022-W24.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":40.00892857142857}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK24/2022-06-18.md",
+                "file": "📆 Calendar/2022/2022-WK24/2022-W24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,8 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK24/2022-W24.md",
+    "📆 Calendar/2022/2022-WK24/2022-06-19.md",
     "📆 Calendar/2022/2022-WK24/2022-06-18.md",
     "📆 Calendar/2022/2022-WK24/2022-06-17.md",
     "📆 Calendar/2022/2022-WK24/2022-06-16.md",
@@ -296,8 +298,6 @@
     "📆 Calendar/2022/2022-WK24/2022-06-14.md",
     "💻 Programming/CSharp Language Feature Course Timeline.md",
     "📧 Inbox/Further Blog Post Ideas.md",
-    "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md",
-    "📆 Calendar/2022/2022-WK24/2022-06-19.md",
-    "📆 Calendar/2022/2022-WK24/2022-06-13.md"
+    "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md"
   ]
 }
