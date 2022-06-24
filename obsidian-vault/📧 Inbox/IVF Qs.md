@@ -1,0 +1,2 @@
+- Where to go - normal venue?
+- That about covers it I think.
