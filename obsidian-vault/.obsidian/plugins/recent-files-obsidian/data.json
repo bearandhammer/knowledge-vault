@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
+    },
+    {
       "basename": "2022-06-24",
       "path": "📆 Calendar/2022/2022-WK25/2022-06-24.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "2022-06-14",
       "path": "📆 Calendar/2022/2022-WK24/2022-06-14.md"
-    },
-    {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
     },
     {
       "basename": "Docker on Windows with WSL 2",

@@ -9,4 +9,5 @@ tags: 💻
 3. Throw extension library.
 4. Further OData post (capabilities/batching).
 	1. To include select, filter, expand, count, search & compute.
+5. BenchmarkDotNet (AutoMapper vs Mapster).
 
