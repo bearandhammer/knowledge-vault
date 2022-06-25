@@ -12,4 +12,4 @@ tags: 💻
 5. BenchmarkDotNet (AutoMapper vs Mapster).
 6. Combine points 4/5 into a full grids example.
 7. ExcelMapper library (usage).
-
+8. ADF pipelines (example usage). May as well document this for myself.
