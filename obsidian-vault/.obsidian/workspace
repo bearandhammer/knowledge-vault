@@ -21,7 +21,7 @@
               "leaf": "d9cf910d47f6bc26",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Holibobs.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad738246b9131586",
@@ -285,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381
+    "width": 381,
+    "collapsed": true
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
