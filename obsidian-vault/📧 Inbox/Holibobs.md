@@ -20,3 +20,7 @@ Booking ref: BC393738
 
 https://www.bigodskitchen.com/gallery
 
+Lunches
+Afternoon tea
+Walks
+
