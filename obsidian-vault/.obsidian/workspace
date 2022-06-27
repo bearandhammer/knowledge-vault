@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📧 Inbox/Holibobs.md",
+            "file": "📆 Calendar/2022/2022-WK27/2022-07-04.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,26 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-04.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-07-03.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-04.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Holibobs.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.7826086956521738}"
+              "eState": "{\"scroll\":1.7826086956521738}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -118,24 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":26},\"to\":{\"line\":7,\"ch\":26}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-06-27.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":34},\"to\":{\"line\":22,\"ch\":34}}}"
             }
           ]
         }
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad738246b9131586",
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📧 Inbox/Holibobs.md",
+                "file": "📆 Calendar/2022/2022-WK27/2022-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,15 +290,15 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "📧 Inbox/Holibobs.md",
+    "📆 Calendar/2022/2022-WK27/2022-07-04.md",
     "📆 Calendar/2022/2022-WK26/2022-07-03.md",
+    "📧 Inbox/Holibobs.md",
     "📆 Calendar/2022/2022-WK26/2022-07-02.md",
     "📆 Calendar/2022/2022-WK26/2022-07-01.md",
     "📆 Calendar/2022/2022-WK26/2022-06-30.md",
     "📆 Calendar/2022/2022-WK26/2022-06-29.md",
     "📆 Calendar/2022/2022-WK26/2022-06-27.md",
     "📆 Calendar/2022/2022-WK26/2022-06-28.md",
-    "📆 Calendar/2022/2022-WK26/2022-W26.md",
-    "📆 Calendar/2022/2022-WK27/2022-W27.md"
+    "📆 Calendar/2022/2022-WK26/2022-W26.md"
   ]
 }
