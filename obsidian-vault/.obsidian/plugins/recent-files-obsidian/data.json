@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Event Storming",
+      "path": "👔 Professional Skills/Event Storming.md"
+    },
+    {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
+    },
+    {
+      "basename": "2022-06-28",
+      "path": "📆 Calendar/2022/2022-WK26/2022-06-28.md"
+    },
+    {
+      "basename": "2022-06-27",
+      "path": "📆 Calendar/2022/2022-WK26/2022-06-27.md"
+    },
+    {
       "basename": "2022-06-30",
       "path": "📆 Calendar/2022/2022-WK26/2022-06-30.md"
     },
@@ -27,14 +43,6 @@
     {
       "basename": "2022-06-29",
       "path": "📆 Calendar/2022/2022-WK26/2022-06-29.md"
-    },
-    {
-      "basename": "2022-06-27",
-      "path": "📆 Calendar/2022/2022-WK26/2022-06-27.md"
-    },
-    {
-      "basename": "2022-06-28",
-      "path": "📆 Calendar/2022/2022-WK26/2022-06-28.md"
     },
     {
       "basename": "2022-W26",
@@ -177,10 +185,6 @@
       "path": "📆 Calendar/2022/2022-WK25/2022-W25.md"
     },
     {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
-    },
-    {
       "basename": "IVF Qs",
       "path": "📧 Inbox/IVF Qs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Docker on Windows with WSL 2",
       "path": "📰 Blog Notes (Archive)/Archive/Docker on Windows with WSL 2.md"
-    },
-    {
-      "basename": "2022-05-11",
-      "path": "📆 Calendar/2022/2022-WK19/2022-05-11.md"
     }
   ],
   "omittedPaths": [],
