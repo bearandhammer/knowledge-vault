@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK26/2022-06-28.md",
+            "file": "📆 Calendar/2022/2022-WK26/2022-06-29.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":17},\"to\":{\"line\":8,\"ch\":17}}}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-07-02.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK26/2022-07-01.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":15},\"to\":{\"line\":7,\"ch\":15}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK26/2022-06-28.md",
+                "file": "📆 Calendar/2022/2022-WK26/2022-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,8 +290,8 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "📆 Calendar/2022/2022-WK26/2022-06-28.md",
     "📆 Calendar/2022/2022-WK26/2022-06-29.md",
+    "📆 Calendar/2022/2022-WK26/2022-06-28.md",
     "👔 Professional Skills/Event Storming.md",
     "📧 Inbox/Further Blog Post Ideas.md",
     "📆 Calendar/2022/2022-WK26/2022-06-27.md",
