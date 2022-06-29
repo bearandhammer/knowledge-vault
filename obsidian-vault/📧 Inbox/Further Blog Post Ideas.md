@@ -25,3 +25,4 @@ https://github.com/SteveDunn/Vogen
 
 https://github.com/riok/mapperly
 
+https://github.com/mjebrahimi/Benchmark.netCoreMappers
