@@ -13,3 +13,9 @@ tags: 💻
 6. Combine points 4/5 into a full grids example.
 7. ExcelMapper library (usage).
 8. ADF pipelines (example usage). May as well document this for myself.
+
+## Other Links
+---
+
+https://github.com/meziantou/Meziantou.Analyzer
+
