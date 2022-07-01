@@ -5,6 +5,10 @@
       "path": "📆 Calendar/2022/2022-WK26/2022-07-01.md"
     },
     {
+      "basename": "2022-07-02",
+      "path": "📆 Calendar/2022/2022-WK26/2022-07-02.md"
+    },
+    {
       "basename": "2022-06-30",
       "path": "📆 Calendar/2022/2022-WK26/2022-06-30.md"
     },
@@ -13,12 +17,12 @@
       "path": "📆 Calendar/2022/2022-WK26/2022-06-29.md"
     },
     {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
-    },
-    {
       "basename": "2022-06-28",
       "path": "📆 Calendar/2022/2022-WK26/2022-06-28.md"
+    },
+    {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
     },
     {
       "basename": "Event Storming",
@@ -39,10 +43,6 @@
     {
       "basename": "Holibobs",
       "path": "📧 Inbox/Holibobs.md"
-    },
-    {
-      "basename": "2022-07-02",
-      "path": "📆 Calendar/2022/2022-WK26/2022-07-02.md"
     },
     {
       "basename": "2022-W26",
