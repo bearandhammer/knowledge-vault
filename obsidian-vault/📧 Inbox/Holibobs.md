@@ -24,3 +24,5 @@ Lunches
 Afternoon tea
 Walks
 
+Wednesday - Blakeney.
+Thursday - Cycling.
