@@ -13,3 +13,4 @@ tags: 💻
 
 [Exam DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900)
 
+ 
