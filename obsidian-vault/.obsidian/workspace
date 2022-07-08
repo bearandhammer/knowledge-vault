@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK27/2022-07-07.md",
+            "file": "💻 Programming/Certifications.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,26 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Certifications.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":116},\"to\":{\"line\":13,\"ch\":116}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Azure Data Lake Resources.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🐸 Frog & Pencil/Business Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-07.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -118,24 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-06.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-07.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-06.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK27/2022-07-05.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK27/2022-07-07.md",
+                "file": "💻 Programming/Certifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,15 +290,15 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "💻 Programming/Certifications.md",
+    "💻 Programming/Azure Data Lake Resources.md",
+    "🐸 Frog & Pencil/Business Ideas.md",
     "📆 Calendar/2022/2022-WK27/2022-07-07.md",
     "📆 Calendar/2022/2022-WK27/2022-07-08.md",
     "💻 Programming/Azure Pipelines YAML.md",
-    "💻 Programming/Certifications.md",
     "💻 Programming/GitHub Repos.md",
     "📆 Calendar/2022/2022-WK27/2022-07-06.md",
     "📆 Calendar/2022/2022-WK27/2022-07-09.md",
-    "📆 Calendar/2022/2022-WK26/2022-07-03.md",
-    "📆 Calendar/2022/2022-WK26/2022-07-02.md",
-    "📆 Calendar/2022/2022-WK26/2022-07-01.md"
+    "📆 Calendar/2022/2022-WK26/2022-07-03.md"
   ]
 }
