@@ -5,4 +5,5 @@ Order: #1375
 ## Activity
 ---
 
-Ordered on: 
+- Ordered on: 12th June (3-5 week lead time).
+- Email sent (to check in on order): 22nd July.
