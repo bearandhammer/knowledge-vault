@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/Udemy Courses.md",
+            "file": "💻 Programming/Books.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Udemy Courses.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Books.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Udemy Courses.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK29/2022-07-23.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK29/2022-07-24.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":23},\"to\":{\"line\":7,\"ch\":23}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Udemy Courses.md",
+                "file": "💻 Programming/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +290,7 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "💻 Programming/Udemy Courses.md",
     "📧 Inbox/Pastos Order.md",
     "📆 Calendar/2022/2022-WK29/2022-07-22.md",
     "📆 Calendar/2022/2022-WK29/2022-07-23.md",
@@ -298,7 +299,6 @@
     "📆 Calendar/2022/2022-WK29/2022-07-24.md",
     "📆 Calendar/2022/2022-WK29/2022-07-20.md",
     "📆 Calendar/2022/2022-WK29/2022-W29.md",
-    "📆 Calendar/2022/2022-WK29/2022-07-19.md",
-    "📆 Calendar/2022/2022-WK29/2022-07-18.md"
+    "📆 Calendar/2022/2022-WK29/2022-07-19.md"
   ]
 }
