@@ -10,3 +10,6 @@ https://www.amazon.co.uk/10-NET-Cross-Platform-Development-websites/dp/180107736
 
 https://www.amazon.co.uk/dp/1801816611/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1801816611&pd_rd_w=n9h7z&content-id=amzn1.sym.1d17a7d9-68f2-46c6-a55b-f888c57f8c2e&pf_rd_p=1d17a7d9-68f2-46c6-a55b-f888c57f8c2e&pf_rd_r=455NGTYHJFGV2SPR6575&pd_rd_wg=bxhJD&pd_rd_r=900bc7fe-b3e1-4d22-8d91-9255b52c49a1&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzT0JHUjBYTDNMTVNEJmVuY3J5cHRlZElkPUEwMzQ2MjczMTZFWllZVjk5VUpCRCZlbmNyeXB0ZWRBZElkPUEwNjI2MzEyMVFBWEtMQ1hINDNJNSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 
+Oldie but goodie...
+
+https://www.amazon.co.uk/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
