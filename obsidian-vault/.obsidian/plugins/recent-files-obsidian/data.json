@@ -5,6 +5,34 @@
       "path": "📆 Calendar/2022/2022-WK29/2022-07-24.md"
     },
     {
+      "basename": "2022-07-31",
+      "path": "2022-07-31.md"
+    },
+    {
+      "basename": "2022-07-30",
+      "path": "2022-07-30.md"
+    },
+    {
+      "basename": "2022-07-29",
+      "path": "2022-07-29.md"
+    },
+    {
+      "basename": "2022-07-28",
+      "path": "2022-07-28.md"
+    },
+    {
+      "basename": "2022-07-27",
+      "path": "2022-07-27.md"
+    },
+    {
+      "basename": "2022-07-26",
+      "path": "2022-07-26.md"
+    },
+    {
+      "basename": "2022-07-25",
+      "path": "2022-07-25.md"
+    },
+    {
       "basename": "2022-07-23",
       "path": "📆 Calendar/2022/2022-WK29/2022-07-23.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "2022-07-02",
       "path": "📆 Calendar/2022/2022-WK26/2022-07-02.md"
-    },
-    {
-      "basename": "2022-07-01",
-      "path": "📆 Calendar/2022/2022-WK26/2022-07-01.md"
-    },
-    {
-      "basename": "2022-07-05",
-      "path": "📆 Calendar/2022/2022-WK27/2022-07-05.md"
-    },
-    {
-      "basename": "2022-W26",
-      "path": "📆 Calendar/2022/2022-WK26/2022-W26.md"
-    },
-    {
-      "basename": "TypeScript ASP.NET Core",
-      "path": "💻 Programming/TypeScript ASP.NET Core.md"
-    },
-    {
-      "basename": "Throw Framework",
-      "path": "💻 Programming/Throw Framework.md"
-    },
-    {
-      "basename": "2022-06-30",
-      "path": "📆 Calendar/2022/2022-WK26/2022-06-30.md"
-    },
-    {
-      "basename": "2022-06-29",
-      "path": "📆 Calendar/2022/2022-WK26/2022-06-29.md"
     }
   ],
   "omittedPaths": [],
