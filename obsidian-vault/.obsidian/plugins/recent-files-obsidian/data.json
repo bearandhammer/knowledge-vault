@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-W30",
+      "path": "📆 Calendar/2022/2022-WK30/2022-W30.md"
+    },
+    {
       "basename": "2022-W29",
       "path": "📆 Calendar/2022/2022-WK29/2022-W29.md"
+    },
+    {
+      "basename": "2022-07-25",
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-25.md"
     },
     {
       "basename": "2022-07-24",
@@ -10,31 +18,27 @@
     },
     {
       "basename": "2022-07-31",
-      "path": "2022-07-31.md"
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-31.md"
     },
     {
       "basename": "2022-07-30",
-      "path": "2022-07-30.md"
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-30.md"
     },
     {
       "basename": "2022-07-29",
-      "path": "2022-07-29.md"
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-29.md"
     },
     {
       "basename": "2022-07-28",
-      "path": "2022-07-28.md"
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-28.md"
     },
     {
       "basename": "2022-07-27",
-      "path": "2022-07-27.md"
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-27.md"
     },
     {
       "basename": "2022-07-26",
-      "path": "2022-07-26.md"
-    },
-    {
-      "basename": "2022-07-25",
-      "path": "2022-07-25.md"
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-26.md"
     },
     {
       "basename": "2022-07-23",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-07-06",
       "path": "📆 Calendar/2022/2022-WK27/2022-07-06.md"
-    },
-    {
-      "basename": "2022-07-02",
-      "path": "📆 Calendar/2022/2022-WK26/2022-07-02.md"
     }
   ],
   "omittedPaths": [],
