@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "VS Project Templates",
+      "path": "💻 Programming/VS Project Templates.md"
+    },
+    {
+      "basename": "Udemy Courses",
+      "path": "💻 Programming/Udemy Courses.md"
+    },
+    {
+      "basename": "TypeScript ASP.NET Core",
+      "path": "💻 Programming/TypeScript ASP.NET Core.md"
+    },
+    {
+      "basename": "Throw Framework",
+      "path": "💻 Programming/Throw Framework.md"
+    },
+    {
+      "basename": "GitHub Repos",
+      "path": "💻 Programming/GitHub Repos.md"
+    },
+    {
+      "basename": "Custom OData Resources",
+      "path": "💻 Programming/Custom OData Resources.md"
+    },
+    {
       "basename": "CSharp Language Feature Course Timeline",
       "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
+    },
+    {
+      "basename": "Azure Data Lake Resources",
+      "path": "💻 Programming/Azure Data Lake Resources.md"
+    },
+    {
+      "basename": "Azure Pipelines YAML",
+      "path": "💻 Programming/Azure Pipelines YAML.md"
     },
     {
       "basename": "Pastos Order",
@@ -77,10 +109,6 @@
       "path": "💻 Programming/Books.md"
     },
     {
-      "basename": "Udemy Courses",
-      "path": "💻 Programming/Udemy Courses.md"
-    },
-    {
       "basename": "2022-07-14",
       "path": "📆 Calendar/2022/2022-WK28/2022-07-14.md"
     },
@@ -119,18 +147,6 @@
     {
       "basename": "Event Storming",
       "path": "👔 Professional Skills/Event Storming.md"
-    },
-    {
-      "basename": "VS Project Templates",
-      "path": "💻 Programming/VS Project Templates.md"
-    },
-    {
-      "basename": "GitHub Repos",
-      "path": "💻 Programming/GitHub Repos.md"
-    },
-    {
-      "basename": "Custom OData Resources",
-      "path": "💻 Programming/Custom OData Resources.md"
     },
     {
       "basename": "Xamarin Forms & Azure DevOps",
@@ -183,22 +199,6 @@
     {
       "basename": "Certifications",
       "path": "💻 Programming/Certifications.md"
-    },
-    {
-      "basename": "Azure Data Lake Resources",
-      "path": "💻 Programming/Azure Data Lake Resources.md"
-    },
-    {
-      "basename": "Business Ideas",
-      "path": "🐸 Frog & Pencil/Business Ideas.md"
-    },
-    {
-      "basename": "Azure Pipelines YAML",
-      "path": "💻 Programming/Azure Pipelines YAML.md"
-    },
-    {
-      "basename": "2022-07-06",
-      "path": "📆 Calendar/2022/2022-WK27/2022-07-06.md"
     }
   ],
   "omittedPaths": [],
