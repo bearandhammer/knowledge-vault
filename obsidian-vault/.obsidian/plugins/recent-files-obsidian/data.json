@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "VS Project Templates",
-      "path": "💻 Programming/VS Project Templates.md"
+      "basename": "Crunch Plan",
+      "path": "🫀 Life/Crunch Plan.md"
+    },
+    {
+      "basename": "Hydration Aids",
+      "path": "📧 Inbox/Hydration Aids.md"
     },
     {
       "basename": "Udemy Courses",
       "path": "💻 Programming/Udemy Courses.md"
+    },
+    {
+      "basename": "VS Project Templates",
+      "path": "💻 Programming/VS Project Templates.md"
     },
     {
       "basename": "TypeScript ASP.NET Core",
@@ -173,10 +181,6 @@
       "path": "📧 Inbox/IVF Qs.md"
     },
     {
-      "basename": "Hydration Aids",
-      "path": "📧 Inbox/Hydration Aids.md"
-    },
-    {
       "basename": "Holibobs",
       "path": "📧 Inbox/Holibobs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-07-03",
       "path": "📆 Calendar/2022/2022-WK26/2022-07-03.md"
-    },
-    {
-      "basename": "Certifications",
-      "path": "💻 Programming/Certifications.md"
     }
   ],
   "omittedPaths": [],
