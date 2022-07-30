@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/CSharp Language Feature Course Timeline.md",
+            "file": "📆 Calendar/2022/2022-WK30/2022-07-29.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,36 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK30/2022-07-29.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK30/2022-07-28.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK30/2022-07-27.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK30/2022-07-28.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Certifications.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -106,36 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Azure Data Lake Resources.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Azure Pipelines YAML.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/CSharp Language Feature Course Timeline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Pastos Order.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK30/2022-07-26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK30/2022-07-25.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/CSharp Language Feature Course Timeline.md",
+                "file": "📆 Calendar/2022/2022-WK30/2022-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,15 +290,15 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "💻 Programming/Books.md",
+    "📆 Calendar/2022/2022-WK30/2022-07-28.md",
+    "📆 Calendar/2022/2022-WK30/2022-07-27.md",
+    "💻 Programming/Certifications.md",
     "💻 Programming/CSharp Language Feature Course Timeline.md",
+    "💻 Programming/Books.md",
     "🫀 Life/Crunch Plan.md",
     "📧 Inbox/Hydration Aids.md",
     "💻 Programming/Udemy Courses.md",
     "💻 Programming/VS Project Templates.md",
-    "💻 Programming/TypeScript ASP.NET Core.md",
-    "💻 Programming/Throw Framework.md",
-    "💻 Programming/GitHub Repos.md",
-    "💻 Programming/Custom OData Resources.md"
+    "💻 Programming/TypeScript ASP.NET Core.md"
   ]
 }

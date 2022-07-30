@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-29",
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-29.md"
+    },
+    {
+      "basename": "2022-07-28",
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-28.md"
+    },
+    {
+      "basename": "2022-07-27",
+      "path": "📆 Calendar/2022/2022-WK30/2022-07-27.md"
+    },
+    {
+      "basename": "Certifications",
+      "path": "💻 Programming/Certifications.md"
+    },
+    {
       "basename": "CSharp Language Feature Course Timeline",
       "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
     },
@@ -59,18 +75,6 @@
     {
       "basename": "2022-07-25",
       "path": "📆 Calendar/2022/2022-WK30/2022-07-25.md"
-    },
-    {
-      "basename": "2022-07-29",
-      "path": "📆 Calendar/2022/2022-WK30/2022-07-29.md"
-    },
-    {
-      "basename": "2022-07-28",
-      "path": "📆 Calendar/2022/2022-WK30/2022-07-28.md"
-    },
-    {
-      "basename": "2022-07-27",
-      "path": "📆 Calendar/2022/2022-WK30/2022-07-27.md"
     },
     {
       "basename": "2022-W30",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-07-07",
       "path": "📆 Calendar/2022/2022-WK27/2022-07-07.md"
-    },
-    {
-      "basename": "2022-07-03",
-      "path": "📆 Calendar/2022/2022-WK26/2022-07-03.md"
     }
   ],
   "omittedPaths": [],
