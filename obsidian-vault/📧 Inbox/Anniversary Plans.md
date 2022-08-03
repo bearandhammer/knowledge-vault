@@ -25,7 +25,7 @@ tags: 🫀
 - Baguette.
 - Cheeze and fake meat slices.
 - This isn't pork sausages.
-- Cake (from the cafe).
+- Cake (from the cafe). Might have to be later in the day.
 
 
 ## Order
