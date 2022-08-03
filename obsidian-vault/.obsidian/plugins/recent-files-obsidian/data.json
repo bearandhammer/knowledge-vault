@@ -5,6 +5,14 @@
       "path": "📧 Inbox/Anniversary Plans.md"
     },
     {
+      "basename": "Fitness Utilities",
+      "path": "🏃‍♂ Fitness/Fitness Utilities.md"
+    },
+    {
+      "basename": "Bodyweight Exercise Research",
+      "path": "🏃‍♂ Fitness/Bodyweight Exercise Research.md"
+    },
+    {
       "basename": "2022-08-06",
       "path": "📆 Calendar/2022/2022-WK31/2022-08-06.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2022-W28",
       "path": "📆 Calendar/2022/2022-WK28/2022-W28.md"
-    },
-    {
-      "basename": "2022-W27",
-      "path": "📆 Calendar/2022/2022-WK27/2022-W27.md"
-    },
-    {
-      "basename": "Event Storming",
-      "path": "👔 Professional Skills/Event Storming.md"
     }
   ],
   "omittedPaths": [],

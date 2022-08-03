@@ -10,6 +10,7 @@ tags: 🫀
 
 - Travel to Bacton Woods (with a picnic!!!).
 - Visit the vegan cafe at Bacton (Cafe Carmel).
+- Book outdoor table for dinner?
 
 
 ## Breakfast
@@ -37,8 +38,7 @@ tags: 🫀
 
 - Baguette from loaf?
 - Cheeze from online company ([I AM NUT OK](https://www.iamnutok.com/)).
-
-https://www.sunshinedelisheffield.com/
-
 - Bread source?
+- [Sunshine Deli Sheffield](https://www.sunshinedelisheffield.com/)
+
 

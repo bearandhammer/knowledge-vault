@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "📧 Inbox/Anniversary Plans.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
@@ -20,8 +20,26 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Anniversary Plans.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Anniversary Plans.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Fitness Utilities.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🏃‍♂ Fitness/Bodyweight Exercise Research.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📧 Inbox/Anniversary Plans.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -117,24 +135,6 @@
               "leaf": "d9cf910d47f6bc26",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-01.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-02.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-01.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-02.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -290,15 +290,15 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "🏃‍♂ Fitness/Fitness Utilities.md",
+    "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
+    "📧 Inbox/Anniversary Plans.md",
     "📆 Calendar/2022/2022-WK31/2022-08-06.md",
     "📆 Calendar/2022/2022-WK31/2022-08-01.md",
     "📆 Calendar/2022/2022-WK30/2022-07-31.md",
     "📆 Calendar/2022/2022-WK30/2022-07-30.md",
     "📆 Calendar/2022/2022-WK30/2022-07-29.md",
     "📆 Calendar/2022/2022-WK30/2022-07-28.md",
-    "📆 Calendar/2022/2022-WK30/2022-07-27.md",
-    "📆 Calendar/2022/2022-WK30/2022-07-26.md",
-    "📆 Calendar/2022/2022-WK30/2022-07-25.md",
-    "📆 Calendar/2022/2022-WK31/2022-08-02.md"
+    "📆 Calendar/2022/2022-WK30/2022-07-27.md"
   ]
 }
