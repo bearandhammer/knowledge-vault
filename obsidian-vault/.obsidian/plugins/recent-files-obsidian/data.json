@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anniversary Plans",
+      "path": "📧 Inbox/Anniversary Plans.md"
+    },
+    {
       "basename": "2022-08-06",
       "path": "📆 Calendar/2022/2022-WK31/2022-08-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Event Storming",
       "path": "👔 Professional Skills/Event Storming.md"
-    },
-    {
-      "basename": "Xamarin Forms & Azure DevOps",
-      "path": "💻 Programming/Xamarin Forms & Azure DevOps.md"
     }
   ],
   "omittedPaths": [],
