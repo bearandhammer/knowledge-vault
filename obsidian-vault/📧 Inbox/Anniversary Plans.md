@@ -25,7 +25,11 @@ tags: 🫀
 - Baguette.
 - Cheeze and fake meat slices.
 - This isn't pork sausages.
+- Hummus with usual (pepper, cucumber and carrot).
 - Cake (from the cafe). Might have to be later in the day.
+- Fruit (strawberries, grapes and melon).
+- Trail mix!
+- Flapjack, cookie, something.
 
 
 ## Order
