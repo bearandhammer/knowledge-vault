@@ -12,6 +12,11 @@ https://www.udemy.com/course/design-patterns-in-csharp-made-simple/
 
 https://www.udemy.com/course/design-patterns-csharp-dotnet/
 
+---
+
+Other, non-technical courses:
+
+
 
 
 
