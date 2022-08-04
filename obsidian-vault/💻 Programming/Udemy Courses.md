@@ -18,6 +18,8 @@ Other, non-technical courses:
 
 https://www.udemy.com/course/meditation-for-tuning-consciousness/
 
+https://www.udemy.com/course/the-art-relaxation-yoga-nidra/
+
 
 
 
