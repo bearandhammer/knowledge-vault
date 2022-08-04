@@ -20,6 +20,8 @@ https://www.udemy.com/course/meditation-for-tuning-consciousness/
 
 https://www.udemy.com/course/the-art-relaxation-yoga-nidra/
 
+https://www.udemy.com/course/positive-self-talk/
+
 
 
 
