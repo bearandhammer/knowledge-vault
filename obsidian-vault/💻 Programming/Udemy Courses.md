@@ -16,6 +16,8 @@ https://www.udemy.com/course/design-patterns-csharp-dotnet/
 
 Other, non-technical courses:
 
+https://www.udemy.com/course/meditation-for-tuning-consciousness/
+
 
 
 
