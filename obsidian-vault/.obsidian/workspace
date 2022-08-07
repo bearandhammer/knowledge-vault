@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🫀 Life/Kitchen Purchases.md",
+            "file": "📆 Calendar/2022/2022-WK31/2022-08-07.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-07.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Kitchen Purchases.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.785714285714285}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-06.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK31/2022-08-07.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Kitchen Purchases.md",
+                "file": "📆 Calendar/2022/2022-WK31/2022-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +290,7 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "🫀 Life/Kitchen Purchases.md",
     "🫀 Life/Kitchen Cribsheet.md",
     "🫀 Life/House Organisation Hacks.md",
     "🫀 Life/Garden Bits.md",
@@ -298,7 +299,6 @@
     "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
     "♟ Board Games/Detective/Recording 20220528144622.webm",
     "♟ Board Games/Detective/Pasted image 20220528230708.png",
-    "♟ Board Games/Detective/Detective Case One.md",
-    "📆 Calendar/2022/2022-WK31/2022-08-06.md"
+    "♟ Board Games/Detective/Detective Case One.md"
   ]
 }
