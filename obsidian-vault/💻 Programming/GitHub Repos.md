@@ -17,3 +17,8 @@ tags: 💻
 
 [SonarAnalyzer.CSharp](https://www.nuget.org/packages/SonarAnalyzer.CSharp)
 
+[FluentValidation](https://github.com/FluentValidation/FluentValidation)
+
+
+
+
