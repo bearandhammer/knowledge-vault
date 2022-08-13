@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/GitHub Repos.md",
+            "file": "🫀 Life/Crunch Plan.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,20 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/GitHub Repos.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Crunch Plan.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Xamarin Forms & Azure DevOps.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/GitHub Repos.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK32/2022-08-12.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK32/2022-08-11.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK32/2022-08-10.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
             }
           ]
         }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nuget",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,8 +194,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/GitHub Repos.md",
+                "file": "🫀 Life/Crunch Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +289,8 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "💻 Programming/Xamarin Forms & Azure DevOps.md",
+    "💻 Programming/GitHub Repos.md",
     "📆 Calendar/2022/2022-WK32/2022-08-13.md",
     "📆 Calendar/2022/2022-WK32/2022-08-12.md",
     "📧 Inbox/Anniversary Plans.md",
@@ -297,8 +298,6 @@
     "📆 Calendar/2022/2022-WK32/2022-08-14.md",
     "📆 Calendar/2022/2022-WK32/2022-08-11.md",
     "📆 Calendar/2022/2022-WK32/2022-08-10.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-05.md",
-    "📆 Calendar/2022/2022-WK22/2022-05-31.md",
-    "📆 Calendar/2022/2022-WK22/2022-06-03.md"
+    "📆 Calendar/2022/2022-WK22/2022-06-05.md"
   ]
 }
