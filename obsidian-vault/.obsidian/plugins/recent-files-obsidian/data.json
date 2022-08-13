@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-08-13",
+      "path": "📆 Calendar/2022/2022-WK32/2022-08-13.md"
+    },
+    {
+      "basename": "2022-08-14",
+      "path": "📆 Calendar/2022/2022-WK32/2022-08-14.md"
+    },
+    {
+      "basename": "2022-08-12",
+      "path": "📆 Calendar/2022/2022-WK32/2022-08-12.md"
+    },
+    {
+      "basename": "2022-08-11",
+      "path": "📆 Calendar/2022/2022-WK32/2022-08-11.md"
+    },
+    {
+      "basename": "2022-06-25",
+      "path": "📆 Calendar/2022/2022-WK25/2022-06-25.md"
+    },
+    {
+      "basename": "2022-06-21",
+      "path": "📆 Calendar/2022/2022-WK25/2022-06-21.md"
+    },
+    {
+      "basename": "2022-W19",
+      "path": "📆 Calendar/2022/2022-WK19/2022-W19.md"
+    },
+    {
       "basename": "Crunch Plan",
       "path": "🫀 Life/Crunch Plan.md"
     },
@@ -13,28 +41,12 @@
       "path": "💻 Programming/GitHub Repos.md"
     },
     {
-      "basename": "2022-08-13",
-      "path": "📆 Calendar/2022/2022-WK32/2022-08-13.md"
-    },
-    {
-      "basename": "2022-08-12",
-      "path": "📆 Calendar/2022/2022-WK32/2022-08-12.md"
-    },
-    {
       "basename": "Anniversary Plans",
       "path": "📧 Inbox/Anniversary Plans.md"
     },
     {
       "basename": "2022-W32",
       "path": "📆 Calendar/2022/2022-WK32/2022-W32.md"
-    },
-    {
-      "basename": "2022-08-14",
-      "path": "📆 Calendar/2022/2022-WK32/2022-08-14.md"
-    },
-    {
-      "basename": "2022-08-11",
-      "path": "📆 Calendar/2022/2022-WK32/2022-08-11.md"
     },
     {
       "basename": "2022-08-10",
@@ -79,10 +91,6 @@
     {
       "basename": "2022-06-22",
       "path": "📆 Calendar/2022/2022-WK25/2022-06-22.md"
-    },
-    {
-      "basename": "2022-06-21",
-      "path": "📆 Calendar/2022/2022-WK25/2022-06-21.md"
     },
     {
       "basename": "2022-08-08",
@@ -191,14 +199,6 @@
     {
       "basename": "Azure Pipelines YAML",
       "path": "💻 Programming/Azure Pipelines YAML.md"
-    },
-    {
-      "basename": "Azure Data Lake Resources",
-      "path": "💻 Programming/Azure Data Lake Resources.md"
-    },
-    {
-      "basename": "2022-07-31",
-      "path": "📆 Calendar/2022/2022-WK30/2022-07-31.md"
     }
   ],
   "omittedPaths": [],
