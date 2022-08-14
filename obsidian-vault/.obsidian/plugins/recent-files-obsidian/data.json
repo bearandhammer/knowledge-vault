@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-W32",
+      "path": "📆 Calendar/2022/2022-WK32/2022-W32.md"
+    },
+    {
+      "basename": "2022-W19",
+      "path": "📆 Calendar/2022/2022-WK19/2022-W19.md"
+    },
+    {
+      "basename": "2022-05-15",
+      "path": "📆 Calendar/2022/2022-WK19/2022-05-15.md"
+    },
+    {
+      "basename": "2022-05-14",
+      "path": "📆 Calendar/2022/2022-WK19/2022-05-14.md"
+    },
+    {
+      "basename": "2022-05-11",
+      "path": "📆 Calendar/2022/2022-WK19/2022-05-11.md"
+    },
+    {
+      "basename": "2022-05-10",
+      "path": "📆 Calendar/2022/2022-WK19/2022-05-10.md"
+    },
+    {
       "basename": "Anniversary Plans",
       "path": "📧 Inbox/Anniversary Plans.md"
     },
@@ -29,10 +53,6 @@
       "path": "📆 Calendar/2022/2022-WK25/2022-06-21.md"
     },
     {
-      "basename": "2022-W19",
-      "path": "📆 Calendar/2022/2022-WK19/2022-W19.md"
-    },
-    {
       "basename": "Crunch Plan",
       "path": "🫀 Life/Crunch Plan.md"
     },
@@ -43,10 +63,6 @@
     {
       "basename": "GitHub Repos",
       "path": "💻 Programming/GitHub Repos.md"
-    },
-    {
-      "basename": "2022-W32",
-      "path": "📆 Calendar/2022/2022-WK32/2022-W32.md"
     },
     {
       "basename": "2022-08-10",
@@ -183,22 +199,6 @@
     {
       "basename": "TypeScript ASP.NET Core",
       "path": "💻 Programming/TypeScript ASP.NET Core.md"
-    },
-    {
-      "basename": "Throw Framework",
-      "path": "💻 Programming/Throw Framework.md"
-    },
-    {
-      "basename": "Custom OData Resources",
-      "path": "💻 Programming/Custom OData Resources.md"
-    },
-    {
-      "basename": "Certifications",
-      "path": "💻 Programming/Certifications.md"
-    },
-    {
-      "basename": "Azure Pipelines YAML",
-      "path": "💻 Programming/Azure Pipelines YAML.md"
     }
   ],
   "omittedPaths": [],
