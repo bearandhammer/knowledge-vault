@@ -1,0 +1,1 @@
+https://codereview.stackexchange.com/questions/70996/speeding-up-parallel-foreach-iterating-through-datatable-and-rendering-report

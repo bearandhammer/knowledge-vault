@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "IVF Qs",
+      "path": "📧 Inbox/IVF Qs.md"
+    },
+    {
+      "basename": "Holibobs",
+      "path": "📧 Inbox/Holibobs.md"
+    },
+    {
+      "basename": "Custom OData Resources",
+      "path": "💻 Programming/Custom OData Resources.md"
+    },
+    {
       "basename": "DataTable Performance",
       "path": "💻 Programming/DataTable Performance.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2022-08-01",
       "path": "📆 Calendar/2022/2022-WK31/2022-08-01.md"
-    },
-    {
-      "basename": "2022-W31",
-      "path": "📆 Calendar/2022/2022-WK31/2022-W31.md"
-    },
-    {
-      "basename": "2022-08-05",
-      "path": "📆 Calendar/2022/2022-WK31/2022-08-05.md"
-    },
-    {
-      "basename": "2022-08-06",
-      "path": "📆 Calendar/2022/2022-WK31/2022-08-06.md"
     }
   ],
   "omittedPaths": [],
