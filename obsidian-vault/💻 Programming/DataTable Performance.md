@@ -2,3 +2,6 @@ https://codereview.stackexchange.com/questions/70996/speeding-up-parallel-foreac
 
 https://stackoverflow.com/questions/19225841/enumerating-datatable-rows-in-batches-efficiently
 
+Tasks - batching???
+
+OperationBatcher (current implementation).
