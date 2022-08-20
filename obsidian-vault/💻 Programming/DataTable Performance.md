@@ -5,3 +5,5 @@ https://stackoverflow.com/questions/19225841/enumerating-datatable-rows-in-batch
 Tasks - batching???
 
 OperationBatcher (current implementation).
+
+Won't matter as the DataTable (and DataRowCollection) is not threadsafe and cannot be concurrently modified.
