@@ -7,3 +7,4 @@ Tasks - batching???
 OperationBatcher (current implementation).
 
 Won't matter as the DataTable (and DataRowCollection) is not threadsafe and cannot be concurrently modified.
+
