@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Throw Framework",
+      "path": "💻 Programming/Throw Framework.md"
+    },
+    {
+      "basename": "TypeScript ASP.NET Core",
+      "path": "💻 Programming/TypeScript ASP.NET Core.md"
+    },
+    {
+      "basename": "Nutrition guidelines for runners",
+      "path": "📧 Inbox/Nutrition guidelines for runners.md"
+    },
+    {
+      "basename": "VS Project Templates",
+      "path": "💻 Programming/VS Project Templates.md"
+    },
+    {
+      "basename": "Holibobs",
+      "path": "📧 Inbox/Holibobs.md"
+    },
+    {
       "basename": "2022-W34",
       "path": "📆 Calendar/2022/2022-WK34/2022-W34.md"
     },
@@ -65,10 +85,6 @@
       "path": "📆 Calendar/2022/2022-WK33/2022-08-21.md"
     },
     {
-      "basename": "Nutrition guidelines for runners",
-      "path": "📧 Inbox/Nutrition guidelines for runners.md"
-    },
-    {
       "basename": "Use Nutrition to Combat Tiredness",
       "path": "📧 Inbox/Use Nutrition to Combat Tiredness.md"
     },
@@ -93,10 +109,6 @@
       "path": "📧 Inbox/IVF Qs.md"
     },
     {
-      "basename": "Holibobs",
-      "path": "📧 Inbox/Holibobs.md"
-    },
-    {
       "basename": "Custom OData Resources",
       "path": "💻 Programming/Custom OData Resources.md"
     },
@@ -115,10 +127,6 @@
     {
       "basename": "2022-05-09",
       "path": "📆 Calendar/2022/2022-WK19/2022-05-09.md"
-    },
-    {
-      "basename": "TypeScript ASP.NET Core",
-      "path": "💻 Programming/TypeScript ASP.NET Core.md"
     },
     {
       "basename": "Further Blog Post Ideas",
@@ -191,14 +199,6 @@
     {
       "basename": "Crunch Plan",
       "path": "🫀 Life/Crunch Plan.md"
-    },
-    {
-      "basename": "GitHub Repos",
-      "path": "💻 Programming/GitHub Repos.md"
-    },
-    {
-      "basename": "2022-08-10",
-      "path": "📆 Calendar/2022/2022-WK32/2022-08-10.md"
     }
   ],
   "omittedPaths": [],
