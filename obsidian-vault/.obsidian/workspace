@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK34/2022-08-22.md",
+            "file": "📆 Calendar/2022/2022-WK34/2022-08-27.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK34/2022-08-27.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK34/2022-W34.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK34/2022-08-25.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK34/2022-08-22.md",
+                "file": "📆 Calendar/2022/2022-WK34/2022-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,8 +287,9 @@
     "direction": "horizontal",
     "width": 381
   },
-  "active": "2f3718000c851daf",
+  "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK34/2022-08-22.md",
     "📆 Calendar/2022/2022-WK34/2022-08-25.md",
     "📆 Calendar/2022/2022-WK34/2022-08-26.md",
     "📆 Calendar/2022/2022-WK34/2022-08-27.md",
@@ -296,7 +297,6 @@
     "📆 Calendar/2022/2022-WK34/2022-W34.md",
     "📆 Calendar/2022/2022-WK34/2022-08-24.md",
     "📆 Calendar/2022/2022-WK34/2022-08-23.md",
-    "📆 Calendar/2022/2022-WK34/2022-08-22.md",
     "💻 Programming/Throw Framework.md",
     "💻 Programming/TypeScript ASP.NET Core.md"
   ]
