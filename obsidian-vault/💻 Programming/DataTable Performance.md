@@ -8,3 +8,13 @@ OperationBatcher (current implementation).
 
 Won't matter as the DataTable (and DataRowCollection) is not threadsafe and cannot be concurrently modified.
 
+---
+
+https://www.youtube.com/watch?v=SOpoiJtwwtI
+
+https://www.youtube.com/watch?v=TEUtfaaBHrg
+
+https://www.youtube.com/watch?v=i1ywA3ErwqA
+
+---
+
