@@ -11,3 +11,39 @@ https://www.youtube.com/watch?v=hHRFjbGTEOk
 
 ---
 
+## HTML Page
+---
+
+```html
+@page
+@using System.Security.Claims;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var identity = (ClaimsIdentity)User.Identity;
+}
+<div class="text-center">
+    <h1 class="display-4">User Claims</h1>
+    <hr />
+    <div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Type</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Claim userClaim in identity.Claims)
+                {
+                    <tr>
+                        <td>@userClaim.Type</td>
+                        <td>@userClaim.Value</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+```
+
