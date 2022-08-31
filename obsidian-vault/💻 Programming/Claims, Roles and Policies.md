@@ -53,5 +53,7 @@ https://stackoverflow.com/questions/22652543/does-new-asp-net-mvc-identity-frame
 
 Ended up being easier to use IAsyncPageFilter - much cleaner solution.
 
+Store claims in session and transfer to Claims Principal.
+
 
 
