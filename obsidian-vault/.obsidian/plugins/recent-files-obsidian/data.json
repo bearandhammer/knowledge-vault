@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis",
+      "path": "💻 Programming/Redis.md"
+    },
+    {
       "basename": "DataTable Performance",
       "path": "💻 Programming/DataTable Performance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Udemy Courses",
       "path": "💻 Programming/Udemy Courses.md"
-    },
-    {
-      "basename": "IVF Qs",
-      "path": "📧 Inbox/IVF Qs.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-web-app-aspnet-core-howto
