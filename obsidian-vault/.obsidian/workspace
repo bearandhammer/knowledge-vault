@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/Redis.md",
+            "file": "💻 Programming/VS Project Templates.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,18 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/VS Project Templates.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Udemy Courses.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK35/2022-08-29.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK35/2022-08-31.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK35/2022-08-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Redis.md",
+                "file": "💻 Programming/VS Project Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,8 +287,10 @@
     "direction": "horizontal",
     "width": 381
   },
-  "active": "d9cf910d47f6bc26",
+  "active": "2f3718000c851daf",
   "lastOpenFiles": [
+    "💻 Programming/Udemy Courses.md",
+    "💻 Programming/Redis.md",
     "💻 Programming/DataTable Performance.md",
     "💻 Programming/Custom OData Resources.md",
     "📆 Calendar/2022/2022-WK35/2022-09-03.md",
@@ -296,8 +298,6 @@
     "📆 Calendar/2022/2022-WK35/2022-09-01.md",
     "📆 Calendar/2022/2022-WK35/2022-08-29.md",
     "📆 Calendar/2022/2022-WK35/2022-08-30.md",
-    "📆 Calendar/2022/2022-WK35/2022-08-31.md",
-    "📆 Calendar/2022/2022-WK34/2022-08-22.md",
-    "💻 Programming/Claims, Roles and Policies.md"
+    "📆 Calendar/2022/2022-WK35/2022-08-31.md"
   ]
 }

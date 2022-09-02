@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "VS Project Templates",
+      "path": "💻 Programming/VS Project Templates.md"
+    },
+    {
+      "basename": "Udemy Courses",
+      "path": "💻 Programming/Udemy Courses.md"
+    },
+    {
       "basename": "Redis",
       "path": "💻 Programming/Redis.md"
     },
@@ -157,10 +165,6 @@
       "path": "📧 Inbox/Nutrition guidelines for runners.md"
     },
     {
-      "basename": "VS Project Templates",
-      "path": "💻 Programming/VS Project Templates.md"
-    },
-    {
       "basename": "Holibobs",
       "path": "📧 Inbox/Holibobs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Use Nutrition to Combat Tiredness",
       "path": "📧 Inbox/Use Nutrition to Combat Tiredness.md"
-    },
-    {
-      "basename": "Udemy Courses",
-      "path": "💻 Programming/Udemy Courses.md"
     }
   ],
   "omittedPaths": [],
