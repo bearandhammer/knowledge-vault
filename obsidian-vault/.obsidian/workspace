@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK35/2022-08-29.md",
+            "file": "📆 Calendar/2022/2022-WK35/2022-09-04.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK35/2022-09-04.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK35/2022-09-03.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK35/2022-08-31.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK35/2022-09-01.md",
+                "file": "📆 Calendar/2022/2022-WK35/2022-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,8 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK35/2022-08-29.md",
+    "📆 Calendar/2022/2022-WK35/2022-09-01.md",
     "📆 Calendar/2022/2022-WK35/2022-08-31.md",
     "📆 Calendar/2022/2022-WK35/2022-09-04.md",
     "📆 Calendar/2022/2022-WK35/2022-09-03.md",
@@ -296,8 +298,6 @@
     "📆 Calendar/2022/2022-WK21/2022-05-27.md",
     "📆 Calendar/2022/2022-WK20/2022-05-22.md",
     "📆 Calendar/2022/2022-WK35/2022-09-02.md",
-    "📆 Calendar/2022/2022-WK35/2022-09-01.md",
-    "📆 Calendar/2022/2022-WK20/2022-05-17.md",
-    "💻 Programming/VS Project Templates.md"
+    "📆 Calendar/2022/2022-WK20/2022-05-17.md"
   ]
 }
