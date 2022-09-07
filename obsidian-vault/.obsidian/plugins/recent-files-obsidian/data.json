@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-09-06",
-      "path": "📆 Calendar/2022/2022-WK36/2022-09-06.md"
+      "basename": "2022-09-09",
+      "path": "📆 Calendar/2022/2022-WK36/2022-09-09.md"
     },
     {
       "basename": "2022-09-08",
@@ -11,6 +11,34 @@
     {
       "basename": "2022-09-07",
       "path": "📆 Calendar/2022/2022-WK36/2022-09-07.md"
+    },
+    {
+      "basename": "2022-09-11",
+      "path": "📆 Calendar/2022/2022-WK36/2022-09-11.md"
+    },
+    {
+      "basename": "Crunch Plan",
+      "path": "🫀 Life/Crunch Plan.md"
+    },
+    {
+      "basename": "ubuntu-terminal-in-vs-code",
+      "path": "📰 Blog Notes (Archive)/Archive/Resources/ubuntu-terminal-in-vs-code.jpg"
+    },
+    {
+      "basename": "ubuntu-startup-post-installation",
+      "path": "📰 Blog Notes (Archive)/Archive/Resources/ubuntu-startup-post-installation.jpg"
+    },
+    {
+      "basename": "check-wsl-ubuntu-version",
+      "path": "📰 Blog Notes (Archive)/Archive/Resources/check-wsl-ubuntu-version.jpg"
+    },
+    {
+      "basename": "Recording 20220330085052",
+      "path": "📰 Blog Notes (Archive)/Archive/Resources/Recording 20220330085052.webm"
+    },
+    {
+      "basename": "2022-09-06",
+      "path": "📆 Calendar/2022/2022-WK36/2022-09-06.md"
     },
     {
       "basename": "2022-09-05",
@@ -41,16 +69,8 @@
       "path": "📆 Calendar/2022/2022-WK35/2022-09-01.md"
     },
     {
-      "basename": "2022-09-11",
-      "path": "📆 Calendar/2022/2022-WK36/2022-09-11.md"
-    },
-    {
       "basename": "2022-09-10",
       "path": "📆 Calendar/2022/2022-WK36/2022-09-10.md"
-    },
-    {
-      "basename": "2022-09-09",
-      "path": "📆 Calendar/2022/2022-WK36/2022-09-09.md"
     },
     {
       "basename": "2022-W35",
@@ -137,10 +157,6 @@
       "path": "🫀 Life/Garden Bits.md"
     },
     {
-      "basename": "Crunch Plan",
-      "path": "🫀 Life/Crunch Plan.md"
-    },
-    {
       "basename": "2022-08-28",
       "path": "📆 Calendar/2022/2022-WK34/2022-08-28.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Xamarin Forms & Azure DevOps",
       "path": "💻 Programming/Xamarin Forms & Azure DevOps.md"
-    },
-    {
-      "basename": "Throw Framework",
-      "path": "💻 Programming/Throw Framework.md"
-    },
-    {
-      "basename": "2022-08-26",
-      "path": "📆 Calendar/2022/2022-WK34/2022-08-26.md"
-    },
-    {
-      "basename": "2022-08-25",
-      "path": "📆 Calendar/2022/2022-WK34/2022-08-25.md"
-    },
-    {
-      "basename": "2022-08-24",
-      "path": "📆 Calendar/2022/2022-WK34/2022-08-24.md"
     }
   ],
   "omittedPaths": [],
