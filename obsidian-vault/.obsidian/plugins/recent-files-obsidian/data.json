@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-19",
+      "path": "📆 Calendar/2022/2022-WK20/2022-05-19.md"
+    },
+    {
+      "basename": "2022-05-21",
+      "path": "📆 Calendar/2022/2022-WK20/2022-05-21.md"
+    },
+    {
+      "basename": "2022-05-17",
+      "path": "📆 Calendar/2022/2022-WK20/2022-05-17.md"
+    },
+    {
       "basename": "2022-09-09",
       "path": "📆 Calendar/2022/2022-WK36/2022-09-09.md"
     },
@@ -101,10 +113,6 @@
       "path": "📆 Calendar/2022/2022-WK35/2022-09-02.md"
     },
     {
-      "basename": "2022-05-17",
-      "path": "📆 Calendar/2022/2022-WK20/2022-05-17.md"
-    },
-    {
       "basename": "VS Project Templates",
       "path": "💻 Programming/VS Project Templates.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Anniversary Plans",
       "path": "📧 Inbox/Anniversary Plans.md"
-    },
-    {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
-    },
-    {
-      "basename": "Xamarin Forms & Azure DevOps",
-      "path": "💻 Programming/Xamarin Forms & Azure DevOps.md"
     }
   ],
   "omittedPaths": [],
