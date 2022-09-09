@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-15",
+      "path": "📆 Calendar/2022/2022-WK24/2022-06-15.md"
+    },
+    {
       "basename": "2022-09-09",
       "path": "📆 Calendar/2022/2022-WK36/2022-09-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Holiday Plans",
       "path": "📧 Inbox/Holiday Plans.md"
-    },
-    {
-      "basename": "Anniversary Plans",
-      "path": "📧 Inbox/Anniversary Plans.md"
     }
   ],
   "omittedPaths": [],
