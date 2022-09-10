@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/Redis.md",
+            "file": "💻 Programming/DataTable Performance.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/DataTable Performance.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK36/2022-09-08.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK36/2022-09-07.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Redis.md",
+                "file": "💻 Programming/DataTable Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,8 +287,9 @@
     "direction": "horizontal",
     "width": 381
   },
-  "active": "2f3718000c851daf",
+  "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "💻 Programming/Redis.md",
     "📆 Calendar/2022/2022-WK36/2022-09-10.md",
     "📆 Calendar/2022/2022-WK36/2022-09-11.md",
     "📆 Calendar/2022/2022-WK36/2022-09-09.md",
@@ -297,7 +298,6 @@
     "📆 Calendar/2022/2022-WK34/2022-08-25.md",
     "📆 Calendar/2022/2022-WK34/2022-08-28.md",
     "📆 Calendar/2022/2022-WK36/2022-09-08.md",
-    "📆 Calendar/2022/2022-WK36/2022-09-07.md",
-    "📆 Calendar/2022/2022-WK36/2022-09-06.md"
+    "📆 Calendar/2022/2022-WK36/2022-09-07.md"
   ]
 }
