@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 Calendar/2022/2022-WK37/2022-09-18.md",
+            "file": "📆 Calendar/2022/2022-WK37/2022-09-14.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,26 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-18.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-14.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-13.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-12.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-18.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -118,24 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-12.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK36/2022-09-11.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/TypeScript ASP.NET Core.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/Custom OData Resources.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK37/2022-09-18.md",
+                "file": "📆 Calendar/2022/2022-WK37/2022-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,14 +289,14 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK37/2022-09-13.md",
+    "📆 Calendar/2022/2022-WK37/2022-09-12.md",
+    "📆 Calendar/2022/2022-WK37/2022-09-18.md",
     "📆 Calendar/2022/2022-WK37/2022-09-17.md",
     "📆 Calendar/2022/2022-WK37/2022-09-16.md",
     "📆 Calendar/2022/2022-WK37/2022-09-15.md",
     "📆 Calendar/2022/2022-WK37/2022-09-14.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-13.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-12.md",
     "📆 Calendar/2022/2022-WK36/2022-09-05.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-18.md",
     "📆 Calendar/2022/2022-WK36/2022-09-11.md",
     "💻 Programming/TypeScript ASP.NET Core.md"
   ]
