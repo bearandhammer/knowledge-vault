@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NodoTime",
+      "path": "💻 Programming/NodoTime.md"
+    },
+    {
       "basename": "2022-09-16",
       "path": "📆 Calendar/2022/2022-WK37/2022-09-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VS Project Templates",
       "path": "💻 Programming/VS Project Templates.md"
-    },
-    {
-      "basename": "Udemy Courses",
-      "path": "💻 Programming/Udemy Courses.md"
     }
   ],
   "omittedPaths": [],
