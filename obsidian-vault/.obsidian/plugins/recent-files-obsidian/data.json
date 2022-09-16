@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-09-17",
+      "path": "📆 Calendar/2022/2022-WK37/2022-09-17.md"
+    },
+    {
+      "basename": "2022-09-18",
+      "path": "📆 Calendar/2022/2022-WK37/2022-09-18.md"
+    },
+    {
+      "basename": "Azure Data Lake Resources",
+      "path": "💻 Programming/Azure Data Lake Resources.md"
+    },
+    {
+      "basename": "Certifications",
+      "path": "💻 Programming/Certifications.md"
+    },
+    {
+      "basename": "Custom OData Resources",
+      "path": "💻 Programming/Custom OData Resources.md"
+    },
+    {
       "basename": "Udemy Courses",
       "path": "💻 Programming/Udemy Courses.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "2022-09-16",
       "path": "📆 Calendar/2022/2022-WK37/2022-09-16.md"
-    },
-    {
-      "basename": "2022-09-17",
-      "path": "📆 Calendar/2022/2022-WK37/2022-09-17.md"
-    },
-    {
-      "basename": "2022-09-18",
-      "path": "📆 Calendar/2022/2022-WK37/2022-09-18.md"
     },
     {
       "basename": "2022-09-15",
@@ -71,10 +83,6 @@
     {
       "basename": "TypeScript ASP.NET Core",
       "path": "💻 Programming/TypeScript ASP.NET Core.md"
-    },
-    {
-      "basename": "Custom OData Resources",
-      "path": "💻 Programming/Custom OData Resources.md"
     },
     {
       "basename": "Redis",
@@ -191,14 +199,6 @@
     {
       "basename": "2022-05-27",
       "path": "📆 Calendar/2022/2022-WK21/2022-05-27.md"
-    },
-    {
-      "basename": "2022-05-22",
-      "path": "📆 Calendar/2022/2022-WK20/2022-05-22.md"
-    },
-    {
-      "basename": "2022-09-02",
-      "path": "📆 Calendar/2022/2022-WK35/2022-09-02.md"
     }
   ],
   "omittedPaths": [],
