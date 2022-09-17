@@ -35,6 +35,12 @@ To check installation
 sc query intelhaxm
 ```
 
+Stuck emulator:
+
+```cmd
+taskkill /F /IM "qemu-system-x86_64.exe" /T
+```
+
 ---
 
 Resources:
