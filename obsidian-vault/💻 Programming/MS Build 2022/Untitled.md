@@ -21,7 +21,9 @@ https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?tabs=vswin&p
 
 ---
 
+Hardware acceleration (a must):
 
+https://learn.microsoft.com/en-us/dotnet/maui/android/emulator/hardware-acceleration
 
 ---
 
