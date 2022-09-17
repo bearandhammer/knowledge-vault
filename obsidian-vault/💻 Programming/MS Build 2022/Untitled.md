@@ -10,6 +10,21 @@ https://learn.microsoft.com/en-us/dotnet/maui/
 
 ---
 
+Quickstart followed:
+
+https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?tabs=vswin&pivots=devices-android
+
+- Install workload.
+- Create project.
+- Installer emulator.
+- And away!
+
+---
+
+
+
+---
+
 Resources:
 
 https://learn.microsoft.com/en-us/dotnet/architecture/maui/
