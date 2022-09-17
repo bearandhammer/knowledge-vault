@@ -25,6 +25,16 @@ Hardware acceleration (a must):
 
 https://learn.microsoft.com/en-us/dotnet/maui/android/emulator/hardware-acceleration
 
+For windows:
+
+https://github.com/intel/haxm/releases
+
+To check installation
+
+```cmd
+sc query intelhaxm
+```
+
 ---
 
 Resources:
