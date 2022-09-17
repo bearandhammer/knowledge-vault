@@ -12,6 +12,8 @@ https://learn.microsoft.com/en-us/dotnet/maui/
 
 Resources:
 
+https://learn.microsoft.com/en-us/dotnet/architecture/maui/
+
 https://learn.microsoft.com/en-us/dotnet/architecture/maui/accessing-remote-data
 
 ![[Enterprise-Application-Patterns-Using-.NET-MAUI.pdf]]
