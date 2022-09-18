@@ -69,6 +69,8 @@ https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?tutorial-step
 
 ---
 
+Models/views: https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?tutorial-step=4
+
 Resources:
 
 https://learn.microsoft.com/en-us/dotnet/architecture/maui/
