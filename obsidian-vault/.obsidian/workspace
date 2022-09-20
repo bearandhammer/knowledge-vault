@@ -21,6 +21,18 @@
               "leaf": "d9cf910d47f6bc26",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/NET MAUI.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.261904761904762}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Pasted image 20220524173717.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/NET MAUI.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-17.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-16.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-17.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":6},\"to\":{\"line\":8,\"ch\":6}}}"
             }
           ]
         }
@@ -287,8 +287,10 @@
     "direction": "horizontal",
     "width": 381
   },
-  "active": "2f3718000c851daf",
+  "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "💻 Programming/MS Build 2022/Pasted image 20220524173717.png",
+    "💻 Programming/NET MAUI.md",
     "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
     "💻 Programming/Enterprise-Application-Patterns-Using-.NET-MAUI.pdf",
     "💻 Programming/Fans.md",
@@ -296,8 +298,6 @@
     "📆 Calendar/2022/2022-WK37/2022-09-17.md",
     "📆 Calendar/2022/2022-WK37/2022-09-18.md",
     "📆 Calendar/2022/2022-WK37/2022-09-16.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-15.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-14.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-12.md"
+    "📆 Calendar/2022/2022-WK37/2022-09-15.md"
   ]
 }
