@@ -73,7 +73,7 @@ Models/views: https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/
 
 ---
 
-EF Core / Sqlite: https://learn.microsoft.com/en-us/events/dotnetconf-focus-on-maui/csharp-and-linq-for-data-access-with-ef-core
+EF Core / SqlLite: https://learn.microsoft.com/en-us/events/dotnetconf-focus-on-maui/csharp-and-linq-for-data-access-with-ef-core
 
 Resources:
 
