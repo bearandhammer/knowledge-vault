@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/NET MAUI.md",
+            "file": "🫀 Life/House Organisation Hacks.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,20 @@
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/House Organisation Hacks.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Garden Bits.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/NET MAUI.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.261904761904762}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "d9cf910d47f6bc26",
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-17.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-16.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK37/2022-09-17.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/NET MAUI.md",
+                "file": "🫀 Life/House Organisation Hacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,15 +289,15 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
-    "💻 Programming/MS Build 2022/Pasted image 20220524173717.png",
+    "🫀 Life/Garden Bits.md",
     "💻 Programming/NET MAUI.md",
+    "💻 Programming/MS Build 2022/Pasted image 20220524173717.png",
     "💻 Programming/MS Build 2022/Microsoft Build 2022.md",
     "💻 Programming/Enterprise-Application-Patterns-Using-.NET-MAUI.pdf",
     "💻 Programming/Fans.md",
     "💻 Programming/Xamarin Forms & Azure DevOps.md",
     "📆 Calendar/2022/2022-WK37/2022-09-17.md",
     "📆 Calendar/2022/2022-WK37/2022-09-18.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-16.md",
-    "📆 Calendar/2022/2022-WK37/2022-09-15.md"
+    "📆 Calendar/2022/2022-WK37/2022-09-16.md"
   ]
 }
