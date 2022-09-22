@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻 Programming/NET MAUI.md",
+            "file": "💻 Programming/MS Build 2022/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/MS Build 2022/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "d9cf910d47f6bc26",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🫀 Life/Garden Bits.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"💻 Programming/NET MAUI.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/NET MAUI.md",
+                "file": "💻 Programming/MS Build 2022/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
+    "💻 Programming/NET MAUI.md",
     "📆 Calendar/2022/2022-WK38/2022-09-25.md",
     "📆 Calendar/2022/2022-WK38/2022-09-24.md",
     "📆 Calendar/2022/2022-WK38/2022-09-23.md",
@@ -297,7 +298,6 @@
     "📆 Calendar/2022/2022-WK38/2022-09-20.md",
     "📆 Calendar/2022/2022-WK38/2022-09-19.md",
     "📆 Calendar/2022/2022-WK37/2022-09-12.md",
-    "🫀 Life/House Organisation Hacks.md",
-    "🫀 Life/Garden Bits.md"
+    "🫀 Life/House Organisation Hacks.md"
   ]
 }
