@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VS Project Templates",
+      "path": "💻 Programming/VS Project Templates.md"
+    },
+    {
       "basename": "Mapster",
       "path": "💻 Programming/Mapster.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-16",
       "path": "📆 Calendar/2022/2022-WK24/2022-06-16.md"
-    },
-    {
-      "basename": "2022-06-15",
-      "path": "📆 Calendar/2022/2022-WK24/2022-06-15.md"
     }
   ],
   "omittedPaths": [],
