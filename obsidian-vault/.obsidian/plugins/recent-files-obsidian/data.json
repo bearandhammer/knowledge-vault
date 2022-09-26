@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-02",
+      "path": "2022-10-02.md"
+    },
+    {
+      "basename": "2022-10-01",
+      "path": "2022-10-01.md"
+    },
+    {
+      "basename": "2022-09-30",
+      "path": "2022-09-30.md"
+    },
+    {
+      "basename": "2022-09-29",
+      "path": "2022-09-29.md"
+    },
+    {
+      "basename": "2022-09-28",
+      "path": "2022-09-28.md"
+    },
+    {
+      "basename": "2022-09-27",
+      "path": "2022-09-27.md"
+    },
+    {
+      "basename": "2022-09-26",
+      "path": "2022-09-26.md"
+    },
+    {
+      "basename": "2022-06-16",
+      "path": "📆 Calendar/2022/2022-WK24/2022-06-16.md"
+    },
+    {
       "basename": "2022-09-25",
       "path": "📆 Calendar/2022/2022-WK38/2022-09-25.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "TypeScript ASP.NET Core",
       "path": "💻 Programming/TypeScript ASP.NET Core.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "💻 Programming/Redis.md"
-    },
-    {
-      "basename": "2022-09-10",
-      "path": "📆 Calendar/2022/2022-WK36/2022-09-10.md"
-    },
-    {
-      "basename": "2022-09-09",
-      "path": "📆 Calendar/2022/2022-WK36/2022-09-09.md"
-    },
-    {
-      "basename": "2022-08-24",
-      "path": "📆 Calendar/2022/2022-WK34/2022-08-24.md"
-    },
-    {
-      "basename": "2022-08-25",
-      "path": "📆 Calendar/2022/2022-WK34/2022-08-25.md"
-    },
-    {
-      "basename": "2022-08-28",
-      "path": "📆 Calendar/2022/2022-WK34/2022-08-28.md"
-    },
-    {
-      "basename": "2022-09-08",
-      "path": "📆 Calendar/2022/2022-WK36/2022-09-08.md"
-    },
-    {
-      "basename": "2022-06-16",
-      "path": "📆 Calendar/2022/2022-WK24/2022-06-16.md"
     }
   ],
   "omittedPaths": [],
