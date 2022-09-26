@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anniversary Plans",
+      "path": "📧 Inbox/Anniversary Plans.md"
+    },
+    {
       "basename": "2022-10-02",
       "path": "2022-10-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-11",
       "path": "📆 Calendar/2022/2022-WK36/2022-09-11.md"
-    },
-    {
-      "basename": "TypeScript ASP.NET Core",
-      "path": "💻 Programming/TypeScript ASP.NET Core.md"
     }
   ],
   "omittedPaths": [],
