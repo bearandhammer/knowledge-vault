@@ -27,6 +27,18 @@
               "leaf": "d9cf910d47f6bc26",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK41/2022-10-12.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":32},\"to\":{\"line\":8,\"ch\":32}}}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK41/2022-10-13.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d9cf910d47f6bc26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK41/2022-10-12.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
@@ -123,18 +135,6 @@
               "leaf": "d9cf910d47f6bc26",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK41/2022-10-12.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK41/2022-10-11.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9cf910d47f6bc26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📆 Calendar/2022/2022-WK41/2022-10-10.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
             }
           ]
@@ -285,14 +285,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381
+    "width": 254.5
   },
   "active": "d9cf910d47f6bc26",
   "lastOpenFiles": [
     "📆 Calendar/2022/2022-WK41/2022-10-12.md",
+    "📆 Calendar/2022/2022-WK41/2022-10-13.md",
     "📆 Calendar/2022/2022-WK24/2022-06-16.md",
     "📆 Calendar/2022/2022-WK41/2022-10-11.md",
-    "📆 Calendar/2022/2022-WK41/2022-10-13.md",
     "📆 Calendar/2022/2022-WK20/2022-05-18.md",
     "📆 Calendar/2022/2022-WK41/2022-10-14.md",
     "📆 Calendar/2022/2022-WK41/2022-10-16.md",
