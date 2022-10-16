@@ -14,12 +14,15 @@ Oldie but goodie...
 
 https://www.amazon.co.uk/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
 
-
 ---
+
+Definitely get:
 
 https://www.amazon.co.uk/dp/1800564716/?coliid=I1SX4V2AOGQE3T&colid=1NC46RFC81A6I&psc=1&ref_=lv_ov_lig_dp_it
 
 https://www.amazon.co.uk/dp/1801077363/?coliid=I2QVXKH4TG68WW&colid=1NC46RFC81A6I&psc=1&ref_=lv_ov_lig_dp_it
+
+---
 
 https://www.amazon.co.uk/dp/1803236914/?coliid=IGPZLRF5IXRZ6&colid=1NC46RFC81A6I&psc=1&ref_=lv_ov_lig_dp_it
 
