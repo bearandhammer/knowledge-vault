@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/TypeScript ASP.NET Core.md",
+                "file": "📆 Calendar/2022/2022-WK41/2022-10-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/TypeScript ASP.NET Core.md",
+                "file": "📆 Calendar/2022/2022-WK41/2022-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,8 @@
   },
   "active": "4d154eb5fb247420",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK41/2022-10-15.md",
+    "💻 Programming/TypeScript ASP.NET Core.md",
     "🐸 Frog & Pencil/Business Ideas.md",
     "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
     "🐸 Frog & Pencil/Architecture Diagram.md",
@@ -182,8 +184,6 @@
     "🏃‍♂ Fitness/Fitness Utilities.md",
     "💻 Programming/Claims, Roles and Policies.md",
     "💻 Programming/CSharp Language Feature Course Timeline.md",
-    "💻 Programming/Azure Data Lake Resources.md",
-    "💻 Programming/Azure Pipelines YAML.md",
-    "💻 Programming/Books.md"
+    "💻 Programming/Azure Data Lake Resources.md"
   ]
 }
