@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "TypeScript ASP.NET Core",
+      "path": "💻 Programming/TypeScript ASP.NET Core.md"
+    },
+    {
+      "basename": "Business Ideas",
+      "path": "🐸 Frog & Pencil/Business Ideas.md"
+    },
+    {
+      "basename": "Frog & Pencil Website Improvements",
+      "path": "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md"
+    },
+    {
+      "basename": "Architecture Diagram",
+      "path": "🐸 Frog & Pencil/Architecture Diagram.md"
+    },
+    {
+      "basename": "Detective Case One",
+      "path": "♟ Board Games/Detective/Detective Case One.md"
+    },
+    {
+      "basename": "Fitness Utilities",
+      "path": "🏃‍♂ Fitness/Fitness Utilities.md"
+    },
+    {
       "basename": "Claims, Roles and Policies",
       "path": "💻 Programming/Claims, Roles and Policies.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Kitchen Cribsheet",
       "path": "🫀 Life/Kitchen Cribsheet.md"
-    },
-    {
-      "basename": "House Organisation Hacks",
-      "path": "🫀 Life/House Organisation Hacks.md"
-    },
-    {
-      "basename": "What is Agile",
-      "path": "📧 Inbox/What is Agile.md"
-    },
-    {
-      "basename": "Anniversary Plans",
-      "path": "📧 Inbox/Anniversary Plans.md"
-    },
-    {
-      "basename": "2022-09-25",
-      "path": "📆 Calendar/2022/2022-WK38/2022-09-25.md"
-    },
-    {
-      "basename": "VS Project Templates",
-      "path": "💻 Programming/VS Project Templates.md"
-    },
-    {
-      "basename": "Mapster",
-      "path": "💻 Programming/Mapster.md"
     }
   ],
   "omittedPaths": [],
