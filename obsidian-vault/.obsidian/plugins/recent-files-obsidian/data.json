@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Claims, Roles and Policies",
+      "path": "💻 Programming/Claims, Roles and Policies.md"
+    },
+    {
+      "basename": "CSharp Language Feature Course Timeline",
+      "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
+    },
+    {
+      "basename": "Azure Data Lake Resources",
+      "path": "💻 Programming/Azure Data Lake Resources.md"
+    },
+    {
+      "basename": "Azure Pipelines YAML",
+      "path": "💻 Programming/Azure Pipelines YAML.md"
+    },
+    {
       "basename": "Books",
       "path": "💻 Programming/Books.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Mapster",
       "path": "💻 Programming/Mapster.md"
-    },
-    {
-      "basename": "GitHub Repos",
-      "path": "💻 Programming/GitHub Repos.md"
-    },
-    {
-      "basename": "Throw Framework",
-      "path": "💻 Programming/Throw Framework.md"
-    },
-    {
-      "basename": "Udemy Courses",
-      "path": "💻 Programming/Udemy Courses.md"
-    },
-    {
-      "basename": "EF Collection Code",
-      "path": "💻 Programming/MS Build 2022/EF Collection Code.md"
     }
   ],
   "omittedPaths": [],

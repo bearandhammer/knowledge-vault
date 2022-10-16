@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Books.md",
+                "file": "💻 Programming/Claims, Roles and Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Books.md",
+                "file": "💻 Programming/Claims, Roles and Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,15 @@
   },
   "active": "4d154eb5fb247420",
   "lastOpenFiles": [
-    "💻 Programming/Fans.md",
+    "💻 Programming/CSharp Language Feature Course Timeline.md",
+    "💻 Programming/Claims, Roles and Policies.md",
+    "💻 Programming/Azure Data Lake Resources.md",
+    "💻 Programming/Azure Pipelines YAML.md",
     "💻 Programming/Books.md",
+    "💻 Programming/Fans.md",
     "📆 Calendar/2022/2022-WK41/2022-10-16.md",
     "📆 Calendar/2022/2022-WK41/2022-10-15.md",
     "📆 Calendar/2022/2022-WK41/2022-10-14.md",
-    "📆 Calendar/2022/2022-WK41/2022-10-13.md",
-    "📆 Calendar/2022/2022-WK41/2022-10-12.md",
-    "📆 Calendar/2022/2022-WK41/2022-10-11.md",
-    "📆 Calendar/2022/2022-WK18/2022-05-03.md",
-    "📆 Calendar/2022/2022-WK41/2022-10-10.md"
+    "📆 Calendar/2022/2022-WK41/2022-10-13.md"
   ]
 }
