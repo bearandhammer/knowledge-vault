@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "477758c43cf15a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📆 Calendar/2022/2022-WK43/2022-10-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d154eb5fb247420",
             "type": "leaf",
             "state": {
@@ -30,19 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "477758c43cf15a76",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK43/2022-10-26.md",
+                "file": "📆 Calendar/2022/2022-WK43/2022-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +196,8 @@
   },
   "active": "477758c43cf15a76",
   "lastOpenFiles": [
-    "📆 Calendar/2022/2022-WK43/2022-10-27.md",
     "📆 Calendar/2022/2022-WK43/2022-10-26.md",
+    "📆 Calendar/2022/2022-WK43/2022-10-27.md",
     "📆 Calendar/2022/2022-WK43/2022-10-25.md",
     "📆 Calendar/2022/2022-WK43/2022-10-24.md",
     "📆 Calendar/2022/2022-WK42/2022-10-17.md",
