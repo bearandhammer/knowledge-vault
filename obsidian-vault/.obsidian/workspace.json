@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "477758c43cf15a76",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +193,7 @@
     "direction": "horizontal",
     "width": 254.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "36d187152716e0e8",
+  "active": "477758c43cf15a76",
   "lastOpenFiles": [
     "📆 Calendar/2022/2022-WK43/2022-10-27.md",
     "📆 Calendar/2022/2022-WK43/2022-10-26.md",
