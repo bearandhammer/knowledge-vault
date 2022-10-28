@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-28",
+      "path": "📆 Calendar/2022/2022-WK43/2022-10-28.md"
+    },
+    {
       "basename": "2022-10-27",
       "path": "📆 Calendar/2022/2022-WK43/2022-10-27.md"
     },
     {
       "basename": "2022-10-26",
       "path": "📆 Calendar/2022/2022-WK43/2022-10-26.md"
+    },
+    {
+      "basename": "2022-07-05",
+      "path": "📆 Calendar/2022/2022-WK27/2022-07-05.md"
     },
     {
       "basename": "2022-10-25",
@@ -39,10 +47,6 @@
     {
       "basename": "2022-10-29",
       "path": "📆 Calendar/2022/2022-WK43/2022-10-29.md"
-    },
-    {
-      "basename": "2022-10-28",
-      "path": "📆 Calendar/2022/2022-WK43/2022-10-28.md"
     },
     {
       "basename": "2022-10-23",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-05-18",
       "path": "📆 Calendar/2022/2022-WK20/2022-05-18.md"
-    },
-    {
-      "basename": "2022-06-07",
-      "path": "📆 Calendar/2022/2022-WK23/2022-06-07.md"
     }
   ],
   "omittedPaths": [],
