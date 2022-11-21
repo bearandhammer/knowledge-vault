@@ -31,3 +31,9 @@ https://github.com/mjebrahimi/Benchmark.netCoreMappers
 Official BenchmarkDotNet documentation:
 
 https://benchmarkdotnet.org/
+
+.NET 7 Generic Math
+
+https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/
+
+https://www.infoq.com/news/2022/11/net7-generic-math/

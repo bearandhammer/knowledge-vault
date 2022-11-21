@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-27.md",
+                "file": "📧 Inbox/Further Blog Post Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-27.md",
+                "file": "📧 Inbox/Further Blog Post Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +185,7 @@
   },
   "active": "477758c43cf15a76",
   "lastOpenFiles": [
+    "2022-11-27.md",
     "2022-11-26.md",
     "2022-11-25.md",
     "2022-11-24.md",
@@ -192,7 +194,6 @@
     "2022-11-21.md",
     "📆 Calendar/2022/2022-WK24/2022-06-14.md",
     "📆 Calendar/2022/2022-WK24/2022-06-13.md",
-    "📆 Calendar/2022/2022-WK44/2022-11-06.md",
-    "📆 Calendar/2022/2022-WK45/2022-11-13.md"
+    "📆 Calendar/2022/2022-WK44/2022-11-06.md"
   ]
 }
