@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
     "direction": "horizontal",
     "width": 254.5
   },
-  "active": "477758c43cf15a76",
+  "active": "2f3718000c851daf",
   "lastOpenFiles": [
     "2022-11-27.md",
     "2022-11-26.md",
