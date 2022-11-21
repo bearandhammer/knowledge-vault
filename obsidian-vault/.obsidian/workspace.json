@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK47/2022-11-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "827e471ac2553ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📆 Calendar/2022/2022-WK45/2022-11-07.md",
+                "file": "📧 Inbox/Further Blog Post Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK47/2022-11-23.md",
+                "file": "📧 Inbox/Further Blog Post Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,15 +172,15 @@
   },
   "active": "477758c43cf15a76",
   "lastOpenFiles": [
-    "📆 Calendar/2022/2022-WK47/2022-11-22.md",
+    "📆 Calendar/2022/2022-WK47/2022-11-23.md",
+    "📆 Calendar/2022/2022-WK45/2022-11-07.md",
     "📆 Calendar/2022/2022-WK47/2022-11-21.md",
+    "📆 Calendar/2022/2022-WK47/2022-11-22.md",
     "📆 Calendar/2022/2022-WK44/2022-10-31.md",
     "📆 Calendar/2022/2022-WK45/2022-11-10.md",
     "📆 Calendar/2022/2022-WK45/2022-11-09.md",
     "📆 Calendar/2022/2022-WK45/2022-11-08.md",
-    "📆 Calendar/2022/2022-WK45/2022-11-07.md",
     "📧 Inbox/Further Blog Post Ideas.md",
-    "📆 Calendar/2022/2022-WK47/2022-11-27.md",
-    "📆 Calendar/2022/2022-WK47/2022-11-26.md"
+    "📆 Calendar/2022/2022-WK47/2022-11-27.md"
   ]
 }

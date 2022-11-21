@@ -37,3 +37,8 @@ https://benchmarkdotnet.org/
 https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/
 
 https://www.infoq.com/news/2022/11/net7-generic-math/
+
+https://www.youtube.com/watch?v=Sclx7F8hFso
+
+https://www.youtube.com/watch?v=Odvs1wIu_cc
+
