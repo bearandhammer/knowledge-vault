@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ddff4ed7639610a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "477758c43cf15a76",
+  "active": "1ddff4ed7639610a",
   "lastOpenFiles": [
     "📆 Calendar/2022/2022-WK51/2022-12-23.md",
     "📆 Calendar/2022/2022-WK51/2022-12-24.md",
