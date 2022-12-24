@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1ddff4ed7639610a",
+  "active": "477758c43cf15a76",
   "lastOpenFiles": [
     "📆 Calendar/2022/2022-WK51/2022-12-23.md",
     "📆 Calendar/2022/2022-WK51/2022-12-24.md",
