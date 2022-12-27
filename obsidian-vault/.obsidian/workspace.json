@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK52/2023-01-01.md",
+                "file": "📆 Calendar/2022/2022-WK52/2022-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2022/2022-WK52/2023-01-01.md",
+                "file": "📆 Calendar/2022/2022-WK52/2022-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +194,8 @@
   },
   "active": "477758c43cf15a76",
   "lastOpenFiles": [
+    "📆 Calendar/2022/2022-WK52/2022-12-31.md",
+    "📆 Calendar/2022/2022-WK52/2023-01-01.md",
     "📆 Calendar/2022/2022-WK38/2022-09-21.md",
     "📆 Calendar/2022/2022-WK51/2022-12-24.md",
     "📆 Calendar/2022/2022-WK51/2022-12-23.md",
@@ -201,8 +203,6 @@
     "📆 Calendar/2022/2022-WK51/2022-12-22.md",
     "📆 Calendar/2022/2022-WK51/2022-12-21.md",
     "📆 Calendar/2022/2022-WK52/2022-12-28.md",
-    "📆 Calendar/2022/2022-WK52/2022-12-29.md",
-    "📆 Calendar/2022/2022-WK52/2023-01-01.md",
-    "📆 Calendar/2022/2022-WK52/2022-12-31.md"
+    "📆 Calendar/2022/2022-WK52/2022-12-29.md"
   ]
 }
