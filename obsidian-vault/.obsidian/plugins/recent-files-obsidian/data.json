@@ -5,6 +5,14 @@
       "path": "📆 Calendar/2022/2022-WK52/2023-01-01.md"
     },
     {
+      "basename": "2022-12-26",
+      "path": "📆 Calendar/2022/2022-WK52/2022-12-26.md"
+    },
+    {
+      "basename": "2022-05-24",
+      "path": "📆 Calendar/2022/2022-WK21/2022-05-24.md"
+    },
+    {
       "basename": "2022-12-31",
       "path": "📆 Calendar/2022/2022-WK52/2022-12-31.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "2022-12-27",
       "path": "📆 Calendar/2022/2022-WK52/2022-12-27.md"
-    },
-    {
-      "basename": "2022-12-26",
-      "path": "📆 Calendar/2022/2022-WK52/2022-12-26.md"
     },
     {
       "basename": "2022-08-04",
@@ -195,10 +199,6 @@
     {
       "basename": "Microsoft Build 2022",
       "path": "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md"
-    },
-    {
-      "basename": "April 2022 Highlights Blog",
-      "path": "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md"
     }
   ],
   "omittedPaths": [],
