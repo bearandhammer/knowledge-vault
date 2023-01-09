@@ -23,6 +23,7 @@
 - Despite everything, MS symptoms quite stable, big boon!
 - We are stronger than ever. 💞
 - Esme calling Mark 'Weak'. Perfect.
+- Kitchen rampage - decluttered the kitchen (this was awesome).
 
 ## Not So Good
 
@@ -78,11 +79,12 @@ Grounding
 - Hobby.
 
 Fitness and running
-- Want to do a 10k.
-- 5k 32 minutes.
+- Want to do a 10K.
+- 5K 32 minutes.
 
 - Books, books and books.
 - Courses - coding/professional.
+- More blogging.
 - Chess - proper study.
 - More time in nature - Claire wants to be outside more.
 - Jackory, stove and bits!!!
