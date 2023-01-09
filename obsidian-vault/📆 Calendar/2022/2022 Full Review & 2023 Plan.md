@@ -2,7 +2,7 @@
 # 2022
 ---
 
-Good
+## Good
 
 - Running.
 - Fitness achievements were actually quite wild!
@@ -23,7 +23,7 @@ Good
 - Despite everything, MS symptoms quite stable, big boon!
 - We are stronger than ever. 💞
 
-Not So Good
+## Not So Good
 
 - Was a dumpster fire (see above).
 - IVF (brought life to a halt).
@@ -33,17 +33,17 @@ Not So Good
 - Isolation (continued) = bad.
 - Slow second half of the year.
 
-Things to take forward/what we've learnt
+## Things to take forward/what we've learnt
 
-- Planning and routine were very, very key (which was in place during the first half of the year).
+- Planning and routine were very, very key (which was in place during the first half of the year). We need routine.
 - No morning walk = things don't work as well. Helps with the planning of the day.
 - Lacking knives, pans and possibly larger fridge are getting more problematic as time goes by. Can't prep or make meals!
-- 
-
+- The garage is a festering black hole that sucks away all light.
+- Which basically means our environment is key.
+- We should be reminded that we can do hard things and, whatever happens, we will be OK.
 
 # 2023
 ---
 
+## Things to do
 
-
-Things to do
