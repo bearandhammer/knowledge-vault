@@ -80,8 +80,9 @@ Books, books and books.
 Courses - coding/professional.
 Chess - proper study.
 More time in nature - Claire wants to be outside more.
-
-
+Jackory, stove and bits!!!
+See the milky way.
+More adventures!
 
 > It's a funny time to be alive (Lewis Grint 2023)
 
