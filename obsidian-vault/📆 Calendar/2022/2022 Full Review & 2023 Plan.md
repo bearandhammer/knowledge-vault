@@ -69,12 +69,17 @@
 - Cholesteral testing.
 - Vitamin workover test (blood work up).
 - More money on Mortgage and Credit Cards.
+- Cancel some things (subs we don't need).
 
 Grounding
 - Walk.
 - Yoga.
 - Meditation.
 - Hobby.
+
+Fitness and running
+- Want to do a 10k.
+- 5k 32 minutes.
 
 - Books, books and books.
 - Courses - coding/professional.
@@ -87,10 +92,11 @@ Grounding
 - Go to a book store.
 - Figure out what is happening with Frog & Pencil.
 - Spanish!!!
-
-
+- Better help & IVF counsellor.
+- Blinkist.
+- Find a purpose!
+- We should undertake a creative venture.
 
 > It's a funny time to be alive (Lewis Grint 2023)
 
 > This will be the year of the home (Claire Grint 2023)
-
