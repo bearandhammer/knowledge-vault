@@ -50,7 +50,28 @@
 
 - Garage issue to be resolved, finally.
 - Paint the hallway.
+- Put more love into the house. ***
 
+*** Ideas (but not concrete):
+- Doors fixed.
+- Window cleaner.
+- Tree cutter.
+- Conservatory quote.
+- Light bulbs for the kitchen.
+- Cupboards and shelves (storage!).
+- Fridge/freezer.
+- Mattress.
+- Pots, pans and knives.
+- Decluttering.
 
+- Life insurance.
+- Will.
+- Cholesteral testing.
+- Vitamin workover test (blood work up).
+- More money on Mortgage and Credit Cards.
+- 
 
 > It's a funny time to be alive (Lewis Grint 2023)
+
+> This will be the year of the home (Claire Grint 2023)
+
