@@ -10,7 +10,7 @@
 - Health conscious and goal smashing (even though the goals were BS).
 - Survived (most of the year was nightmarish = dumpster fire).
 - Great holidays!!!
-- Space we created in the garden.
+- Space we created in the garden. Painting fence!!! Garden bits (chairs/table - and covers!).
 - Office solution and tidying of the spare room before we froze to death.
 - Claire knitted a great cardigan.
 - Promotion and resolution of work role.
@@ -24,6 +24,7 @@
 - We are stronger than ever. 💞
 - Esme calling Mark 'Weak'. Perfect.
 - Kitchen rampage - decluttered the kitchen (this was awesome).
+- Lew's heart/lungs - no obvious issues. Yay!
 
 ## Not So Good
 
@@ -43,6 +44,7 @@
 - The garage is a festering black hole that sucks away all light.
 - Which basically means our environment is key.
 - We should be reminded that we can do hard things and, whatever happens, we will be OK.
+- General decluttering is a must.
 
 # 2023
 ---
