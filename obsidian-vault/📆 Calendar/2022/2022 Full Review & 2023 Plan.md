@@ -69,7 +69,19 @@
 - Cholesteral testing.
 - Vitamin workover test (blood work up).
 - More money on Mortgage and Credit Cards.
-- 
+
+Grounding
+- Walk.
+- Yoga.
+- Meditation.
+- Hobby.
+
+Books, books and books.
+Courses - coding/professional.
+Chess - proper study.
+More time in nature - Claire wants to be outside more.
+
+
 
 > It's a funny time to be alive (Lewis Grint 2023)
 
