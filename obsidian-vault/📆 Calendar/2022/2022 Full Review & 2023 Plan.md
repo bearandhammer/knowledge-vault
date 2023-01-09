@@ -22,6 +22,7 @@
 - Lord of the rings board game = really good Christmas.
 - Despite everything, MS symptoms quite stable, big boon!
 - We are stronger than ever. 💞
+- Esme calling Mark 'Weak'. Perfect.
 
 ## Not So Good
 
@@ -45,5 +46,11 @@
 # 2023
 ---
 
-## Things to do
+## Plans, plans & plans
 
+- Garage issue to be resolved, finally.
+- Paint the hallway.
+
+
+
+> It's a funny time to be alive (Lewis Grint 2023)
