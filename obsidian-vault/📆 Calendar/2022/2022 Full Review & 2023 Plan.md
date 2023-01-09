@@ -41,6 +41,7 @@
 - Planning and routine were very, very key (which was in place during the first half of the year). We need routine.
 - No morning walk = things don't work as well. Helps with the planning of the day.
 - Lacking knives, pans and possibly larger fridge are getting more problematic as time goes by. Can't prep or make meals!
+- Food planning (helped by the above).
 - The garage is a festering black hole that sucks away all light.
 - Which basically means our environment is key.
 - We should be reminded that we can do hard things and, whatever happens, we will be OK.
