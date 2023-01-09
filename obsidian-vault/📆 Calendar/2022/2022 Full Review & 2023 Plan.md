@@ -76,13 +76,19 @@ Grounding
 - Meditation.
 - Hobby.
 
-Books, books and books.
-Courses - coding/professional.
-Chess - proper study.
-More time in nature - Claire wants to be outside more.
-Jackory, stove and bits!!!
-See the milky way.
-More adventures!
+- Books, books and books.
+- Courses - coding/professional.
+- Chess - proper study.
+- More time in nature - Claire wants to be outside more.
+- Jackory, stove and bits!!!
+- See the milky way.
+- More adventures - including IVF!!!!!
+- Maybe the last year for IVF, depending on how we mentally hold up. That's a next Jan question - we don't know how the year will pan out (let's be as positive as we can be!).
+- Go to a book store.
+- Figure out what is happening with Frog & Pencil.
+- Spanish!!!
+
+
 
 > It's a funny time to be alive (Lewis Grint 2023)
 
