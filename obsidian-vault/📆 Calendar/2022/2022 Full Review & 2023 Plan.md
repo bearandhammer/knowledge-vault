@@ -5,7 +5,7 @@
 Good
 
 - Running.
-- 
+- Fitness achievements were actually quite wild!
 - Morning Walks.
 - Health conscious and goal smashing (even though the goals were BS).
 - Survived (most of the year was nightmarish = dumpster fire).
@@ -20,6 +20,8 @@ Good
 - Dad - goodbye cancer!
 - Seeing Jayne (hug) and Mum & Dad once was brilliant.
 - Lord of the rings board game = really good Christmas.
+- Despite everything, MS symptoms quite stable, big boon!
+- We are stronger than ever. 💞
 
 Not So Good
 
@@ -29,10 +31,14 @@ Not So Good
 - Large periods of being totally lost.
 - Role issues - super draining.
 - Isolation (continued) = bad.
+- Slow second half of the year.
 
 Things to take forward/what we've learnt
 
-
+- Planning and routine were very, very key (which was in place during the first half of the year).
+- No morning walk = things don't work as well. Helps with the planning of the day.
+- Lacking knives, pans and possibly larger fridge are getting more problematic as time goes by. Can't prep or make meals!
+- 
 
 
 # 2023
