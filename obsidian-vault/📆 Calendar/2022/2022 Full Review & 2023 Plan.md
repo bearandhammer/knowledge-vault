@@ -74,6 +74,7 @@
 - Vitamin workover test (blood work up).
 - More money on Mortgage and Credit Cards.
 - Cancel some things (subs we don't need).
+- Change banks...it's a maybe. Or take Claire off the savings.
 
 Grounding
 - Walk.
@@ -84,16 +85,18 @@ Grounding
 Fitness and running
 - Want to do a 10K.
 - 5K 32 minutes.
+- Strength...imagine a world where the garage is clear = in time for winter - to make it a fitness space???
 
 - Books, books and books.
 - Courses - coding/professional.
 - More blogging.
 - Chess - proper study.
-- More time in nature - Claire wants to be outside more.
+- More time in nature - Claire wants to be outside more. Lew wants to play video games (but outdoor ones).
 - Jackory, stove and bits!!!
-- See the milky way.
+- See the milky way. Starssss!!!
 - More adventures - including IVF!!!!!
 - Maybe the last year for IVF, depending on how we mentally hold up. That's a next Jan question - we don't know how the year will pan out (let's be as positive as we can be!).
+- More GoPro adventures.
 - Go to a book store.
 - Figure out what is happening with Frog & Pencil.
 - Spanish!!!
