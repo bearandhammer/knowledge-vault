@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK1/2023-01-08.md",
+                "file": "🫀 Life/Garden Bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blog post",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +89,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📧 Inbox/Further Blog Post Ideas.md",
+                "file": "🫀 Life/Garden Bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +194,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f84856b9144071a8",
+  "active": "477758c43cf15a76",
   "lastOpenFiles": [
+    "🫀 Life/Crunch Plan.md",
+    "📆 Calendar/2023/2023-WK1/2023-01-08.md",
+    "📧 Inbox/Further Blog Post Ideas.md",
     "📆 Calendar/2023/2023-WK2/2023-01-15.md",
     "📆 Calendar/2023/2023-WK2/2023-01-14.md",
     "📆 Calendar/2023/2023-WK2/2023-01-13.md",
     "📆 Calendar/2023/2023-WK2/2023-01-12.md",
     "📆 Calendar/2023/2023-WK2/2023-01-10.md",
     "📆 Calendar/2023/2023-WK2/2023-01-09.md",
-    "📆 Calendar/2023/2023-WK2/2023-01-11.md",
-    "📆 Calendar/2022/2022-WK52/2022-12-28.md",
-    "📆 Calendar/2022/2022-WK22/2022-05-31.md",
-    "📆 Calendar/2023/2023-WK1/2023-01-02.md"
+    "📆 Calendar/2023/2023-WK2/2023-01-11.md"
   ]
 }
