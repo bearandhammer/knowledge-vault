@@ -42,3 +42,4 @@ https://www.youtube.com/watch?v=Sclx7F8hFso
 
 https://www.youtube.com/watch?v=Odvs1wIu_cc
 
+Plan in blog posts (generic math).
