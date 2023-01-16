@@ -25,6 +25,12 @@ Virtual machines:
 
 ---
 
+Cert - never expires!!! For live.
 
+---
+
+Exam - skills measured:
+
+![[Pasted image 20230116181158.png]]
 
 
