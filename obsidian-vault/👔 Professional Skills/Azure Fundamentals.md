@@ -46,7 +46,11 @@ Exam - skills measured:
 
 #### Benefits of Cloud Computing
 
+The ability to rent computing on demand - paying for what you use.
 
+1000+ different services.
+
+Web App - layer of abstraction. Easier to work with, no access to OS.
 
 #### Shared Responsibility Model
 
