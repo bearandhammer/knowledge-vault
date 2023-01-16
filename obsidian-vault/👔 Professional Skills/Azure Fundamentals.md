@@ -46,7 +46,7 @@ Exam - skills measured:
 
 #### Benefits of Cloud Computing
 
-The ability to rent computing on demand - paying for what you use.
+The ability to rent computing resources on demand - paying for what you use.
 
 1000+ different services.
 
@@ -77,5 +77,11 @@ Tiers:
 
 - VM = mixed.
 - App Sevice = mixed/shared.
-- SaaS = mixed/shared. Auth platform t
+- SaaS = mixed/shared. Identity/accounts platform then shared. Further up abstraction chain.
+
+PaaS - Platform as a Service.
+IaaS - Infrastructure as a Service.
+
+
+
 
