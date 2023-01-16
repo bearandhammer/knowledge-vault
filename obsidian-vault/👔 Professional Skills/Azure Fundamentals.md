@@ -23,5 +23,8 @@ Virtual machines:
 - Windows - create admin user.
 - Linux - SSH keys.
 
+---
+
+
 
 
