@@ -1,4 +1,7 @@
 
+## Section One - Intro
+---
+
 AZ-900.
 
 ![[Pasted image 20230116175455.png]]
@@ -25,7 +28,7 @@ Virtual machines:
 
 ---
 
-Cert - never expires!!! For live.
+Cert - never expires!!! For life.
 
 ---
 
@@ -33,4 +36,17 @@ Exam - skills measured:
 
 ![[Pasted image 20230116181158.png]]
 
+---
+
+## Sections - AZ-900
+---
+
+### Section 2: Describe Cloud Computing
+---
+
+#### Benefits of Cloud Computing
+
+
+
+#### Shared Responsibility Model
 
