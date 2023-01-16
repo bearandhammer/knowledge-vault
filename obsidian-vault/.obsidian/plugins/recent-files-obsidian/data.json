@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Azure Fundamentals",
+      "path": "👔 Professional Skills/Azure Fundamentals.md"
+    },
+    {
       "basename": "Certifications",
       "path": "💻 Programming/Certifications.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-12-25",
       "path": "📆 Calendar/2022/2022-WK51/2022-12-25.md"
-    },
-    {
-      "basename": "2022-08-09",
-      "path": "📆 Calendar/2022/2022-WK32/2022-08-09.md"
     }
   ],
   "omittedPaths": [],
