@@ -64,3 +64,18 @@ Marketplace - third-party resources available for use.
 
 How MS and the customer have divided responsibility for all sorts of things including security.
 
+I guess this is true, we meet the provider in the middle (with responsibility to utilise supporting resources in a responsible manner). Azure will, of course, protect (by default) these resource (physical security, networking and encryption).
+
+VMs - you need to update.
+Web App/App Service - Azure responsible. Shared responsibility, to some degreee, for Network/Firewall, Application Settings and Auth platform. You are till responsible for devices, data and user accounts.
+
+So different divides depending on the resource you select.
+
+Cloud SaaS (software as a service). Office 365 - you don't control the application itself.
+
+Tiers:
+
+- VM = mixed.
+- App Sevice = mixed/shared.
+- SaaS = mixed/shared. Auth platform t
+
