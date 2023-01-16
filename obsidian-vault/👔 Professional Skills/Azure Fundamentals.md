@@ -19,5 +19,9 @@ Exam page: https://learn.microsoft.com/en-us/certifications/exams/az-900
 
 ---
 
+Virtual machines:
+- Windows - create admin user.
+- Linux - SSH keys.
+
 
 
