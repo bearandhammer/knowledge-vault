@@ -93,8 +93,23 @@ As you move down these tiers more responsibility moves to the provide (mixed/sha
 
 Three types of cloud platform.
 
-Public Cloud - available for the general public.
+***Public Cloud - available for the general public.***
 
-"The public cloud is defined as computing services offered by third-party providers over the pib"
+"The public cloud is defined as computing services offered by third-party providers over the public internet, making them available to anyone who wants to use or purchase them."
+
+In this case, Azure owns the hardware, and their own network and infrastructure and they are making them available to the customer (to rent the services).
+
+We are normally talking about the public cloud (9/10 scenarios).
+
+***Private Cloud - available to select users instead of the general public***
+
+"The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public."
+
+Here, you are invited to be a part of it. E.g. a government cloud (e.g. they own, lease or have exclusive access to the hardware). 
+
+Azure does provide private cloud software - Stack HCI (use on own hardware). Azure can also provide clouds with exclusive access (e.g. back into the governm)
+
+
+
 
 
