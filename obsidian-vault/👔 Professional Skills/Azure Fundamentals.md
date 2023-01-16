@@ -79,9 +79,22 @@ Tiers:
 - App Sevice = mixed/shared.
 - SaaS = mixed/shared. Identity/accounts platform then shared. Further up abstraction chain.
 
-PaaS - Platform as a Service.
-IaaS - Infrastructure as a Service.
+On Prem.
+IaaS - Infrastructure as a Service (VM Infrastructure - varies by service type).
+PaaS - Platform as a Service (App Service).
+SaaS - Software as a Service (Office 365).
+
+As you move down these tiers more responsibility moves to the provide (mixed/shared).
+
+![[Pasted image 20230116184649.png]]
 
 
+#### Public Cloud, Private Cloud, Hybrid Cloud
+
+Three types of cloud platform.
+
+Public Cloud - available for the general public.
+
+"The public cloud is defined as computing services offered by third-party providers over the pib"
 
 
