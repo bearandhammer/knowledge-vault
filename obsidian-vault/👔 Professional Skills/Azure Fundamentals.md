@@ -107,7 +107,23 @@ We are normally talking about the public cloud (9/10 scenarios).
 
 Here, you are invited to be a part of it. E.g. a government cloud (e.g. they own, lease or have exclusive access to the hardware). 
 
-Azure does provide private cloud software - Stack HCI (use on own hardware). Azure can also provide clouds with exclusive access (e.g. back into the governm)
+Azure does provide private cloud software - Stack HCI (use on own hardware). Azure can also provide clouds with exclusive access (e.g. back into the government realm).
+
+***Private Cloud - as you would guess, it's a mixture of the public/private cloud
+
+"A hybrid cloud...is a computing environment that combines a private cloud with a public cloud."
+
+Many ways to cut this cake.
+
+Example (and this is nuts, I have never seen this). A SQL Server 'stretch' database...where you have an on-premises SQL Server that, behind the scenes, has access to the cloud when it needs additional storage (deprecated now - but did pass me by).
+
+*"Combination of public and private clouds; scale private infrastructure to the cloud."*
+
+Exam - requires the classic compare and contrast!!!
+
+
+
+
 
 
 
