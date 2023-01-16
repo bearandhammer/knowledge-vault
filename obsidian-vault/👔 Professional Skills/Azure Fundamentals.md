@@ -129,5 +129,9 @@ There are some examples in the downloaded study guide - refer to this!
 
 
 
+---
 
+## Other Resources
+
+https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
 
