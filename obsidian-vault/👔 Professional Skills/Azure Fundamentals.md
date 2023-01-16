@@ -109,7 +109,7 @@ Here, you are invited to be a part of it. E.g. a government cloud (e.g. they own
 
 Azure does provide private cloud software - Stack HCI (use on own hardware). Azure can also provide clouds with exclusive access (e.g. back into the government realm).
 
-***Private Cloud - as you would guess, it's a mixture of the public/private cloud
+***Hybrid Cloud - as you would guess, it's a mixture of the public/private cloud
 
 "A hybrid cloud...is a computing environment that combines a private cloud with a public cloud."
 
@@ -120,6 +120,8 @@ Example (and this is nuts, I have never seen this). A SQL Server 'stretch' datab
 *"Combination of public and private clouds; scale private infrastructure to the cloud."*
 
 Exam - requires the classic compare and contrast!!!
+
+There are some examples in the downloaded study guide - refer to this!
 
 
 
