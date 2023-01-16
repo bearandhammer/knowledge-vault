@@ -51,6 +51,16 @@ The ability to rent computing on demand - paying for what you use.
 1000+ different services.
 
 Web App - layer of abstraction. Easier to work with, no access to OS.
+Function app - serverless.
+Logic App - create small workflows (connecting processes).
+
+Create resource -> shows popular services and services by category. Lew - check out the AI + Machine Learning services.
+
+Compute - also contains Redis, Kubernetes and Docker (containers).
+
+Marketplace - third-party resources available for use.
 
 #### Shared Responsibility Model
+
+How MS and the customer have divided responsibility for all sorts of things including security.
 
