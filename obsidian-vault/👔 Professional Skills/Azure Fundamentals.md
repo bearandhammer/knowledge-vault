@@ -192,9 +192,21 @@ Why is it cheaper then...
 
 It is also cheaper because we can use things like autoscaling to reduce the cost. With on-prem you need to (ideally) over provision, to predict future growth.
 
-
+DB Servers are typically over provisioned!!! Interesting.
 
 #### High Availability, Scalibility and Elasticity
+
+***High availability*** - time system is operational (expressed as a percentage).
+
+![[Pasted image 20230117182629.png]]
+
+4 minutes a month of down time. Some services go way beyond this too.
+
+100% uptime - this isn't really achievable.
+
+***Scalibility*** - the ability of a system to handle growth of users or work.
+
+
 
 #### Reliability and Predictability
 
