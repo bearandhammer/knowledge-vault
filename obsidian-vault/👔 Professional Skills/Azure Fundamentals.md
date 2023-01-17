@@ -297,7 +297,21 @@ Automation to act on events being monitored without human intervention being req
 
 ***"IaaS is a type of cloud computing service that offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis."***
 
-Least abs
+Least abstracted in many cases. 
+
+Examples: VMs, networking, load balancers, firewalls. Essential services.
+
+Virtualised versions of on-prem, in some cases.
+
+##### Platform as a service
+
+***"PaaS is a complete development and deployment environment in the cloud."***
+
+Sometimes called cloud-native. Requires modification of application a bit to run under this model (more abstraction).
+
+"Like IaaS, PaaS includes infrastructure - servers, storage, and networking - but also middleware, development tools, business intelligence (BI)"
+
+Examples:
 
 
 ---
