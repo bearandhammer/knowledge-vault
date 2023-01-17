@@ -44,6 +44,8 @@ Exam - skills measured:
 ### Section 2: Describe Cloud Computing
 ---
 
+***Describe cloud computing.***
+
 #### Benefits of Cloud Computing
 
 The ability to rent computing resources on demand - paying for what you use.
@@ -167,6 +169,8 @@ More esoteric - like DTUs!!!
 
 ### Section 3: Benefits of Cloud Computing
 
+***Describe the benefits of using cloud services.***
+
 #### Cost Savings Benefit of Cloud Computing
 
 Here is the list of general, key benefits (will be covered in turn):
@@ -275,7 +279,17 @@ Automation to act on events being monitored without human intervention being req
 
 ### Section 4: Cloud Service Types
 
+***Describe cloud service types.***
 
+#### IaaS, PaaS and SaaS
+
+- ***IaaS*** - Infrastructure as a service.
+- ***PaaS*** - Platform as a service.
+- ***SaaS*** - Software as a service.
+
+![[Pasted image 20230117195604.png]]
+
+![[Pasted image 20230117195630.png]]
 
 
 ---
