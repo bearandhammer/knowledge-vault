@@ -252,7 +252,13 @@ Azure - basic DDoS protection free (how does this compare to CloudFlare?). You c
 
 https://www.g2.com/compare/cloudflare-inc-cloudflare-cdn-vs-azure-ddos-protection
 
-##### Gover
+##### Governance
+
+The rules or regulations that the company places on the data/applications, aswell  as government/other auths rules.
+
+GDPR - in europe, for example.
+
+
 
 ---
 
