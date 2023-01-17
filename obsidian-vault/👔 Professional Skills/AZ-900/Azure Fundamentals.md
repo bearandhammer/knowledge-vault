@@ -331,11 +331,19 @@ Consumption-based pricing model. Run on demand.
 
 ***"There are still servers...you just don't ever have to deal with them."***
 
-Even more abstraction than PaaS. Even with PaaS, you have to choose an App Service Plan. With PaaS, scaling i
+Even more abstraction than PaaS. 
 
+- Even with PaaS, you have to choose an App Service Plan. 
+- With PaaS, scaling in your responsibility.
+- Serverless means not worrying about choosing the right plan.
+- Serverless means not worrying about scaling.
+- Serverless means you might pay £0 if you don't use the service.
 
-Examples:
-
+Other serverless offerings:
+- Compute - Azure Functions.
+- Compute - Serverless Kubernetes (Virtual Nodes w/ ACI).
+- Database - Azure SQL Database Serverless.
+- Database - Cosmos DB Serverless.
 
 ---
 
