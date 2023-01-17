@@ -134,6 +134,28 @@ Several factors are involved, can be considered a bit of a downside.
 - Difficult to understand in advance what a service will really cost.
 - Possibility for big savings but you lose predictability.
 
+e.g. VM pricing is affected by:
+- Region.
+- Operation System SKU / License.
+- Instance size. CPU/RAM.
+- Disk type / size (multi-disks).
+- Bandwidth (networking).
+- Backup storage.
+- Reservations / Savings Plan (things like reserved instances).
+- Support agreement.
+
+e.g. Cosmos DB
+- API choice.
+- Region/regions.
+- Standard vs serverless.
+- Ops per second (DTUs).
+- Consumed storage.
+- Optional dedicated gateway.
+- Backup storage.
+
+55+ services are free.
+Some services have free tiers.
+Some have throughput limits.
 
 
 
