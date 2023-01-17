@@ -286,10 +286,18 @@ Automation to act on events being monitored without human intervention being req
 - ***IaaS*** - Infrastructure as a service.
 - ***PaaS*** - Platform as a service.
 - ***SaaS*** - Software as a service.
+- ***Serverless***
 
 ![[Pasted image 20230117195604.png]]
 
 ![[Pasted image 20230117195630.png]]
+
+
+##### Infrastructure as a service
+
+***"IaaS is a type of cloud computing service that offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis."***
+
+Least abs
 
 
 ---
