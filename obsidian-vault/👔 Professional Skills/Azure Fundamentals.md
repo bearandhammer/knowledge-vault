@@ -157,8 +157,19 @@ e.g. Cosmos DB
 Some services have free tiers.
 Some have throughput limits.
 
+***Commonplace is to be charged by time***
+OR ***pay by GB (storage)***
+OR ***pay for throughput (operations) or traffic***
 
+Throughput (operations) = ***pay for read, write, list or delete. Pay for messages or queries***. Usually minimal cost per operation. 
 
+More esoteric - like DTUs!!!
+
+### Section 3: Benefits of Cloud Computing
+
+#### Cost Savings Benefit of Cloud Computing
+
+#### High Availability, Scalibility and Elasticity
 
 
 
