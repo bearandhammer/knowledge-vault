@@ -179,8 +179,20 @@ Tools are provided to understand costs and to be able to control them.
 
 ![[Pasted image 20230117181907.png]]
 
-Capex - up front expendent
-On-prem 
+Capex - up front expenditures (setup costs).
+On-prem OPEX - on-going costs for on prem. Electicity, cooling, real estate, employees, fixing hardware, scaling, etc.
+
+Azure transformation value - shows the savings over years (vs the on-premises costs).
+
+It is (or should be) possible to save money.
+
+Why is it cheaper then...
+- MS can provision resources for cheaper than we can, period. Renewable energy, etc. = ***economies of scale***.
+- e.g. MS can run server cheaper than anyone else (with a few exceptions).
+
+It is also cheaper because we can use things like autoscaling to reduce the cost. With on-prem you need to (ideally) over provision, to predict future growth.
+
+
 
 #### High Availability, Scalibility and Elasticity
 
