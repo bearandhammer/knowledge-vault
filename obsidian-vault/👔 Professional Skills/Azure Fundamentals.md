@@ -258,6 +258,24 @@ The rules or regulations that the company places on the data/applications, aswel
 
 GDPR - in europe, for example.
 
+There are tools in Azure for governance:
+- Azure Policy.
+- Azure Blueprints.
+
+You can make policies that apply to multiple subscriptions (across the org). Or create granular policies...
+
+e.g. all VMs must have backups.
+e.g. tagging convention for resources.
+
+##### Monitoring
+
+Monitor service - reporting/logging (alerts?).
+
+Automation to act on events being monitored without human intervention being required. e.g. scaling to add extra VMs.
+
+### Section 4: Cloud Service Types
+
+
 
 
 ---
