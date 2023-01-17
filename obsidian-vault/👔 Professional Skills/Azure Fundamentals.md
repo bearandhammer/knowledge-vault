@@ -240,6 +240,19 @@ It's not possible for most businesses to run data centres in multiple countries.
 
 #### Security, Governance and Monitoring
 
+##### Security
+
+Security - is massive and a full-time job! 
+
+e.g. Use of AI/ML in products like Azure Firewall or Azure AD - to look for malicious attempts to access resources.
+
+Identity is the number 1 attack vector; identity protection is key.
+
+Azure - basic DDoS protection free (how does this compare to CloudFlare?). You can pay for more advanced DDoS protection.
+
+https://www.g2.com/compare/cloudflare-inc-cloudflare-cdn-vs-azure-ddos-protection
+
+##### Gover
 
 ---
 
