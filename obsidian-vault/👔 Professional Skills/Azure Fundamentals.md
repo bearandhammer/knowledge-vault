@@ -214,6 +214,12 @@ Ultimately leads to cost savings.
 
 #### Reliability and Predictability
 
+***"Since you're giving up control of the platform, you need the cloud to be reliable".***
+
+MS - publishes SLAs for services.
+
+Financial guarantee of their performance - if their services don't meet expectations
+
 #### Security, Governance and Monitoring
 
 
