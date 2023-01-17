@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26c1708b2ce13729",
+        "id": "b7ef44343173963b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc5cebe6fbb20b99",
+            "id": "c8ac7c32d3d6cfbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad738246b9131586",
@@ -168,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +184,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bc5cebe6fbb20b99",
+  "active": "c8ac7c32d3d6cfbb",
   "lastOpenFiles": [
+    "👔 Professional Skills/Pasted image 20230116181158.png",
+    "👔 Professional Skills/Azure Fundamentals.md",
     "📆 Calendar/2023/2023-WK4/2023-01-29.md",
     "📆 Calendar/2023/2023-WK4/2023-01-28.md",
     "📆 Calendar/2023/2023-WK4/2023-01-27.md",
@@ -191,8 +195,6 @@
     "📆 Calendar/2023/2023-WK4/2023-01-25.md",
     "📆 Calendar/2023/2023-WK3/2023-01-20.md",
     "📆 Calendar/2023/2023-WK4/2023-01-24.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-23.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-21.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-22.md"
+    "📆 Calendar/2023/2023-WK4/2023-01-23.md"
   ]
 }

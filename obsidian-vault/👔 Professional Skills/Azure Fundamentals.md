@@ -123,6 +123,17 @@ Exam - requires the classic compare and contrast!!!
 
 There are some examples in the downloaded study guide - refer to this!
 
+#### Cloud Pricing
+
+Contraversal topic.....oooh!!!
+
+Cloud pricing can be complicated - good lord can't it!
+
+Several factors are involved, can be considered a bit of a downside.
+- Difficult to predict monthly bill.
+- Difficult to understand in advance what a service will really cost.
+- Possibility for big savings but you lose predictability.
+
 
 
 
@@ -131,7 +142,7 @@ There are some examples in the downloaded study guide - refer to this!
 
 ---
 
-## Other Resources
+### Other Resources
 
 https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
 
