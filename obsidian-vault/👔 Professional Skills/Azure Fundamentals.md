@@ -218,7 +218,25 @@ Ultimately leads to cost savings.
 
 MS - publishes SLAs for services.
 
-Financial guarantee of their performance - if their services don't meet expectations
+Financial guarantee of their performance - if their services don't meet expectations they will refund you 'some' of the costs for those services.
+
+Azure - establised procedures for rollouts and regional recovery.
+
+MS does provide tools to improve reliability.
+- Availability Sets.
+- Availability Zones.
+
+MS also provides tools for backups and site recovery (disaster recovery).
+
+What is this...test these failures using tools such as ***Chaos Studio***.
+
+https://azure.microsoft.com/en-us/products/chaos-studio - useful in dev/staging.
+
+Global Reach - able to deploy application into multiple geographical regions around the world.
+
+OR - serve content at the edge (think CDN).
+
+It's not possible for most businesses to run data centres in multiple countries.
 
 #### Security, Governance and Monitoring
 
