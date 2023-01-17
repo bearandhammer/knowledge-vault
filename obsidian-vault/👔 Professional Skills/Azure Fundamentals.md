@@ -206,7 +206,11 @@ DB Servers are typically over provisioned!!! Interesting.
 
 ***Scalibility*** - the ability of a system to handle growth of users or work.
 
+***Elasticity*** - the ability of a system to automatically grow and shrink based on application demand.
 
+![[Pasted image 20230117183046.png]]
+
+Ultimately leads to cost savings.
 
 #### Reliability and Predictability
 
