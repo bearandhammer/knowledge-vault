@@ -169,8 +169,24 @@ More esoteric - like DTUs!!!
 
 #### Cost Savings Benefit of Cloud Computing
 
+Here is the list of general, key benefits (will be covered in turn):
+
+![[Pasted image 20230117181715.png]]
+
+##### Cost Savings
+
+Tools are provided to understand costs and to be able to control them.
+
+![[Pasted image 20230117181907.png]]
+
+Capex - up front expendent
+On-prem 
+
 #### High Availability, Scalibility and Elasticity
 
+#### Reliability and Predictability
+
+#### Security, Governance and Monitoring
 
 
 ---
