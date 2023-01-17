@@ -309,7 +309,19 @@ Virtualised versions of on-prem, in some cases.
 
 Sometimes called cloud-native. Requires modification of application a bit to run under this model (more abstraction).
 
-"Like IaaS, PaaS includes infrastructure - servers, storage, and networking - but also middleware, development tools, business intelligence (BI)"
+***"Like IaaS, PaaS includes infrastructure - servers, storage, and networking - but also middleware, development tools, business intelligence (BI) services, database management systems, and more. PaaS is designed to support the complete web application lifecycle: building, testing, deploying, managing, and updating."***
+
+Upload code packages and have them run, without access to the hardware.
+
+##### Software as a service
+
+***"SaaS allows uers to connect to and use cloud-based apps over the internet. Common examples are email, calendaring, and office tools (such as Microsoft Office 365)."***
+
+Calendaring??? Direct quote...
+
+![[Pasted image 20230117201037.png]]
+
+Access to applications on demand.
 
 Examples:
 
