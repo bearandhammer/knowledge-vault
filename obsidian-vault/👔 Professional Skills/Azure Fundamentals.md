@@ -323,6 +323,17 @@ Calendaring??? Direct quote...
 
 Access to applications on demand.
 
+Portal itself is a SaaS application. Access to configuration only. Further abstraction in many cases.
+
+##### Serverless
+
+Consumption-based pricing model. Run on demand.
+
+***"There are still servers...you just don't ever have to deal with them."***
+
+Even more abstraction than PaaS. Even with PaaS, you have to choose an App Service Plan. With PaaS, scaling i
+
+
 Examples:
 
 
