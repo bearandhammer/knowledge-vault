@@ -395,11 +395,24 @@ Germany - used to be a sovereign region. But no more. All europe is now generali
 
 ![[Pasted image 20230118193524.png]]
 
+Availability zone = the way that the region is organised. Not every region has availability zones. Most new regions have it.
 
+Availability zone - compromies of one or more data centers.
+
+Physical separation by building. Resilience (increase availability of an application) - SLA is higher on this kind of configuration. Planning required on application setup.
+
+Regions with availability zones:
+
+![[Pasted image 20230118193907.png]]
+
+![[Pasted image 20230118193922.png]]
+
+UK South is included.
 
 #### Data Centers
 
-
+Physically separate buildings with:
+- 
 
 
 ### Other Resources
