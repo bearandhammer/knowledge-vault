@@ -345,6 +345,10 @@ Other serverless offerings:
 - Database - Azure SQL Database Serverless.
 - Database - Cosmos DB Serverless.
 
+### Section 5: Core Architectural Components of Azure
+
+
+
 ---
 
 ### Other Resources
