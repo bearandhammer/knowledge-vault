@@ -463,6 +463,7 @@ These lie at the top of the organisational structure is Management Groups. This 
 
 - Have common policies.
 - Have common roles and restrictions.
+- Shared control!!!
 
 ![[Pasted image 20230118200518.png]]
 
