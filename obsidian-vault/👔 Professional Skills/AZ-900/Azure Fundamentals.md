@@ -380,7 +380,24 @@ So...pick one to run the services and then put backups in the pair.
 
 Example pairs:
 
+![[Pasted image 20230118193057.png]]
 
+#### Sovereign Regions
+
+- Azure Government (US).
+- China.
+
+As you would expect. China - must have a contract with a business in contract. No deploying resources to China without a prior, special connection.
+
+Germany - used to be a sovereign region. But no more. All europe is now generalised.
+
+#### Availability Zones
+
+![[Pasted image 20230118193524.png]]
+
+
+
+#### Data Centers
 
 
 
