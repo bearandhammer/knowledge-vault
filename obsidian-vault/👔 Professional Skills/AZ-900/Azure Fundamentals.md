@@ -459,6 +459,13 @@ Single user account - having access to three subscriptions:
 
 #### Management groups
 
+These lie at the top of the organisational structure is Management Groups. This is a grouping of other Management Groups (linking to subscriptions). Groups can be nested.
+
+- Have common policies.
+- Have common roles and restrictions.
+
+![[Pasted image 20230118200518.png]]
+
 ### Other Resources
 
 https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
