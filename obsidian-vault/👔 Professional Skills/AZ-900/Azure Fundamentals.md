@@ -447,7 +447,17 @@ Resources can only be part of one group.
 
 Subscription - is the unit of billing. A single company could have one or more subscriptions, of course.
 
+***"Users have access to one or more subscriptions, with different roles."***
 
+***"All the resources consumed by a subscription will be billed to the owner."***
+
+***Can be used to organise resources into completely distinct accounts.***
+
+Single user account - having access to three subscriptions:
+
+![[Pasted image 20230118200006.png]]
+
+#### Management groups
 
 ### Other Resources
 
