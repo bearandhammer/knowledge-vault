@@ -412,8 +412,28 @@ UK South is included.
 #### Data Centers
 
 Physically separate buildings with:
-- 
+- Own power.
+- Own internet/network.
+- Own Cooling setups, etc.
 
+Example region with availability zones:
+
+![[Pasted image 20230118194156.png]]
+
+Data centers do not, of course, have to be this close (it could be up to 50 kilometres away - there is a max distance)...
+
+Real info (for availability zones/regions) in relation to distance:
+
+![[Pasted image 20230118194405.png]]
+
+![[Pasted image 20230118194435.png]]
+
+#### Resource Groups
+
+A way to logically groups resources. A way to act on them as one unit.
+
+Set:
+- Securit
 
 ### Other Resources
 
