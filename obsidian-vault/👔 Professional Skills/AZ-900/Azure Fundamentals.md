@@ -347,9 +347,24 @@ Other serverless offerings:
 
 ### Section 5: Core Architectural Components of Azure
 
+This section accounts for 35-40% (which constitutes the largest section).
+
+We are now discussion Azure-specifics (not generalised cloud benefits).
+
+#### Regions
+
+There are 60+ regions in the world. Not all regions are accessible to every customer.
+
+Some are:
+- Backup regions (requiring you to have services in one region specifically to use them).
+- Some are isolated (e.g. country/government).
+- Some have to be signed up.
+
+New regions are always being announced.
 
 
----
+
+
 
 ### Other Resources
 
