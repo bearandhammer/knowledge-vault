@@ -430,10 +430,16 @@ Real info (for availability zones/regions) in relation to distance:
 
 #### Resource Groups
 
-A way to logically groups resources. A way to act on them as one unit.
+A way to logically groups resources. A way to act on them as one unit:
 
-Set:
-- Securit
+- Set security.
+- Delete resources.
+- Lock the resources.
+- Set up policies.
+
+The resources do not have to be in the same physical location to share a resource group.
+
+
 
 ### Other Resources
 
