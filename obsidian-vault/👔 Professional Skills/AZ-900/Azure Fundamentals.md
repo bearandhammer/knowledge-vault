@@ -439,6 +439,14 @@ A way to logically groups resources. A way to act on them as one unit:
 
 The resources do not have to be in the same physical location to share a resource group.
 
+Here is the general structure of an Azure setup (through Management Groups -> Subscriptions -> Resource Groups -> Resources).
+
+![[Pasted image 20230118195324.png]]
+
+Resources can only be part of one group.
+
+Subscription - is the unit of billing. A single company could have one or more subscriptions, of course.
+
 
 
 ### Other Resources
