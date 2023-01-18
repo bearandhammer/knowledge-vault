@@ -360,7 +360,26 @@ Some are:
 - Some are isolated (e.g. country/government).
 - Some have to be signed up.
 
-New regions are always being announced.
+New regions are always being announced. Azure has (at the time of writing) more  regions than any other provider.
+
+#### Region Pairs
+
+Not all regions have equally fast access to every other region. Pairs are configured to have fast connections between them.
+
+So...pick one to run the services and then put backups in the pair.
+
+***"Each region has one othr region which is treated as it's 'pair'.***
+
+***Almost always in the same geographical location - data storage laws.*** 
+
+***The data connection between regions pairs is the highest speed available.*** 
+
+***Software rollouts are deployed to one region of a pair and the other is not touched.*** 
+
+***If multiple regions go down, one region of each pair is treated as a priority."***
+
+Example pairs:
+
 
 
 
