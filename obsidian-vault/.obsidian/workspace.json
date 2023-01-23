@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK3/2023-01-20.md",
+                "file": "📆 Calendar/2023/2023-WK4/2023-01-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK3/2023-01-20.md",
+                "file": "📆 Calendar/2023/2023-WK4/2023-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,15 +184,15 @@
   },
   "active": "c31330f516b2217a",
   "lastOpenFiles": [
-    "📆 Calendar/2023/2023-WK4/2023-01-23.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-20.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-19.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-18.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-17.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-16.md",
     "📆 Calendar/2023/2023-WK4/2023-01-26.md",
-    "📆 Calendar/2023/2023-WK2/2023-01-11.md",
-    "📆 Calendar/2023/2023-WK2/2023-01-12.md",
-    "📆 Calendar/2023/2023-WK3/2023-01-22.md"
+    "📆 Calendar/2023/2023-WK4/2023-01-23.md",
+    "📆 Calendar/2023/2023-WK4/2023-01-27.md",
+    "📆 Calendar/2023/2023-WK4/2023-01-25.md",
+    "📆 Calendar/2023/2023-WK4/2023-01-24.md",
+    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+    "📆 Calendar/2023/2023-WK4/2023-01-28.md",
+    "📆 Calendar/2023/2023-WK3/2023-01-16.md",
+    "2023-02-05.md",
+    "2023-02-04.md"
   ]
 }
