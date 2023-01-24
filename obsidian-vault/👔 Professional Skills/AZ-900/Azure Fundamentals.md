@@ -467,6 +467,17 @@ These lie at the top of the organisational structure is Management Groups. This 
 
 ![[Pasted image 20230118200518.png]]
 
+### Section 6: Azure Compute and Networking Services
+
+#### Azure Compute Services
+
+#### Azure Networking Services
+
+#### Network Peering
+
+#### Public and Private Endpoints
+
+
 ### Other Resources
 
 https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
