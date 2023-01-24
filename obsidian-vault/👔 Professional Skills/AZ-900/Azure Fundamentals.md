@@ -610,7 +610,11 @@ Other options:
 - Public access from selected virtual network (need creds at any rate).
 - Disable public access and use private access (need creds at any rate).
 
-For virtual networks (and storage), when you pick a subset a 'Microsoft.Storage' 
+For virtual networks (and storage), when you pick a subset a 'Microsoft.Storage' endpoint will be added. Options handled for you. Is a proxy on the subnet for the storage account.
+
+For private, all public access can be stopped. Direct one-to-one routing. Does not just apply to storage accounts.
+
+Is always going to be a security concern.
 
 ### Other Resources
 
