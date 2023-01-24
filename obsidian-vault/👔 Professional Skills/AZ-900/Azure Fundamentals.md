@@ -486,6 +486,31 @@ Compute services covered:
 - Azure Kubernetes Service (AKS).
 - Windows Virtual Desktop.
 
+Compute - ***"Executing code" in the cloud***.
+
+##### Virtual Machines
+
+IaaS.
+
+Take an existing machine from your environment into the cloud - a copy (this is allowed).
+
+Windows or Linux operating systems - several of each flavour.
+
+A "slice" of a physical machine shared with other customers.
+
+Full control over it, as if it was your machine.
+
+In AWS - called EC2.
+
+VM Types - over 200 to chose from (wowzers!).
+Number of CPU cores, CPU speed, RAM size, temporary disk size (and how many disks), IOPs, etc.
+
+##### VM Scale Sets
+
+VMSS.
+
+![[Pasted image 20230124182514.png]]
+
 
 
 #### Azure Networking Services
