@@ -588,7 +588,17 @@ Pretty secure by default
 
 Virtual network to Virtual network comms - requires peering.
 
-Each Virtual Network has a Peering configuration section. Each on
+Each Virtual Network has a Peering configuration section. Each config must have:
+- A name (for 'this' VN and the remote VN - two-way).
+- Options for allowing/blocking traffic (various).
+
+Once a peering configuration is added VNs can now communicate (two-way).
+
+IP to IP resolution works (haven't dealt with private DNS/domain names, etc.).
+
+One way connection - could delete the peering connection on the remote, for example.
+
+This can be done in the same region or across regions. This is called Global P
 
 #### Public and Private Endpoints
 
