@@ -469,7 +469,24 @@ These lie at the top of the organisational structure is Management Groups. This 
 
 ### Section 6: Azure Compute and Networking Services
 
+Exam part - ***Describe Azure compute and networking services.***
+
 #### Azure Compute Services
+
+- Compute services.
+- Networking services.
+- Storage services.
+- Database services.
+
+Compute services covered:
+- Virtual Machines (VM).
+- VM Scale Sets (VMSS).
+- App services (Web apps).
+- Azure Container Instances (ACI).
+- Azure Kubernetes Service (AKS).
+- Windows Virtual Desktop.
+
+
 
 #### Azure Networking Services
 
