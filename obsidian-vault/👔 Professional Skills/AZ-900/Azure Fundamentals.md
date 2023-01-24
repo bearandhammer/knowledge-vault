@@ -535,7 +535,29 @@ Runs on Azure.
 
 #### Azure Networking Services
 
+Specific to the exam:
+- Virtual Networks.
+- VPN Gateway.
+- VNet Peering.
+- ExpressRoute.
+
+***In AWS, a Virtual Network is called a Virtual Private Cloud (yay - the VPC!!!).***
+
+##### Types of Networking Services
+
+Four main types:
+- Connectivity Services
+- Protection Services.
+- Delivery Services.
+- Monitoring Services.
+
+##### Connectivity
+
+![[Pasted image 20230124183449.png]]
+
 #### Network Peering
+
+
 
 #### Public and Private Endpoints
 
