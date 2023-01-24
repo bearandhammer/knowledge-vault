@@ -598,10 +598,19 @@ IP to IP resolution works (haven't dealt with private DNS/domain names, etc.).
 
 One way connection - could delete the peering connection on the remote, for example.
 
-This can be done in the same region or across regions. This is called Global P
+This can be done in the same region or across regions. This is called Global Peering - cost implication for Global Peering (pay international rates for bandwidth - ingress and egress).
 
 #### Public and Private Endpoints
 
+Endpoints - whenever you create a resource in Azure it has different implications as far as network.
+
+e.g. Storage - default - public access from all networks. Doesn't mean everyone has access - you still need credentials, etc.
+
+Other options:
+- Public access from selected virtual network (need creds at any rate).
+- Disable public access and use private access (need creds at any rate).
+
+For virtual networks (and storage), when you pick a subset a 'Microsoft.Storage' 
 
 ### Other Resources
 
