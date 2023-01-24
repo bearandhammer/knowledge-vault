@@ -511,7 +511,27 @@ VMSS.
 
 ![[Pasted image 20230124182514.png]]
 
+All of this is provided for free BTW (you pay for the VMs, of course, but no the scale set functionality).
 
+##### App Services (PaaS)
+
+A new paradigm for running code in the cloud.
+
+Give your code and configuration to Azure, and they will run it (with a promise of performance - no access to the hardware).
+
+PaaS offering. Abstraction!
+
+##### Containers
+
+![[Pasted image 20230124182836.png]]
+
+##### Azure Virtual Desktop
+
+Desktop version of Windows that runs in the cloud.
+
+Your software installed, your files - available from anywhere (can even see your desktop on iOS and Android, or from a browser).
+
+Runs on Azure.
 
 #### Azure Networking Services
 
