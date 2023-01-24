@@ -555,6 +555,20 @@ Four main types:
 
 ![[Pasted image 20230124183449.png]]
 
+##### Protection - Security Section of the Course
+
+- DDoS Protection - Distributed Denial of Service attack protection.
+- Azure Firewall.
+- Network Security Groups.
+- Private Link.
+
+##### Delivery - Not on the Exam
+
+But be aware, for reference:
+
+![[Pasted image 20230124184041.png]]
+
+
 #### Network Peering
 
 
