@@ -586,6 +586,8 @@ Pretty secure by default
 - Each one can be divided into subsets - 10.0.0.0/24 (available IPs, in the example, is 251). You are free to create subnets.
 - 5 are reserved for Azure (of 256 per subset).
 
+
+
 #### Public and Private Endpoints
 
 
