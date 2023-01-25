@@ -636,8 +636,14 @@ Quotas - there are limits based on your account type, regions, etc.
 
 ***When a VM is created you can pass Custom Data - startup script.***
 
-
 ##### Connecting to a Virtual Machine
+
+It is possible to:
+- Scale a VM (change size - vCPU and RAM).
+- Modify (+add/remove) disks.
+- SSH or download and RDP profile.
+
+
 
 ##### Creating Azure App Services / Web Apps
 
