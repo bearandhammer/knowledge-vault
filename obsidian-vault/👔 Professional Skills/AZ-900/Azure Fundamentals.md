@@ -624,6 +624,17 @@ This section constitutes practical demos - but I'll take notes on each section.
 
 For the exam - you don't need to know all of the particular settings when creating a resource. But, I did opt to follow along anyway!
 
+See all images (when generating a VM):
+- SQL Server (plus licencing and software).
+- Oracle.
+- Different Windows Servers.
+- Linux.
+
+600+ variants!
+
+Quotas - there are limits based on your account type, regions, etc. 
+
+
 ##### Connecting to a Virtual Machine
 
 ##### Creating Azure App Services / Web Apps
