@@ -657,6 +657,8 @@ Easy config to alter the machine, e.g. turn it into a web server in the standard
 
 ![[Pasted image 20230125192032.png]]
 
+How to initialise a new data disk: https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal#initialize-a-new-data-disk
+
 
 
 ##### Creating Azure App Services / Web Apps
