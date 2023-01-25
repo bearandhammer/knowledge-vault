@@ -622,7 +622,7 @@ This section constitutes practical demos - but I'll take notes on each section.
 
 ##### Creating a Virtual Machine
 
-
+For the exam - you don't need to know all of the particular settings when creating a resource. But, I did opt to follow along anyway!
 
 ##### Connecting to a Virtual Machine
 
