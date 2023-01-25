@@ -643,6 +643,16 @@ It is possible to:
 - Modify (+add/remove) disks.
 - SSH or download and RDP profile.
 
+Sideline resources created (public IP, Networking resources including a Virtual Network):
+
+![[Pasted image 20230125191139.png]]
+
+Generated with a public IP:
+
+![[Pasted image 20230125191251.png]]
+
+![[Pasted image 20230125191348.png]]
+
 
 
 ##### Creating Azure App Services / Web Apps
