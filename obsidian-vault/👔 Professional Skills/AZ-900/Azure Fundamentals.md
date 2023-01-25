@@ -653,6 +653,10 @@ Generated with a public IP:
 
 ![[Pasted image 20230125191348.png]]
 
+Easy config to alter the machine, e.g. turn it into a web server in the standard way:
+
+![[Pasted image 20230125192032.png]]
+
 
 
 ##### Creating Azure App Services / Web Apps
