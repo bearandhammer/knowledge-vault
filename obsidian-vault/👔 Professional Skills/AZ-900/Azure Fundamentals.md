@@ -661,6 +661,8 @@ How to initialise a new data disk: https://learn.microsoft.com/en-us/azure/virtu
 
 ![[Pasted image 20230125193614.png]]
 
+Web Apps have easier deployment mechanics.
+
 ##### Creating Azure App Services / Web Apps
 
 ##### Azure App Services in Action
