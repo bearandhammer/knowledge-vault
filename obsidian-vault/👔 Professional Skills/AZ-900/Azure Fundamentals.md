@@ -616,6 +616,20 @@ For private, all public access can be stopped. Direct one-to-one routing. Does n
 
 Is always going to be a security concern.
 
+### Section 7: Azure Compute Demo
+
+This section constitutes practical demos - but I'll take notes on each section.
+
+##### Creating a Virtual Machine
+
+
+
+##### Connecting to a Virtual Machine
+
+##### Creating Azure App Services / Web Apps
+
+##### Azure App Services in Action
+
 ### Other Resources
 
 https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
