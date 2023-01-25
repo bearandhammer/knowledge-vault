@@ -634,6 +634,8 @@ See all images (when generating a VM):
 
 Quotas - there are limits based on your account type, regions, etc. 
 
+***When a VM is created you can pass Custom Data - startup script.***
+
 
 ##### Connecting to a Virtual Machine
 
