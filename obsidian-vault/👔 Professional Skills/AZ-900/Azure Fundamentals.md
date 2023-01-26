@@ -686,7 +686,15 @@ Fewer options - simplified network, disks, extensions, etc.
 
 NOTE: For the exam you do not need to remember how to create a Web App - this is just example material.
 
-You do not see an IP - you see a URL. Possible to use DN
+You do not see an IP - you see a URL. Possible to use DNS (CNAME record) to use a custom domain.
+
+These can be monitored - so you can check for scaling:
+
+- Scale up (increase instance resource).
+- Scale out (increase instances). More web apps will be started up.
+
+Custom autoscaling can be configured (based on scale rules - this is awesome. Blog post fodder).
+
 
 ### Other Resources
 
