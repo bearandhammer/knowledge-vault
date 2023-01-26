@@ -717,6 +717,12 @@ Cloning - is possible.
 
 Although you can't get access to the operating system - you can use the console.
 
+![[Pasted image 20230126185359.png]]
+
+Extensions - NuGet installs (does this not just work???). Weird. Guess a DevOps pipeline builds and structures this, for deployment.
+
+Sure - no real concept of what kind of server this is running on. PaaS - MS control the infrastructure.
+
 ### Other Resources
 
 https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
