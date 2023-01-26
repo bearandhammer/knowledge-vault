@@ -725,7 +725,9 @@ Sure - no real concept of what kind of server this is running on. PaaS - MS cont
 
 https://www.section.io/blog/scaling-horizontally-vs-vertically/#:~:text=What's%20the%20main%20difference%3F,as%20%E2%80%9Cscaling%20up%E2%80%9D).
 
-##### 
+##### Creating Azure Functions
+
+##### Kubernetes and Azure Container Instances
 
 ### Other Resources
 
