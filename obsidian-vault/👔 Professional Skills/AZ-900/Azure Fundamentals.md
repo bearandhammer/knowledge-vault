@@ -701,6 +701,9 @@ Deployment slots:
 
 Deployment Center - multiple options for managing deployments.
 
+![[Pasted image 20230126184344.png]]
+
+Perhaps more granular control is allowed still from DevOps/GitHub directly (webhook sounds dangerous).
 
 
 
