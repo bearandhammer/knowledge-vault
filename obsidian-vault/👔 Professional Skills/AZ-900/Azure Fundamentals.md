@@ -719,7 +719,7 @@ Although you can't get access to the operating system - you can use the console.
 
 ![[Pasted image 20230126185359.png]]
 
-Extensions - NuGet installs (does this not just work???). Weird. Guess a DevOps pipeline builds and structures this, for deployment.
+Extensions - NuGet installs (does this not just work???). Weird. Guess a DevOps pipeline builds and structures this, for deployment. Yeah - not really NuGet - more like additional installs - frameworks, hosting bundles, etc. (elmah, etc.).
 
 Sure - no real concept of what kind of server this is running on. PaaS - MS control the infrastructure.
 
