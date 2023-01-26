@@ -665,6 +665,8 @@ Web Apps have easier deployment mechanics.
 
 ##### Creating Azure App Services / Web Apps
 
+This isn't disimilar to my previous deployments, to be fair. 
+
 ##### Azure App Services in Action
 
 ### Other Resources
