@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad738246b9131586",
@@ -183,7 +184,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c31330f516b2217a",
+  "active": "2f3718000c851daf",
   "lastOpenFiles": [
     "📆 Calendar/2023/2023-WK4/2023-01-25.md",
     "📆 Calendar/2023/2023-WK4/2023-01-26.md",
