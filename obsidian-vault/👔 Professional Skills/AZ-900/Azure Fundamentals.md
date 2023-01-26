@@ -682,9 +682,11 @@ Zone Redundancy - deployment time decision only. Has to be the right plan/region
 
 Fewer options - simplified network, disks, extensions, etc.
 
-
-
 ##### Azure App Services in Action
+
+NOTE: For the exam you do not need to remember how to create a Web App - this is just example material.
+
+You do not see an IP - you see a URL. Possible to use DN
 
 ### Other Resources
 
