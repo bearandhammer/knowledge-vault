@@ -667,6 +667,17 @@ Web Apps have easier deployment mechanics.
 
 This isn't disimilar to my previous deployments, to be fair. 
 
+Web Apps must have a unique name (to be served at azurewebsites.net).
+
+Publish:
+- Code (select framework).
+- Docker Container.
+- Static Web App.
+
+The concept of hosting is abstracted to an App Service Plan.
+
+ACU - Azure Compute Unit.
+
 ##### Azure App Services in Action
 
 ### Other Resources
