@@ -723,6 +723,10 @@ Extensions - NuGet installs (does this not just work???). Weird. Guess a DevOps 
 
 Sure - no real concept of what kind of server this is running on. PaaS - MS control the infrastructure.
 
+https://www.section.io/blog/scaling-horizontally-vs-vertically/#:~:text=What's%20the%20main%20difference%3F,as%20%E2%80%9Cscaling%20up%E2%80%9D).
+
+##### 
+
 ### Other Resources
 
 https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
