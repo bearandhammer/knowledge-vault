@@ -705,7 +705,17 @@ Deployment Center - multiple options for managing deployments.
 
 Perhaps more granular control is allowed still from DevOps/GitHub directly (webhook sounds dangerous).
 
+Custom networking:
+- Private endpoint - all public access disallowed apart specific connections.
+- App assigned address.
+- Access restriction - only certain networks in Azure account can access it.
 
+Inbound address - shared.
+Outbound addresses - can be used to setup connectivity to other dependencies - like databases.
+
+Cloning - is possible.
+
+Although you can't get access to the operating system - you can use the console.
 
 ### Other Resources
 
