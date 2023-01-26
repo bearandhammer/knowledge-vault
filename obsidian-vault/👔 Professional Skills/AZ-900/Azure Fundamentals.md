@@ -695,6 +695,14 @@ These can be monitored - so you can check for scaling:
 
 Custom autoscaling can be configured (based on scale rules - this is awesome. Blog post fodder).
 
+Deployment slots:
+- Staging, prod, development (10 or 20 different URLs, for the app, running in the same hosting for no additional cost).
+- Test content, new version of the app (custom URL). Can start delivering traffic between slots (A -> B test).
+
+Deployment Center - multiple options for managing deployments.
+
+
+
 
 ### Other Resources
 
