@@ -678,6 +678,12 @@ The concept of hosting is abstracted to an App Service Plan.
 
 ACU - Azure Compute Unit.
 
+Zone Redundancy - deployment time decision only. Has to be the right plan/region.
+
+Fewer options - simplified network, disks, extensions, etc.
+
+
+
 ##### Azure App Services in Action
 
 ### Other Resources
