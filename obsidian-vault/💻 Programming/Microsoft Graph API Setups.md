@@ -5,5 +5,7 @@
 
 https://learn.microsoft.com/en-us/graph/auth-limit-mailbox-access
 
+So we could do something like (requires testing): https://www.cloudappie.nl/limit-app-permissions-specific-mailbox/
+
 2. We can use a more legacy oauth flow for now - continuing to provide the password (encrypt) along with the app id/secret. This approach is deprecated, but still functionally in oauth 2 (removed in oauth 2.1).
 
