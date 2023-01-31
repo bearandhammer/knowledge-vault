@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Microsoft Graph API Setups.md",
+                "file": "📆 Calendar/2023/2023-WK8/2023-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK5/2023-01-30.md",
+                "file": "📆 Calendar/2023/2023-WK8/2023-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +195,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2f3718000c851daf",
+  "active": "e30490e11d6a2ba1",
   "lastOpenFiles": [
-    "📆 Calendar/2023/2023-WK5/2023-01-30.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-27.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-28.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-05.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-04.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-03.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-02.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-01.md",
-    "📆 Calendar/2023/2023-WK5/2023-01-31.md"
+    "📆 Calendar/2023/2023-WK8/2023-02-25.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-24.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-23.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-22.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-21.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-20.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-26.md",
+    "📆 Calendar/2023/2023-WK7/2023-02-19.md",
+    "👔 Professional Skills/AZ-900/Images/Pasted image 20230125191139.png",
+    "📆 Calendar/2023/2023-WK7/2023-02-18.md"
   ]
 }
