@@ -9,3 +9,11 @@ So we could do something like (requires testing): https://www.cloudappie.nl/limi
 
 2. We can use a more legacy oauth flow for now - continuing to provide the password (encrypt) along with the app id/secret. This approach is deprecated, but still functionally in oauth 2 (removed in oauth 2.1).
 
+Other interesting sources:
+
+https://www.cloudappie.nl/limit-app-permissions-specific-mailbox/
+https://learn.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
+https://stackoverflow.com/questions/64455925/get-all-email-message-using-microsoft-graph-api-in-c-sharp
+https://github.com/MIchaelMainer/GraphNetCore2
+
+
