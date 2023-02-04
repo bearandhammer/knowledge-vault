@@ -65,3 +65,5 @@ API 33???
 
 dib -> https://github.com/dotnet/interactive/issues/467
 
+https://learn.microsoft.com/en-us/answers/questions/1163662/can-we-use-bunit-for-ui-testing-the-net-maui-blazo
+
