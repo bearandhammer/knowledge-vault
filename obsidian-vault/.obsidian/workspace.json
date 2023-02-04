@@ -35,9 +35,11 @@
             "id": "8750878e0ba6ef97",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230204132721.png"
+                "file": "💻 Programming/MAUI Automated Testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230204132721.png",
+                "file": "💻 Programming/MAUI Automated Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +208,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2f3718000c851daf",
+  "active": "8750878e0ba6ef97",
   "lastOpenFiles": [
+    "Pasted image 20230204132721.png",
     "💻 Programming/MAUI Automated Testing.md",
     "📆 Calendar/2023/2023-WK8/2023-02-22.md",
     "📆 Calendar/2023/2023-WK8/2023-02-23.md",
@@ -216,7 +219,6 @@
     "📆 Calendar/2023/2023-WK5/2023-02-02.md",
     "📆 Calendar/2023/2023-WK5/2023-02-01.md",
     "📆 Calendar/2023/2023-WK5/2023-01-31.md",
-    "📆 Calendar/2023/2023-WK5/2023-01-30.md",
-    "📆 Calendar/2023/2023-WK8/2023-02-26.md"
+    "📆 Calendar/2023/2023-WK5/2023-01-30.md"
   ]
 }
