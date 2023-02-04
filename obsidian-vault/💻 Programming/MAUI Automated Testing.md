@@ -46,3 +46,11 @@ https://learn.microsoft.com/en-us/dotnet/core/compatibility/sdk/6.0/publish-read
 ![[Pasted image 20230204152059.png]]
 
 https://www.youtube.com/embed/9LxQwpjKxhE
+
+![[Pasted image 20230204152317.png]]
+
+
+
+API 33???
+
+![[Pasted image 20230204152625.png]]
