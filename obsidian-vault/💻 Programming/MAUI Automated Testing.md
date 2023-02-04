@@ -74,3 +74,6 @@ https://stackoverflow.com/questions/67902464/ui-testing-blazor-dekstop-apps
 
 https://playwright.dev/dotnet/
 
+https://github.com/microsoft/dotnet-podcasts
+
+https://github.com/dotnet/maui/discussions/315
