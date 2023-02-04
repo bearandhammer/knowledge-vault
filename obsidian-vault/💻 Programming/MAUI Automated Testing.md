@@ -23,4 +23,6 @@ https://andrewlock.net/exploring-dotnet-interactive-notebooks/
 
 ---
 
+![[Pasted image 20230204142007.png]]
+
 
