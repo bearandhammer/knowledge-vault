@@ -23,7 +23,13 @@ https://andrewlock.net/exploring-dotnet-interactive-notebooks/
 
 ---
 
+Jupyter Notebooks:
+
 ![[Pasted image 20230204142007.png]]
 
+
 ![[Pasted image 20230204142656.png]]
+
+
+Solution -> Clean and rebuild (in release mode)...
 
