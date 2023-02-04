@@ -82,3 +82,9 @@ Xappium: https://xappium.com/docs/page-object-model.html
 
 bUnit for component testing: https://bunit.dev/
 
+---
+
+https://www.nuget.org/packages/bunit.template/
+
+![[Pasted image 20230204190230.png]]
+
