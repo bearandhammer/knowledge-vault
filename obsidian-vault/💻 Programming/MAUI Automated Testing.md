@@ -67,3 +67,6 @@ dib -> https://github.com/dotnet/interactive/issues/467
 
 https://learn.microsoft.com/en-us/answers/questions/1163662/can-we-use-bunit-for-ui-testing-the-net-maui-blazo
 
+Severity	Code	Description	Project	File	Line	Suppression State
+Error		DEP0100: Please ensure that target device has developer mode enabled. Could not check to see if Developer Mode is enabled on the local machine due to error 00000490. To learn more about Developer Mode, please visit https://go.microsoft.com/fwlink/?linkid=2128411	SampleMauiBlazorApp			
+
