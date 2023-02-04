@@ -7,6 +7,8 @@ Solution loaded: Microsoft.Maui.Automation.sln:
 
 ![[Pasted image 20230204132721.png]]
 
+Just using this to confirm compilation/explore - will switch to VS Code after the fact.
+
 ![[Pasted image 20230204133044.png]]
 
 VS updated - to get new SDKs.
