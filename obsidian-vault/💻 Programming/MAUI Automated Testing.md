@@ -35,3 +35,7 @@ Solution -> Clean and rebuild (in release mode)...
 
 C:\Program Files\dotnet\sdk\7.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Publish.targets(299,5): error NETSDK1094: Unable to optimize assemblies for performance: a valid runtime package was not found. Either set the PublishReadyToRun property to false, or use a supported runtime identifier when publishing. When targeting .NET 6 or higher, make sure to restore packages with the PublishReadyToRun property set to true
 
+warning NU1701: Package 'Microsoft.WinAppDriver.Appium.WebDriver 1.0.1-Preview' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'.
+
+https://learn.microsoft.com/en-us/dotnet/core/compatibility/sdk/6.0/publish-readytorun-requires-restore-change
+
