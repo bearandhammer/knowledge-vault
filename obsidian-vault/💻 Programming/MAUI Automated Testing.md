@@ -17,8 +17,10 @@ VS updated - to get new SDKs.
 
 C# Interactive Notebook preview - VS Code: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode
 
+.NET Interactive Notebooks -> Polyglot Notebooks.
+
 https://andrewlock.net/exploring-dotnet-interactive-notebooks/
 
-
+![[Pasted image 20230204134906.png]]
 
 
