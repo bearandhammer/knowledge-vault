@@ -50,7 +50,11 @@ https://www.youtube.com/embed/9LxQwpjKxhE
 ![[Pasted image 20230204152317.png]]
 
 
+`await driver.Start();` ->
+
+![[Pasted image 20230204152800.png]]
 
 API 33???
 
 ![[Pasted image 20230204152625.png]]
+
