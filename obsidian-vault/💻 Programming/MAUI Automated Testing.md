@@ -80,3 +80,5 @@ https://github.com/dotnet/maui/discussions/315
 
 Xappium: https://xappium.com/docs/page-object-model.html
 
+bUnit for component testing: https://bunit.dev/
+
