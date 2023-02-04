@@ -62,3 +62,6 @@ API 33???
 
 
 ![[Pasted image 20230204161830.png]]
+
+dib -> https://github.com/dotnet/interactive/issues/467
+
