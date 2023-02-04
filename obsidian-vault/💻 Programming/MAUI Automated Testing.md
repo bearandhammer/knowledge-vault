@@ -77,3 +77,6 @@ https://playwright.dev/dotnet/
 https://github.com/microsoft/dotnet-podcasts
 
 https://github.com/dotnet/maui/discussions/315
+
+Xappium: https://xappium.com/docs/page-object-model.html
+
