@@ -43,3 +43,6 @@ https://learn.microsoft.com/en-us/dotnet/core/compatibility/sdk/6.0/publish-read
 
 ![[Pasted image 20230204151341.png]]
 
+![[Pasted image 20230204152059.png]]
+
+https://www.youtube.com/embed/9LxQwpjKxhE
