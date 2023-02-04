@@ -13,8 +13,11 @@ Just using this to confirm compilation/explore - will switch to VS Code after th
 
 VS updated - to get new SDKs.
 
+
+
 C# Interactive Notebook preview - VS Code: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode
 
+https://andrewlock.net/exploring-dotnet-interactive-notebooks/
 
 
 
