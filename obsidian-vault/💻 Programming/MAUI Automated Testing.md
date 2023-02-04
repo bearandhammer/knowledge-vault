@@ -39,3 +39,7 @@ warning NU1701: Package 'Microsoft.WinAppDriver.Appium.WebDriver 1.0.1-Preview' 
 
 https://learn.microsoft.com/en-us/dotnet/core/compatibility/sdk/6.0/publish-readytorun-requires-restore-change
 
+![[Pasted image 20230204151301.png]]
+
+![[Pasted image 20230204151341.png]]
+
