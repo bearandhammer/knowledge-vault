@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "104c268a6308a324",
+        "id": "ad8417db90c8e4c2",
         "type": "tabs",
         "children": [
           {
-            "id": "c31330f516b2217a",
+            "id": "918a11f7c8a81c73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK5/2023-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30490e11d6a2ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📆 Calendar/2023/2023-WK8/2023-02-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8750878e0ba6ef97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📆 Calendar/2023/2023-WK8/2023-02-20.md",
+                "file": "💻 Programming/MAUI Automated Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK8/2023-02-20.md",
+                "file": "💻 Programming/MAUI Automated Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,17 +183,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8750878e0ba6ef97",
+  "active": "918a11f7c8a81c73",
   "lastOpenFiles": [
+    "Pasted image 20230204132721.png",
+    "📆 Calendar/2023/2023-WK8/2023-02-20.md",
+    "📆 Calendar/2023/2023-WK8/2023-02-22.md",
+    "📆 Calendar/2023/2023-WK5/2023-01-30.md",
     "📆 Calendar/2023/2023-WK8/2023-02-21.md",
     "📆 Calendar/2023/2023-WK8/2023-02-23.md",
     "💻 Programming/MAUI Automated Testing.md",
     "💻 Programming/GitHub Repos.md",
-    "Pasted image 20230204132721.png",
-    "📆 Calendar/2023/2023-WK8/2023-02-22.md",
-    "📆 Calendar/2023/2023-WK8/2023-02-20.md",
     "📆 Calendar/2023/2023-WK5/2023-02-02.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-01.md",
-    "📆 Calendar/2023/2023-WK5/2023-01-31.md"
+    "📆 Calendar/2023/2023-WK5/2023-02-01.md"
   ]
 }
