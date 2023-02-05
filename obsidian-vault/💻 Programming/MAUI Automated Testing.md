@@ -88,3 +88,7 @@ https://www.nuget.org/packages/bunit.template/
 
 ![[Pasted image 20230204190230.png]]
 
+https://bunit.dev/
+
+https://bunit.dev/docs/getting-started/create-test-project.html?tabs=xunit
+
