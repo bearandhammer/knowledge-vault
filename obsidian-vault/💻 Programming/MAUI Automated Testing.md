@@ -92,3 +92,14 @@ https://bunit.dev/
 
 https://bunit.dev/docs/getting-started/create-test-project.html?tabs=xunit
 
+---
+
+Xamarin.UITest - Calabash under the hood.
+
+https://github.com/calabash/calabash-ios
+
+https://github.com/calabash/calabash-android
+
+Tests: https://github.com/dotnet/maui/blob/main/src/BlazorWebView/tests/MauiDeviceTests/Elements/BlazorWebViewTests.cs
+
+

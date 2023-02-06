@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Azure Data Lake Resources.md",
+                "file": "💻 Programming/MAUI Automated Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Azure Data Lake Resources.md",
+                "file": "💻 Programming/MAUI Automated Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "918a11f7c8a81c73",
   "lastOpenFiles": [
+    "💻 Programming/Azure Data Lake Resources.md",
     "💻 Programming/Azure Pipelines YAML.md",
     "💻 Programming/Certifications.md",
     "💻 Programming/MAUI Automated Testing.md",
@@ -193,7 +194,6 @@
     "📆 Calendar/2023/2023-WK8/2023-02-22.md",
     "📆 Calendar/2023/2023-WK5/2023-01-30.md",
     "📆 Calendar/2023/2023-WK8/2023-02-21.md",
-    "📆 Calendar/2023/2023-WK8/2023-02-23.md",
-    "💻 Programming/GitHub Repos.md"
+    "📆 Calendar/2023/2023-WK8/2023-02-23.md"
   ]
 }
