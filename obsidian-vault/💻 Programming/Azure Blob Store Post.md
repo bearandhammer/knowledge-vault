@@ -42,4 +42,16 @@ Run the following code to generate a sample request object based on executing th
 
 ---
 
-To see all of the current request values, run the next snippet. Of particular importance is the 
+To see all of the current request values, run the next snippet. Of particular importance is the `BlobResourceName` . You'll want to check the relevant container for this file, after upload, via the Azure Portal, Azure CLI or Azure Storage Explorer.
+
+---
+
+To break down the process, we start by creating a client scoped to the container we wish to write to. This type is the `BlobContainerClient` . We create this use the `BlobServiceClient` type, with the Shared Access Signature connection string in tow. The `GetBlobContainerClient` method, supplied with the correct container name, allows us to later retrieve a `BlobClient` for writing to the container:
+
+---
+
+The following allows us to inspect a couple of facets of the constructed `containerClient` (`BlobContainerClient`), for reference:
+
+---
+
+Lastly, 
