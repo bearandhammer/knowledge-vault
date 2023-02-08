@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Azure Blob Store Post.md",
+                "file": "💻 Programming/Azure Blob Storage Container Post.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Azure Blob Store Post.md",
+                "file": "💻 Programming/Azure Blob Storage Container Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

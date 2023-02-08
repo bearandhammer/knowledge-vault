@@ -54,4 +54,9 @@ The following allows us to inspect a couple of facets of the constructed `contai
 
 ---
 
-Lastly, 
+Lastly, a `BlobClient` is created from the `BlobContainerClient` (constructed with the resource name that you wish to generated). The sample shows how a base 64 string is used to construct a `MemoryStream` , which is ultimated used to call the `UploadAsync` method on the `BlobClient` . A key point here is that a `BlobHttpHeaders` type must be supplied to the `UploadAsync` method to control the content type of the uploaded object:
+
+---
+
+This content can be pushed into the markdown (and tidied) tomorrow. New blog post for the weekend!
+
