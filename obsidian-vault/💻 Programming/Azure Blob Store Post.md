@@ -32,9 +32,14 @@ To push a sample object to storage we require some test data, which we will cons
 	- etc
 - `"<CONTAINER_NAME"` - the name of the container in Azure Storage (under `Containers`) that you wish to write the test object.
 
+You'll need to add a `.jpg` file to a local directory (at `C:\TestImage`) called `test-image.jpg`. The requirement, when this was constructed, was to illustrate how a base 64 string could be transferred to storage (via a `MemoryStream`), so this conversion is done inside the `GetSampleRequestSetting` method, for illustration only. Lastly, a random blob named is generated with the use of a new `Guid`. This reflects the file name that will appear in the container.
 
-
-Execute the snippet to create the method called `GetSampleRequestSettings` .
+Execute the snippet to create the method called `GetSampleRequestSettings` :
 
 ---
 
+Run the following code to generate a sample request object based on executing the `GetSampleRequestSettings` method:
+
+---
+
+To see all of the current request values, run the next snippet. Of particular importance is the 
