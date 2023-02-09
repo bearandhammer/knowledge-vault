@@ -23,11 +23,9 @@
             "id": "3027dbc85e764377",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "💻 Programming/Azure Blob Storage Container Post.md",
-                "mode": "source",
-                "source": false
+                "file": "💻 Programming/MS Build 2022/Pasted image 20230204132721.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Azure Blob Storage Container Post.md",
+                "file": "💻 Programming/MS Build 2022/Pasted image 20230204132721.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +194,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3027dbc85e764377",
+  "active": "2f3718000c851daf",
   "lastOpenFiles": [
+    "💻 Programming/MAUI Test/MAUI Automated Testing.md",
+    "💻 Programming/MS Build 2022/Pasted image 20230204190230.png",
+    "💻 Programming/MS Build 2022/Pasted image 20230204132721.png",
+    "💻 Programming/Azure Blob Storage Container Post.md",
     "💻 Programming/Mapster.md",
-    "💻 Programming/MAUI Automated Testing.md",
     "💻 Programming/Azure Data Lake Resources.md",
     "💻 Programming/Azure Pipelines YAML.md",
     "💻 Programming/Certifications.md",
-    "Pasted image 20230204132721.png",
     "📆 Calendar/2023/2023-WK8/2023-02-20.md",
-    "📆 Calendar/2023/2023-WK8/2023-02-22.md",
-    "📆 Calendar/2023/2023-WK5/2023-01-30.md",
-    "📆 Calendar/2023/2023-WK8/2023-02-21.md"
+    "📆 Calendar/2023/2023-WK8/2023-02-22.md"
   ]
 }
