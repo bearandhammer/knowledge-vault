@@ -4,8 +4,6 @@ tags: 👔
 
 # What is Agile?
 
-
-
 ## Sources
 ---
 
