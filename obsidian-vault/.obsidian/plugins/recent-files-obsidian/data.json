@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Holibobs",
+      "path": "📧 Inbox/Holibobs.md"
+    },
+    {
+      "basename": "Holiday Packing List",
+      "path": "📧 Inbox/Holiday Packing List.md"
+    },
+    {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
+    },
+    {
+      "basename": "Anniversary Plans",
+      "path": "📧 Inbox/Anniversary Plans.md"
+    },
+    {
       "basename": "2022-04-17",
       "path": "📆 Calendar/2022/2022-WK16/2022-04-17.md"
     },
@@ -35,18 +51,6 @@
     {
       "basename": "Holiday Plans",
       "path": "📧 Inbox/Holiday Plans.md"
-    },
-    {
-      "basename": "Holiday Packing List",
-      "path": "📧 Inbox/Holiday Packing List.md"
-    },
-    {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
-    },
-    {
-      "basename": "Anniversary Plans",
-      "path": "📧 Inbox/Anniversary Plans.md"
     },
     {
       "basename": "2023-01-09",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-02-03",
       "path": "📆 Calendar/2023/2023-WK5/2023-02-03.md"
-    },
-    {
-      "basename": "2023-02-25",
-      "path": "📆 Calendar/2023/2023-WK8/2023-02-25.md"
     }
   ],
   "omittedPaths": [],
