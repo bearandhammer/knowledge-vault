@@ -23,9 +23,11 @@
             "id": "3027dbc85e764377",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "♟ Board Games/Detective/Pasted image 20220528230708.png"
+                "file": "👔 Professional Skills/Event Storming.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♟ Board Games/Detective/Pasted image 20220528230708.png",
+                "file": "👔 Professional Skills/Event Storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +196,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3027dbc85e764377",
+  "active": "2f3718000c851daf",
   "lastOpenFiles": [
+    "♟ Board Games/Detective/Pasted image 20220528230708.png",
     "♟ Board Games/Detective/Detective Case One.md",
     "📧 Inbox/Use Nutrition to Combat Tiredness.md",
     "📧 Inbox/What is Agile.md",
@@ -204,7 +207,6 @@
     "📧 Inbox/Holiday Plans.md",
     "📧 Inbox/Holiday Packing List.md",
     "📧 Inbox/Further Blog Post Ideas.md",
-    "📧 Inbox/Anniversary Plans.md",
-    "📆 Calendar/2023/2023-WK2/2023-01-09.md"
+    "📧 Inbox/Anniversary Plans.md"
   ]
 }
