@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Holiday Plans",
+      "path": "📧 Inbox/Holiday Plans.md"
+    },
+    {
+      "basename": "Anniversary Plans",
+      "path": "📧 Inbox/Anniversary Plans.md"
+    },
+    {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
+    },
+    {
       "basename": "Holibobs",
       "path": "📧 Inbox/Holibobs.md"
     },
@@ -9,12 +21,20 @@
       "path": "📧 Inbox/Holiday Packing List.md"
     },
     {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
+      "basename": "What is Agile",
+      "path": "📧 Inbox/What is Agile.md"
     },
     {
-      "basename": "Anniversary Plans",
-      "path": "📧 Inbox/Anniversary Plans.md"
+      "basename": "Use Nutrition to Combat Tiredness",
+      "path": "📧 Inbox/Use Nutrition to Combat Tiredness.md"
+    },
+    {
+      "basename": "Nutrition guidelines for runners",
+      "path": "📧 Inbox/Nutrition guidelines for runners.md"
+    },
+    {
+      "basename": "Pastos Order",
+      "path": "📧 Inbox/Pastos Order.md"
     },
     {
       "basename": "2022-04-17",
@@ -33,24 +53,8 @@
       "path": "♟ Board Games/Detective/Detective Case One.md"
     },
     {
-      "basename": "Use Nutrition to Combat Tiredness",
-      "path": "📧 Inbox/Use Nutrition to Combat Tiredness.md"
-    },
-    {
-      "basename": "What is Agile",
-      "path": "📧 Inbox/What is Agile.md"
-    },
-    {
-      "basename": "Nutrition guidelines for runners",
-      "path": "📧 Inbox/Nutrition guidelines for runners.md"
-    },
-    {
       "basename": "IVF Qs",
       "path": "📧 Inbox/IVF Qs.md"
-    },
-    {
-      "basename": "Holiday Plans",
-      "path": "📧 Inbox/Holiday Plans.md"
     },
     {
       "basename": "2023-01-09",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-02-04",
       "path": "📆 Calendar/2023/2023-WK5/2023-02-04.md"
-    },
-    {
-      "basename": "2023-02-03",
-      "path": "📆 Calendar/2023/2023-WK5/2023-02-03.md"
     }
   ],
   "omittedPaths": [],
