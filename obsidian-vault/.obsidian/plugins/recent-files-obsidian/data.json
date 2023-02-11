@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Hydration Aids",
+      "path": "📧 Inbox/Hydration Aids.md"
+    },
+    {
       "basename": "Holiday Plans",
       "path": "📧 Inbox/Holiday Plans.md"
+    },
+    {
+      "basename": "Holiday Packing List",
+      "path": "📧 Inbox/Holiday Packing List.md"
     },
     {
       "basename": "Anniversary Plans",
@@ -15,10 +23,6 @@
     {
       "basename": "Holibobs",
       "path": "📧 Inbox/Holibobs.md"
-    },
-    {
-      "basename": "Holiday Packing List",
-      "path": "📧 Inbox/Holiday Packing List.md"
     },
     {
       "basename": "What is Agile",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-02-05",
       "path": "📆 Calendar/2023/2023-WK5/2023-02-05.md"
-    },
-    {
-      "basename": "2023-02-04",
-      "path": "📆 Calendar/2023/2023-WK5/2023-02-04.md"
     }
   ],
   "omittedPaths": [],
