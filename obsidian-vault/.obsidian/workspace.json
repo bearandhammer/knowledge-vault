@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Makecode Retro Arcarde/Makecode.md",
+                "file": "🫀 Life/Crunch Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Makecode Retro Arcarde/Makecode.md",
+                "file": "🫀 Life/Crunch Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +208,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2f3718000c851daf",
+  "active": "d04df573391e6ec8",
   "lastOpenFiles": [
+    "💻 Programming/Makecode Retro Arcarde/Makecode.md",
     "📧 Inbox/Anniversary Plans.md",
     "📧 Inbox/IVF Qs.md",
     "📧 Inbox/Holiday Plans.md",
@@ -218,7 +219,6 @@
     "📧 Inbox/Further Blog Post Ideas.md",
     "📧 Inbox/Holibobs.md",
     "📧 Inbox/What is Agile.md",
-    "📧 Inbox/Use Nutrition to Combat Tiredness.md",
-    "📧 Inbox/Nutrition guidelines for runners.md"
+    "📧 Inbox/Use Nutrition to Combat Tiredness.md"
   ]
 }
