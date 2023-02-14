@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Architecture Diagram",
+      "path": "🐸 Frog & Pencil/Architecture Diagram.md"
+    },
+    {
+      "basename": "Holiday Packing List",
+      "path": "📧 Inbox/Holiday Packing List.md"
+    },
+    {
+      "basename": "Holibobs",
+      "path": "📧 Inbox/Holibobs.md"
+    },
+    {
+      "basename": "Further Blog Post Ideas",
+      "path": "📧 Inbox/Further Blog Post Ideas.md"
+    },
+    {
+      "basename": "Anniversary Plans",
+      "path": "📧 Inbox/Anniversary Plans.md"
+    },
+    {
       "basename": "Breakfast Ideas",
       "path": "🥑 Nutrition/Breakfasts/Breakfast Ideas.md"
     },
@@ -33,10 +53,6 @@
       "path": "💻 Programming/Makecode Retro Arcarde/Makecode.md"
     },
     {
-      "basename": "Anniversary Plans",
-      "path": "📧 Inbox/Anniversary Plans.md"
-    },
-    {
       "basename": "IVF Qs",
       "path": "📧 Inbox/IVF Qs.md"
     },
@@ -47,18 +63,6 @@
     {
       "basename": "Hydration Aids",
       "path": "📧 Inbox/Hydration Aids.md"
-    },
-    {
-      "basename": "Holiday Packing List",
-      "path": "📧 Inbox/Holiday Packing List.md"
-    },
-    {
-      "basename": "Further Blog Post Ideas",
-      "path": "📧 Inbox/Further Blog Post Ideas.md"
-    },
-    {
-      "basename": "Holibobs",
-      "path": "📧 Inbox/Holibobs.md"
     },
     {
       "basename": "What is Agile",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-02-13",
       "path": "📆 Calendar/2023/2023-WK7/2023-02-13.md"
-    },
-    {
-      "basename": "2023-02-12",
-      "path": "📆 Calendar/2023/2023-WK6/2023-02-12.md"
     }
   ],
   "omittedPaths": [],
