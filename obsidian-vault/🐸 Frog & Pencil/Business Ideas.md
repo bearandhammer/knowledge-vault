@@ -6,7 +6,8 @@ tags: 🐸
 ---
 
 🔶 Organiser notepad (for fridge/elsewhere)?
-
+🔶 Notebooks?
+🔶 Positive messages?
 
 ### Notes
 ---
