@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Business Ideas",
+      "path": "🐸 Frog & Pencil/Business Ideas.md"
+    },
+    {
       "basename": "Architecture Diagram",
       "path": "🐸 Frog & Pencil/Architecture Diagram.md"
+    },
+    {
+      "basename": "Frog & Pencil Website Improvements",
+      "path": "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md"
     },
     {
       "basename": "Holiday Packing List",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-02-15",
       "path": "📆 Calendar/2023/2023-WK7/2023-02-15.md"
-    },
-    {
-      "basename": "2023-02-14",
-      "path": "📆 Calendar/2023/2023-WK7/2023-02-14.md"
-    },
-    {
-      "basename": "2023-02-13",
-      "path": "📆 Calendar/2023/2023-WK7/2023-02-13.md"
     }
   ],
   "omittedPaths": [],
