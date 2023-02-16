@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Certifications",
+      "path": "💻 Programming/Certifications.md"
+    },
+    {
       "basename": "Azure Blob Storage Container Post",
       "path": "💻 Programming/Azure Blob Storage Container Post.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "Azure Pipelines YAML",
       "path": "💻 Programming/Azure Pipelines YAML.md"
-    },
-    {
-      "basename": "Certifications",
-      "path": "💻 Programming/Certifications.md"
     },
     {
       "basename": "2023-02-20",
