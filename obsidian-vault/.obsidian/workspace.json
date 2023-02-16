@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Certifications.md",
+                "file": "💻 Programming/Makecode Retro Arcarde/Makecode.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Certifications.md",
+                "file": "💻 Programming/Makecode Retro Arcarde/Makecode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +221,15 @@
   },
   "active": "99004d9314e359a7",
   "lastOpenFiles": [
-    "💻 Programming/Azure Blob Storage Container Post.md",
-    "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
-    "🐸 Frog & Pencil/Business Ideas.md",
-    "🐸 Frog & Pencil/Architecture Diagram.md",
-    "🐸 Frog & Pencil/Frog & Pencil Website Improvements.md",
-    "📧 Inbox/Holiday Packing List.md",
-    "📧 Inbox/Holibobs.md",
-    "📧 Inbox/Further Blog Post Ideas.md",
-    "📧 Inbox/Anniversary Plans.md",
-    "🥑 Nutrition/Breakfasts/Breakfast Ideas.md"
+    "💻 Programming/Fans.md",
+    "💻 Programming/DataTable Performance.md",
+    "💻 Programming/Custom OData Resources.md",
+    "💻 Programming/Claims, Roles and Policies.md",
+    "💻 Programming/CSharp Language Feature Course Timeline.md",
+    "💻 Programming/Certifications.md",
+    "💻 Programming/Books.md",
+    "💻 Programming/Azure Pipelines YAML.md",
+    "💻 Programming/Azure Data Lake Resources.md",
+    "💻 Programming/Azure Blob Storage Container Post.md"
   ]
 }
