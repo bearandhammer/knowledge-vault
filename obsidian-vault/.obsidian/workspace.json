@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md",
+                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "birth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md",
+                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,9 +222,9 @@
   },
   "active": "99004d9314e359a7",
   "lastOpenFiles": [
+    "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md",
     "📰 Blog Notes (Archive)/Current/Language Features csharp.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
-    "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md",
     "💻 Programming/Makecode Retro Arcarde/Makecode.md",
     "💻 Programming/Fans.md",
     "💻 Programming/DataTable Performance.md",
