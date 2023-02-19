@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+                "file": "📆 Calendar/2023/2023-WK7/2023-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "birth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+                "file": "📆 Calendar/2023/2023-WK7/2023-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,15 +184,15 @@
   },
   "active": "918a11f7c8a81c73",
   "lastOpenFiles": [
-    "📧 Inbox/Anniversary Plans.md",
+    "📆 Calendar/2023/2023-WK5/2023-02-01.md",
+    "📆 Calendar/2023/2023-WK6/2023-02-06.md",
+    "📆 Calendar/2023/2023-WK6/2023-02-08.md",
+    "📆 Calendar/2023/2023-WK7/2023-02-19.md",
+    "📆 Calendar/2023/2023-WK7/2023-02-18.md",
     "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+    "📧 Inbox/Anniversary Plans.md",
     "💻 Programming/Mapster.md",
     "💻 Programming/Azure Blob Storage Container Post.md",
-    "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md",
-    "📰 Blog Notes (Archive)/Current/Language Features csharp.md",
-    "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
-    "💻 Programming/Makecode Retro Arcarde/Makecode.md",
-    "💻 Programming/Fans.md",
-    "💻 Programming/DataTable Performance.md"
+    "📰 Blog Notes (Archive)/Current/Microsoft Build 2022.md"
   ]
 }
