@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "918a11f7c8a81c73",
+  "active": "8112cf17f0b9184f",
   "lastOpenFiles": [
     "📆 Calendar/2023/2023-WK7/2023-02-19.md",
     "📆 Calendar/2023/2023-WK5/2023-02-01.md",
