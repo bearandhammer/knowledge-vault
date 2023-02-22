@@ -18,4 +18,13 @@ What's the best way to tackle this?
 		- SonarCube setup.
 		- Code metrics in Azure DevOps pipeline.
 		- Make a unity game, why not!
+		- Image comparison.
 - Search for purpose.
+
+
+Base64 string.
+Standard MD5 method.
+https://stackoverflow.com/questions/35151067/algorithm-to-compare-two-images-in-c-sharp
+https://stackoverflow.com/questions/23931/algorithm-to-compare-two-images
+https://atirtahir.medium.com/compare-two-images-in-c-18acf6084387
+
