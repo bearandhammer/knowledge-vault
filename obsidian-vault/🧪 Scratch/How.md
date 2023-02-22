@@ -16,6 +16,6 @@ What's the best way to tackle this?
 	- Blog posts:
 		- Interactive Notebooks.
 		- SonarCube setup.
-		- Code metrics in a
+		- Code metrics in Azure DevOps pipeline.
 		- Make a unity game, why not!
 - Search for purpose.
