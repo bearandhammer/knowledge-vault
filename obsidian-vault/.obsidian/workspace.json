@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ee9fcff0683e6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧪 Scratch/How.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rainbow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+                "file": "🧪 Scratch/How.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,15 +195,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "918a11f7c8a81c73",
+  "active": "5ee9fcff0683e6d5",
   "lastOpenFiles": [
+    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "📆 Calendar/2023/2023-WK7/2023-02-19.md",
     "📆 Calendar/2023/2023-WK5/2023-02-01.md",
     "📆 Calendar/2023/2023-WK6/2023-02-06.md",
     "📆 Calendar/2023/2023-WK6/2023-02-08.md",
     "📆 Calendar/2023/2023-WK7/2023-02-18.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
     "📧 Inbox/Anniversary Plans.md",
     "💻 Programming/Mapster.md",
     "💻 Programming/Azure Blob Storage Container Post.md"
