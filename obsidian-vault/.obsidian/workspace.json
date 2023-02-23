@@ -35,14 +35,18 @@
             "id": "cdf0c523739a0ef4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Canvas Test.canvas",
+                "viewState": {
+                  "x": -35,
+                  "y": -30,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧪 Scratch/How.md",
+                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,9 +209,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cdf0c523739a0ef4",
+  "active": "918a11f7c8a81c73",
   "lastOpenFiles": [
+    "🧪 Scratch/How.md",
     "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+    "Canvas Test.canvas",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "📆 Calendar/2023/2023-WK7/2023-02-19.md",
     "📆 Calendar/2023/2023-WK5/2023-02-01.md",
