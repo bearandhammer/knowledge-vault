@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"fd65c621d0c0cb1d","x":0,"y":-200,"width":400,"height":400,"color":"#882525","type":"file","file":"🧪 Scratch/How.md"},
-		{"id":"3b07e8130a1cecb0","x":-480,"y":-62,"width":400,"height":262,"color":"5","type":"file","file":"💻 Programming/MS Build 2022/Pasted image 20230204190230.png"},
-		{"type":"text","text":"Canvas Testing","id":"aefa1d87c65e8043","x":-440,"y":-320,"width":240,"height":80,"color":"1"}
+		{"type":"group","label":"Group One","id":"aee48144aedf3c47","x":-500,"y":-340,"width":920,"height":560,"color":"4"},
+		{"id":"4d5041362df78c70","x":-460,"y":310,"width":750,"height":100,"color":"3","type":"group","label":"Group Two"},
+		{"type":"file","file":"🧪 Scratch/How.md","id":"fd65c621d0c0cb1d","x":0,"y":-200,"width":400,"height":400,"color":"#882525"},
+		{"type":"file","file":"💻 Programming/MS Build 2022/Pasted image 20230204190230.png","id":"3b07e8130a1cecb0","x":-480,"y":-62,"width":400,"height":262,"color":"5"},
+		{"type":"text","text":"Canvas Testing","id":"aefa1d87c65e8043","x":-440,"y":-320,"width":240,"height":80,"color":"1"},
+		{"type":"text","text":"Group Two - Card One","id":"58399ee4e0465cb3","x":-440,"y":330,"width":250,"height":60},
+		{"type":"text","text":"Group Two - Card Two","id":"2809b5cafc10e9de","x":20,"y":330,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4f7e776a3f7e2ab2","fromNode":"aefa1d87c65e8043","fromSide":"bottom","toNode":"3b07e8130a1cecb0","toSide":"top"},
-		{"id":"60681253c58f56c4","fromNode":"3b07e8130a1cecb0","fromSide":"right","toNode":"fd65c621d0c0cb1d","toSide":"left"}
+		{"id":"60681253c58f56c4","fromNode":"3b07e8130a1cecb0","fromSide":"right","toNode":"fd65c621d0c0cb1d","toSide":"left"},
+		{"id":"3d0c72251bfd6030","fromNode":"aee48144aedf3c47","fromSide":"bottom","toNode":"4d5041362df78c70","toSide":"top"}
 	]
 }

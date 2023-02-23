@@ -29,4 +29,7 @@ https://stackoverflow.com/questions/35151067/algorithm-to-compare-two-images-in-
 https://stackoverflow.com/questions/23931/algorithm-to-compare-two-images
 https://atirtahir.medium.com/compare-two-images-in-c-18acf6084387
 
+Canvas testing
+https://obsidian.md/canvas
+
 
