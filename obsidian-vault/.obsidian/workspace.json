@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧪 Scratch/How.md",
+                "file": "🧪 Scratch/⚒️ How.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,11 @@
             "id": "cdf0c523739a0ef4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas Test.canvas",
-                "viewState": {
-                  "x": -35,
-                  "y": 31.380000000000067,
-                  "zoom": 0
-                }
+                "file": "🧪 Scratch/⚒️ How.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas Test.canvas",
+                "file": "🧪 Scratch/⚒️ How.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,9 +209,9 @@
   },
   "active": "cdf0c523739a0ef4",
   "lastOpenFiles": [
-    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
-    "🧪 Scratch/How.md",
     "Canvas Test.canvas",
+    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+    "🧪 Scratch/⚒️ How.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "📆 Calendar/2023/2023-WK7/2023-02-19.md",
     "📆 Calendar/2023/2023-WK5/2023-02-01.md",
