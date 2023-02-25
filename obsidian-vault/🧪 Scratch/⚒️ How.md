@@ -22,6 +22,7 @@ What's the best way to tackle this?
 		- Image comparison.
 - Search for purpose.
 
+Other idea: translation service.
 
 Base64 string.
 Standard MD5 method.
