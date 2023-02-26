@@ -22,8 +22,9 @@ What's the best way to tackle this?
 		- Image comparison.
 - Search for purpose.
 
-Other idea: translation service. 
-Other idea: Cognitive service recap. 
+Idea: translation service.
+Idea: Cognitive service recap.
+Idea: Neural networks.
 
 Base64 string.
 Standard MD5 method.
