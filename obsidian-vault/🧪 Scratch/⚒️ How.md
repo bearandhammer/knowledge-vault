@@ -24,7 +24,8 @@ What's the best way to tackle this?
 
 Idea: translation service.
 Idea: Cognitive service recap.
-Idea: Neural networks.
+Idea: Neural networks. 
+Idea: DataDog Dashboards. 
 
 Base64 string.
 Standard MD5 method.
