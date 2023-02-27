@@ -22,11 +22,11 @@ What's the best way to tackle this?
 		- Image comparison.
 - Search for purpose.
 
-Idea: translation service.
-Idea: Cognitive service recap.
-Idea: Neural networks. 
-Idea: DataDog Dashboards.
-Idea:https://marmelab.com/blog/2023/02/27/copilot-code-review.html
+- Idea: translation service.
+- Idea: Cognitive service recap.
+- Idea: Neural networks. 
+- Idea: DataDog Dashboards.
+- Idea:https://marmelab.com/blog/2023/02/27/copilot-code-review.html
  
 Base64 string.
 Standard MD5 method.
