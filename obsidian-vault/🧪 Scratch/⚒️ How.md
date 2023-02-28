@@ -28,6 +28,7 @@ What's the best way to tackle this?
 - Idea: DataDog Dashboards.
 - Idea: https://marmelab.com/blog/2023/02/27/copilot-code-review.html
 - Idea: Selenium helper methods. 
+- Idea: pretty good one to cover - http API tests.
 
 Base64 string.
 Standard MD5 method.
@@ -40,5 +41,3 @@ https://obsidian.md/canvas
 https://www.testgorilla.com/pricing/
 
 https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/
-
-- Idea: pretty good one to cover - http API tests.
