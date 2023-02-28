@@ -27,7 +27,8 @@ What's the best way to tackle this?
 - Idea: Neural networks. 
 - Idea: DataDog Dashboards.
 - Idea: https://marmelab.com/blog/2023/02/27/copilot-code-review.html
- 
+- Idea: Selenium helper methods. 
+
 Base64 string.
 Standard MD5 method.
 https://stackoverflow.com/questions/35151067/algorithm-to-compare-two-images-in-c-sharp
