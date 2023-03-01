@@ -24,6 +24,7 @@ What's the best way to tackle this?
 
 - Idea: translation service.
 - Idea: Cognitive service recap.
+	- Sentiment analysis is a good one to cover.
 - Idea: Neural networks. 
 - Idea: DataDog Dashboards.
 - Idea: https://marmelab.com/blog/2023/02/27/copilot-code-review.html
@@ -45,4 +46,4 @@ https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/
 Other notes:
 
 https://cloud.google.com/kubernetes-engine
-
+https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample2_AnalyzeSentiment.md
