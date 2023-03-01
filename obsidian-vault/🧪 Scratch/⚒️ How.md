@@ -41,3 +41,8 @@ https://obsidian.md/canvas
 https://www.testgorilla.com/pricing/
 
 https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/
+
+Other notes:
+
+https://cloud.google.com/kubernetes-engine
+
