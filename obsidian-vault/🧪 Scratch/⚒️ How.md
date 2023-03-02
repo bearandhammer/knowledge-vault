@@ -49,3 +49,7 @@ https://cloud.google.com/kubernetes-engine
 https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample2_AnalyzeSentiment.md
 
 Etsy API? Sales stats? 
+https://developers.etsy.com/documentation/reference
+
+V2 defunct this year.
+
