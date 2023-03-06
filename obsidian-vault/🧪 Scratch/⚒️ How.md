@@ -59,3 +59,6 @@ https://www.dotnetnakama.com/blog/enriched-web-api-documentation-using-swagger-o
 Rebook cabin??? Is it possible?
 ...
 
+We did it! All booked.
+
+Idea: DevOps - check file content.
