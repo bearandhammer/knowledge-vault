@@ -55,3 +55,7 @@ V2 defunct this year.
 
 Swagger extra options:
 https://www.dotnetnakama.com/blog/enriched-web-api-documentation-using-swagger-openapi-in-asp-dotnet-core/
+
+Rebook cabin??? Is it possible?
+...
+
