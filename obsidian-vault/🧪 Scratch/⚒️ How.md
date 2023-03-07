@@ -64,3 +64,5 @@ We did it! All booked.
 Idea: DevOps - check file content.
 
 Could use a PowerShell refresher really - it's been too long. Will root through Udemy for a reasonable one.
+
+https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1
