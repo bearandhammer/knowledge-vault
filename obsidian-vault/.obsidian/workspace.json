@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3355d1613dd2078",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +217,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cdf0c523739a0ef4",
+  "active": "b3355d1613dd2078",
   "lastOpenFiles": [
     "Canvas Test.canvas",
     "📆 Calendar/2023/2023-WK4/2023-01-29.md",
