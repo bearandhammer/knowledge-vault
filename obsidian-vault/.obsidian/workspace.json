@@ -47,9 +47,11 @@
             "id": "b3355d1613dd2078",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "🧪 Scratch/⚒️ How.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
