@@ -69,3 +69,4 @@ https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-
 
 Look at Rest API for:
 - create comment. 
+- get commit changes
