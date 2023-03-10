@@ -73,3 +73,5 @@ Look at Rest API for:
 
 PowerShell regex matching.
 - Go for the light version?
+- Just go with line, not offset, highlighting.
+- 
