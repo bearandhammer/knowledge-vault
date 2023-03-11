@@ -77,3 +77,4 @@ PowerShell regex matching.
 - Remember to set a base url var.
 
 Build pipeline maintainability index.
+Build pipeline unit test coverage. 
