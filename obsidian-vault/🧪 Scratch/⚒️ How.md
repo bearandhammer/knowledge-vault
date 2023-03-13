@@ -78,3 +78,4 @@ PowerShell regex matching.
 
 Build pipeline maintainability index.
 Build pipeline unit test coverage.
+Writing analysis (when well). 
