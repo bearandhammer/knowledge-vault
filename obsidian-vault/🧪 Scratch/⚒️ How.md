@@ -29,6 +29,7 @@ What's the best way to tackle this?
 - Idea: DataDog Dashboards.
 - Idea: https://marmelab.com/blog/2023/02/27/copilot-code-review.html
 - Idea: Selenium helper methods. 
+- Idea: Selenium best practice. 
 - Idea: pretty good one to cover - http API tests.
 
 Base64 string.
