@@ -85,3 +85,5 @@ Writing analysis (when well).
 - Next...linked xbox accounts. Done.
 
 Complete beta testing.
+
+Purchase Udemy course - Selenium.
