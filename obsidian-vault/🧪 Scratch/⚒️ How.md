@@ -87,5 +87,8 @@ Writing analysis (when well).
 Complete beta testing.
 
 Purchase Udemy course - Selenium.
+	Plan in Selenium cause for the next two weeks.
+	Udemy - 2 days approx.
 
 Research build (dr).
+
