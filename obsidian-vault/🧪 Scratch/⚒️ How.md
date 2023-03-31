@@ -96,3 +96,7 @@ Research build (dr).
 
 post for regex (code analysis).
 - Checked off - functions correctly.
+- Done.
+
+How to generate NuGet packages - demo done.
+
