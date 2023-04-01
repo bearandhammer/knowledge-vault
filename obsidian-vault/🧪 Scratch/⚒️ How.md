@@ -89,6 +89,7 @@ Complete beta testing.
 Purchase Udemy course - Selenium.
 	Plan in Selenium cause for the next two weeks.
 	Udemy - 2 days approx.
+	Book in calendar time to finish...
 
 Research build (dr).
 
