@@ -100,3 +100,4 @@ post for regex (code analysis).
 - Done.
 
 How to generate NuGet packages - demo done.
+Query string - disection and fluent/moq tests.
