@@ -5,6 +5,10 @@
       "path": "🧪 Scratch/⚒️ How.md"
     },
     {
+      "basename": "🐶 202203271636 Dog",
+      "path": "🧪 Scratch/🐶 202203271636 Dog.md"
+    },
+    {
       "basename": "Canvas Test",
       "path": "Canvas Test.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230204132721",
       "path": "💻 Programming/MS Build 2022/Pasted image 20230204132721.png"
-    },
-    {
-      "basename": "MAUI Automated Testing",
-      "path": "💻 Programming/MAUI Test/MAUI Automated Testing.md"
     }
   ],
   "omittedPaths": [],
