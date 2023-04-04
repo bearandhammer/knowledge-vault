@@ -102,3 +102,9 @@ post for regex (code analysis).
 How to generate NuGet packages - demo done.
 Query string - disection and fluent/moq tests.
 
+---
+
+API best practice:
+- Exception handling...WTF.
+- 
+
