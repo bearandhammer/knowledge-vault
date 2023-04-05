@@ -106,5 +106,3 @@ Query string - disection and fluent/moq tests.
 
 API best practice:
 - Exception handling...WTF.
-- 
-
