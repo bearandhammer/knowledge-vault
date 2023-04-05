@@ -106,3 +106,7 @@ Query string - disection and fluent/moq tests.
 
 API best practice:
 - Exception handling...WTF.
+
+Build pipelines:
+- What account is it running as.
+- What is wrong with the URL?
