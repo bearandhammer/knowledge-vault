@@ -117,4 +117,5 @@ Fixed issue - turned out to be a permissions issue.
 
 Travel prep:
 - Pay bills ✅
-- Download updates. 
+- Download updates. ✅
+- Get medal 🎖️ 
