@@ -24,9 +24,10 @@ tags: 🥑
 ### Sandwich
 ---
 
-🔸Texas bread sandwich
+🔸Texas bread sandwich.
 
 ### Breakfast
 ---
 
-🔸
+🔸McDonalds Vegan McMuffin.
+
