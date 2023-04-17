@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "918a11f7c8a81c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📆 Calendar/2023/2023-WK4/2023-01-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3355d1613dd2078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧪 Scratch/⚒️ How.md",
+                "file": "🥑 Nutrition/Breakfasts/Breakfast Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧪 Scratch/⚒️ How.md",
+                "file": "🥑 Nutrition/Breakfasts/Breakfast Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +184,11 @@
   },
   "active": "b3355d1613dd2078",
   "lastOpenFiles": [
-    "🧪 Scratch/🐶 202203271636 Dog.md",
-    "🧪 Scratch/⚒️ How.md",
-    "Canvas Test.canvas",
     "📆 Calendar/2023/2023-WK4/2023-01-29.md",
+    "🥑 Nutrition/Breakfasts/Breakfast Ideas.md",
+    "🧪 Scratch/⚒️ How.md",
+    "🧪 Scratch/🐶 202203271636 Dog.md",
+    "Canvas Test.canvas",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "📆 Calendar/2023/2023-WK7/2023-02-19.md",
     "📆 Calendar/2023/2023-WK5/2023-02-01.md",
