@@ -123,5 +123,8 @@ Travel prep:
 ---
 
 - Birthday prep ✅
-- 
+
+---
+
+- Update ClickUp with progress (plenty of that!).
 
