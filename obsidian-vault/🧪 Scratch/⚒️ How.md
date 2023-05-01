@@ -128,3 +128,5 @@ Travel prep:
 
 - Update ClickUp with progress (plenty of that!). ✅
 - Update ClickUp progress again - make note of shredding/books. ✅
+- Paperwork (main) organisation complete - win! ✅
+
