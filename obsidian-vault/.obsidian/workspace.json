@@ -33,9 +33,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "021865f5212c8071",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,6 +101,14 @@
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
+            }
+          },
+          {
+            "id": "18720a815acf0de4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -198,7 +216,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c0f5383ac7fe951",
+  "active": "021865f5212c8071",
   "lastOpenFiles": [
     "Canvas 🖼️/Canvas Test.canvas",
     "🫀 Life/House WIP.md",
