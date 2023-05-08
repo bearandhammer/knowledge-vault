@@ -101,3 +101,4 @@ Usual 30 minute evening walk (if not running in the evening).
 - [x] Smash scales.
 
 AND WE DID IT!!!!!
+Fully completed crunch - really need to re-crunch.
