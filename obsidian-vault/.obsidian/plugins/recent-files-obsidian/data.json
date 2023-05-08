@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "House WIP",
+      "path": "🫀 Life/House WIP.md"
+    },
+    {
+      "basename": "Canvas Test",
+      "path": "Canvas 🖼️/Canvas Test.canvas"
+    },
+    {
       "basename": "Fitness Utilities",
       "path": "🏃‍♂ Fitness/Fitness Utilities.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "2023-01-29",
       "path": "📆 Calendar/2023/2023-WK4/2023-01-29.md"
-    },
-    {
-      "basename": "Canvas Test",
-      "path": "Canvas 🖼️/Canvas Test.canvas"
     },
     {
       "basename": "April 2022 Highlights Blog",
@@ -195,10 +199,6 @@
     {
       "basename": "Pastos Order",
       "path": "📧 Inbox/Pastos Order.md"
-    },
-    {
-      "basename": "2022-04-17",
-      "path": "📆 Calendar/2022/2022-WK16/2022-04-17.md"
     }
   ],
   "omittedPaths": [],

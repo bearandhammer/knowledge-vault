@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"type":"group","label":"Group One","id":"aee48144aedf3c47","x":-500,"y":-340,"width":920,"height":560,"color":"4"},
-		{"type":"group","label":"Group Two","id":"4d5041362df78c70","x":-460,"y":310,"width":750,"height":100,"color":"3"},
+		{"type":"group","id":"aee48144aedf3c47","x":-500,"y":-340,"width":920,"height":560,"color":"4","label":"Group One"},
+		{"type":"group","id":"4d5041362df78c70","x":-460,"y":310,"width":750,"height":100,"color":"3","label":"Group Two"},
 		{"type":"file","file":"🧪 Scratch/⚒️ How.md","id":"fd65c621d0c0cb1d","x":0,"y":-200,"width":400,"height":400,"color":"#882525"},
 		{"type":"file","file":"💻 Programming/MS Build 2022/Pasted image 20230204190230.png","id":"3b07e8130a1cecb0","x":-480,"y":-62,"width":399,"height":262,"color":"5"},
 		{"type":"text","text":"Canvas Testing","id":"aefa1d87c65e8043","x":-440,"y":-320,"width":240,"height":80,"color":"1"},
