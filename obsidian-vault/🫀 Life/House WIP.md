@@ -9,3 +9,5 @@ Attleborough Van Man
 - https://www.johnwatershouseclearance.co.uk/clearance-services
 - https://norfolkhcc.co.uk/meet-the-team/
 - https://clearancesandremovals.com/
+
+Man with a van (Thetford) and Clearance and Removals look viable. Norfolk CC - house only?
