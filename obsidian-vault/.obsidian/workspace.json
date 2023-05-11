@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "d2e10995ff14a3ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "021865f5212c8071",
             "type": "leaf",
             "state": {
@@ -45,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +226,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c0f5383ac7fe951",
+  "active": "d2e10995ff14a3ac",
   "lastOpenFiles": [
     "Canvas 🖼️/Canvas Test.canvas",
     "🫀 Life/House WIP.md",
