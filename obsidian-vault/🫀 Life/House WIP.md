@@ -20,5 +20,7 @@ Paint - could be restricted for the most part (have no idea how to deal with tha
 ---
 
 Paint - prepare for being picked up (Mum and Dad skip).
+Move kitchenware to racks.
+Move F&P stuff to racks.
 
 
