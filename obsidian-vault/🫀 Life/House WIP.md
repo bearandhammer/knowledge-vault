@@ -17,3 +17,8 @@ Man with a van (Thetford) and Clearance and Removals look viable. Norfolk CC - h
 
 Paint - could be restricted for the most part (have no idea how to deal with that).
 
+---
+
+Paint - prepare for being picked up (Mum and Dad skip).
+
+
