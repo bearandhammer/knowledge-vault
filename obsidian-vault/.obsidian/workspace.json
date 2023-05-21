@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🫀 Life/Crunch Plan.md",
+                "file": "🏃‍♂ Fitness/Best Treadmills.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Crunch Plan.md",
+                "file": "🏃‍♂ Fitness/Best Treadmills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,10 +231,10 @@
   },
   "active": "8c0f5383ac7fe951",
   "lastOpenFiles": [
+    "🫀 Life/Crunch Plan.md",
     "🫀 Life/Garden Bits.md",
     "🫀 Life/House WIP.md",
     "🫀 Life/Kitchen Cribsheet.md",
-    "🫀 Life/Crunch Plan.md",
     "🫀 Life/House Organisation Hacks.md",
     "Canvas 🖼️/Canvas Test.canvas",
     "🏃‍♂ Fitness/Fitness Utilities.md",
