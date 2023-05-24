@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏃‍♂ Fitness/Best Treadmills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce2fe0c7e5947fc0",
+  "active": "8c0f5383ac7fe951",
   "lastOpenFiles": [
     "🏃‍♂ Fitness/Best Treadmills.md",
     "🫀 Life/Crunch Plan.md",
