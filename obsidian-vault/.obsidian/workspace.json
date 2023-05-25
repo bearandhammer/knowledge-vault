@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "c322a41f071aba8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
             "id": "ce2fe0c7e5947fc0",
             "type": "leaf",
             "state": {
@@ -66,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏃‍♂ Fitness/Best Treadmills.md",
+                "file": "Canvas 🖼️/Canvas Test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +248,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c0f5383ac7fe951",
+  "active": "b3355d1613dd2078",
   "lastOpenFiles": [
     "🏃‍♂ Fitness/Best Treadmills.md",
     "🫀 Life/Crunch Plan.md",
