@@ -7,3 +7,6 @@ https://www.nordictrack.co.uk/treadmills?g_acctid=395-462-6544&g_adgroupid=13506
 youtube.com/watch?v=6BtOt0PNzW8&pp=ygUZYmVzdCB0cmVhZG1pbGwgZm9yIGdhcmFnZQ%3D%3D
 
 One thing to consider is warranty checks (garage usage). Not widely accepted.
+
+Discussed with Claire - perhaps not a huge deal? 
+
