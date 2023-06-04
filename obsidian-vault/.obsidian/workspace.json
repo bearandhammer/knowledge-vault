@@ -11,14 +11,11 @@
             "id": "b3355d1613dd2078",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas 🖼️/Canvas Test.canvas",
-                "viewState": {
-                  "x": -40,
-                  "y": 35,
-                  "zoom": 0
-                }
+                "file": "🏃‍♂ Fitness/Fitness Utilities.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -88,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Crunch Plan.md",
+                "file": "🏃‍♂ Fitness/Fitness Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,12 +256,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b75dc0b9cb16f1f9",
+  "active": "b3355d1613dd2078",
   "lastOpenFiles": [
-    "🏃‍♂ Fitness/Running days.md",
+    "Canvas 🖼️/Canvas Test.canvas",
     "🫀 Life/Crunch Plan.md",
     "🏃‍♂ Fitness/Best Treadmills.md",
-    "Canvas 🖼️/Canvas Test.canvas",
+    "🏃‍♂ Fitness/Running days.md",
     "🫀 Life/Garden Bits.md",
     "🫀 Life/House WIP.md",
     "🫀 Life/Kitchen Cribsheet.md",
