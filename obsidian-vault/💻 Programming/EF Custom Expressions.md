@@ -52,3 +52,137 @@ By studying these resources, you'll gain a deeper understanding of LINQ expressi
 
 Note that working with custom LINQ expressions can be advanced and require careful consideration. It's important to thoroughly test and validate the performance and correctness of your custom expressions in your specific scenario.
 
+```csharp
+public class PersonResponse
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public ICollection<PersonAttribute> Attributes { get; set; }
+}
+
+[ApiController]
+[Route("odata/[controller]")]
+public class PersonsController : ODataController
+{
+    private readonly YourDbContext _dbContext;
+
+    public PersonsController(YourDbContext dbContext)
+    {
+        _dbContext = dbContext;
+    }
+
+    [EnableQuery]
+    public IActionResult Get(ODataQueryOptions<Person> options)
+    {
+        var query = _dbContext.Persons.Include(p => p.PersonAttributes);
+
+        // Apply OData query options
+        var filteredQuery = options.ApplyTo(query, new ODataQuerySettings
+        {
+            HandleNullPropagation = HandleNullPropagationOption.False
+        });
+
+        // Map to PersonResponse objects with related PersonAttributes
+        var response = filteredQuery.Cast<Person>()
+            .Select(person => new PersonResponse
+            {
+                Id = person.Id,
+                Name = person.Name,
+                Attributes = person.PersonAttributes.ToList()
+            });
+
+        return Ok(response);
+    }
+}
+
+```
+
+```csharp
+using Microsoft.AspNet.OData;
+using Microsoft.AspNet.OData.Extensions;
+using Microsoft.AspNet.OData.Query;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Reflection;
+
+[ApiController]
+[Route("odata/[controller]")]
+public class PersonsController : ODataController
+{
+    private readonly YourDbContext _dbContext;
+
+    public PersonsController(YourDbContext dbContext)
+    {
+        _dbContext = dbContext;
+    }
+
+    [EnableQuery]
+    public IActionResult Get(ODataQueryOptions<Person> options)
+    {
+        var query = _dbContext.Persons.Include(p => p.PersonAttributes);
+
+        // Apply OData query options
+        var filteredQuery = options.ApplyTo(query, new ODataQuerySettings
+        {
+            HandleNullPropagation = HandleNullPropagationOption.False
+        });
+
+        // Map to PersonResponse objects with dynamic properties constructed in SQL query
+        var response = filteredQuery.Cast<Person>()
+            .Select(BuildPersonResponseExpression());
+
+        return Ok(response);
+    }
+
+    private Expression<Func<Person, PersonResponse>> BuildPersonResponseExpression()
+    {
+        var personParameter = Expression.Parameter(typeof(Person), "person");
+
+        // Constructing the dynamic properties dictionary in SQL query
+        var dynamicPropertiesDictionaryExpression = Expression.Call(
+            typeof(EntityFrameworkQueryableExtensions),
+            "ToDictionary",
+            new[] { typeof(PersonAttribute), typeof(string), typeof(string) },
+            Expression.Property(personParameter, "PersonAttributes"),
+            Expression.Lambda<Func<PersonAttribute, string>>(Expression.Property(personParameter, "AttributeKey"), Expression.Parameter(typeof(PersonAttribute))),
+            Expression.Lambda<Func<PersonAttribute, string>>(Expression.Property(personParameter, "AttributeValue"), Expression.Parameter(typeof(PersonAttribute)))
+        );
+
+        // Constructing the PersonResponse object
+        var personResponseExpression = Expression.MemberInit(
+            Expression.New(typeof(PersonResponse)),
+            Expression.Bind(typeof(PersonResponse).GetProperty("Id"), Expression.Property(personParameter, "Id")),
+            Expression.Bind(typeof(PersonResponse).GetProperty("Name"), Expression.Property(personParameter, "Name")),
+            Expression.Bind(typeof(PersonResponse).GetProperty("DynamicProperties"), dynamicPropertiesDictionaryExpression)
+        );
+
+        return Expression.Lambda<Func<Person, PersonResponse>>(personResponseExpression, personParameter);
+    }
+}
+
+```
+
+---
+
+Certainly! The `options.ApplyTo` method in the code sample is responsible for applying the OData query options to the LINQ query before executing it. Let's break down what it does:
+
+csharpCopy code
+
+`var filteredQuery = options.ApplyTo(query, new ODataQuerySettings {     HandleNullPropagation = HandleNullPropagationOption.False });`
+
+1. `options`: This is an instance of `ODataQueryOptions<Person>` that represents the OData query options sent by the client. It includes information about the requested filters, sorting, paging, and any other OData-specific query parameters.
+    
+2. `query`: This is the initial LINQ query representing the data source, in this case, the `Persons` collection from the `YourDbContext`.
+    
+3. `new ODataQuerySettings { HandleNullPropagation = HandleNullPropagationOption.False }`: This creates an instance of `ODataQuerySettings` and sets the `HandleNullPropagation` property to `HandleNullPropagationOption.False`. This setting controls how null values are handled in the query. By setting it to `False`, it ensures that null propagation is disabled, which can improve performance by generating more optimized SQL queries.
+    
+
+The `options.ApplyTo` method applies the OData query options to the `query` and returns a new `IQueryable` representing the filtered and sorted data based on the OData query options. It takes into account the filters, sorting, and other OData query parameters specified in `options` and modifies the `query` accordingly.
+
+By calling `options.ApplyTo(query, new ODataQuerySettings)`, you are applying the OData query options to the LINQ query before executing it. This allows you to leverage the OData query capabilities, such as filtering, sorting, and paging, in a standardized and optimized way using Entity Framework Core and OData libraries.
+
+It's important to note that `options.ApplyTo` works with the OData query conventions and can generate the corresponding SQL queries that match the requested OData operations, helping to optimize the execution of the query against the database.
