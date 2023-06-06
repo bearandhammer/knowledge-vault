@@ -186,3 +186,5 @@ The `options.ApplyTo` method applies the OData query options to the `query` and 
 By calling `options.ApplyTo(query, new ODataQuerySettings)`, you are applying the OData query options to the LINQ query before executing it. This allows you to leverage the OData query capabilities, such as filtering, sorting, and paging, in a standardized and optimized way using Entity Framework Core and OData libraries.
 
 It's important to note that `options.ApplyTo` works with the OData query conventions and can generate the corresponding SQL queries that match the requested OData operations, helping to optimize the execution of the query against the database.
+
+https://chat.openai.com/share/416c4014-1c88-4ea4-a2ed-95c6537b122b
