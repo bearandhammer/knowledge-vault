@@ -194,3 +194,10 @@ https://chat.openai.com/share/416c4014-1c88-4ea4-a2ed-95c6537b122b
 Custom expressions - not really the way to go. Using options.ApplyTo did turn out to be a valid way of working though.
 
 Perhaps I can create a custom library to fit this need (MIT licence).
+
+- Create middleware.
+- Create registration code.
+- Create interfaces.
+- Create attributes (type and properties?).
+- Custom logic to translate OData to EF (for dynamic properties).
+- Covering unit tests.
