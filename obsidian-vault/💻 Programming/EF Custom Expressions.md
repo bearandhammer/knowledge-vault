@@ -188,3 +188,9 @@ By calling `options.ApplyTo(query, new ODataQuerySettings)`, you are applying th
 It's important to note that `options.ApplyTo` works with the OData query conventions and can generate the corresponding SQL queries that match the requested OData operations, helping to optimize the execution of the query against the database.
 
 https://chat.openai.com/share/416c4014-1c88-4ea4-a2ed-95c6537b122b
+
+---
+
+Custom expressions - not really the way to go. Using options.ApplyTo did turn out to be a valid way of working though.
+
+Perhaps I can create a custom library to fit this need (MIT licence).
