@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DataTable Performance",
+      "path": "💻 Programming/DataTable Performance.md"
+    },
+    {
       "basename": "EF Custom Expressions",
       "path": "💻 Programming/EF Custom Expressions.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "Fans",
       "path": "💻 Programming/Fans.md"
-    },
-    {
-      "basename": "DataTable Performance",
-      "path": "💻 Programming/DataTable Performance.md"
     },
     {
       "basename": "Custom OData Resources",
