@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/DataTable Performance.md",
+                "file": "💻 Programming/Azure Pipelines YAML.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/DataTable Performance.md",
+                "file": "💻 Programming/Azure Pipelines YAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,8 @@
   },
   "active": "ce2fe0c7e5947fc0",
   "lastOpenFiles": [
+    "💻 Programming/Claims, Roles and Policies.md",
+    "💻 Programming/DataTable Performance.md",
     "💻 Programming/EF Custom Expressions.md",
     "🏃‍♂ Fitness/Running days.md",
     "🏃‍♂ Fitness/Best Treadmills.md",
@@ -237,8 +239,6 @@
     "📆 Calendar/2023/2023-WK6/2023-02-06.md",
     "📆 Calendar/2023/2023-WK6/2023-02-08.md",
     "📆 Calendar/2023/2023-WK7/2023-02-18.md",
-    "📧 Inbox/Anniversary Plans.md",
-    "💻 Programming/Mapster.md",
-    "💻 Programming/Azure Blob Storage Container Post.md"
+    "📧 Inbox/Anniversary Plans.md"
   ]
 }
