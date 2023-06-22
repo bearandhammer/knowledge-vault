@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Certifications",
+      "path": "💻 Programming/Certifications.md"
+    },
+    {
+      "basename": "Books",
+      "path": "💻 Programming/Books.md"
+    },
+    {
       "basename": "Azure Pipelines YAML",
       "path": "💻 Programming/Azure Pipelines YAML.md"
     },
@@ -143,14 +151,6 @@
     {
       "basename": "CSharp Language Feature Course Timeline",
       "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
-    },
-    {
-      "basename": "Certifications",
-      "path": "💻 Programming/Certifications.md"
-    },
-    {
-      "basename": "Books",
-      "path": "💻 Programming/Books.md"
     },
     {
       "basename": "Azure Data Lake Resources",
