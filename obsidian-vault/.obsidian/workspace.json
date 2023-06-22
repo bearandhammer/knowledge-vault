@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Programming/Azure Pipelines YAML.md",
+                "file": "💻 Programming/EF Custom Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Programming/Azure Pipelines YAML.md",
+                "file": "💻 Programming/EF Custom Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,10 @@
   },
   "active": "ce2fe0c7e5947fc0",
   "lastOpenFiles": [
+    "💻 Programming/CSharp Language Feature Course Timeline.md",
+    "💻 Programming/Certifications.md",
+    "💻 Programming/Books.md",
+    "💻 Programming/Azure Pipelines YAML.md",
     "💻 Programming/Claims, Roles and Policies.md",
     "💻 Programming/DataTable Performance.md",
     "💻 Programming/EF Custom Expressions.md",
@@ -235,10 +239,6 @@
     "📆 Calendar/2023/2023-WK4/2023-01-29.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "📆 Calendar/2023/2023-WK7/2023-02-19.md",
-    "📆 Calendar/2023/2023-WK5/2023-02-01.md",
-    "📆 Calendar/2023/2023-WK6/2023-02-06.md",
-    "📆 Calendar/2023/2023-WK6/2023-02-08.md",
-    "📆 Calendar/2023/2023-WK7/2023-02-18.md",
-    "📧 Inbox/Anniversary Plans.md"
+    "📆 Calendar/2023/2023-WK5/2023-02-01.md"
   ]
 }

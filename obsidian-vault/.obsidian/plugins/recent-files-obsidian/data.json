@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "EF Custom Expressions",
+      "path": "💻 Programming/EF Custom Expressions.md"
+    },
+    {
+      "basename": "CSharp Language Feature Course Timeline",
+      "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
+    },
+    {
       "basename": "Certifications",
       "path": "💻 Programming/Certifications.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "DataTable Performance",
       "path": "💻 Programming/DataTable Performance.md"
-    },
-    {
-      "basename": "EF Custom Expressions",
-      "path": "💻 Programming/EF Custom Expressions.md"
     },
     {
       "basename": "Running days",
@@ -147,10 +151,6 @@
     {
       "basename": "Custom OData Resources",
       "path": "💻 Programming/Custom OData Resources.md"
-    },
-    {
-      "basename": "CSharp Language Feature Course Timeline",
-      "path": "💻 Programming/CSharp Language Feature Course Timeline.md"
     },
     {
       "basename": "Azure Data Lake Resources",
