@@ -1,5 +1,5 @@
 
-Phase one adjustments
+Phase one adjustments:
 
 Adjust each armour piece (aspects specifically):
 
@@ -22,7 +22,6 @@ Then:
 
 - Upgrade pants.
 - Keep duration to Earthen Bulwark (it's good).
-
 
 Keep gloves, weapon, one good ring and amulet for now.
 
