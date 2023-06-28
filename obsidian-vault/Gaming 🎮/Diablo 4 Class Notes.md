@@ -7,6 +7,8 @@ Do the following:
 
 - Upgrade chest armour.
 - Imprint with 'Fortify your earth skills gain two ranks.'.
+- Nothing good on the first cut.
+- Need
 
 Then:
 
