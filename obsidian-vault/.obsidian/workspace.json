@@ -23,9 +23,14 @@
             "id": "b75dc0b9cb16f1f9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Canvas 🖼️/Canvas Test.canvas",
+                "viewState": {
+                  "x": -40,
+                  "y": 35,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -39,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaming 🎮/Diablo 4 Class Notes.md",
+                "file": "Canvas 🖼️/Canvas Test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +216,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce2fe0c7e5947fc0",
+  "active": "b75dc0b9cb16f1f9",
   "lastOpenFiles": [
-    "💻 Programming/Azure Blob Storage Container Post.md",
     "Gaming 🎮/Diablo 4 Class Notes.md",
+    "💻 Programming/Azure Blob Storage Container Post.md",
     "Gaming 🎮",
     "💻 Programming/EF Custom Expressions.md",
     "💻 Programming/CSharp Language Feature Course Timeline.md",
