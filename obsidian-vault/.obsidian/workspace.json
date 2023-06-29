@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas 🖼️/Canvas Test.canvas",
+                "file": "Gaming 🎮/Diablo 4 Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +215,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b75dc0b9cb16f1f9",
+  "active": "ce2fe0c7e5947fc0",
   "lastOpenFiles": [
+    "Canvas 🖼️/Canvas Test.canvas",
     "Gaming 🎮/Diablo 4 Class Notes.md",
     "💻 Programming/Azure Blob Storage Container Post.md",
     "Gaming 🎮",
@@ -231,7 +231,6 @@
     "🏃‍♂ Fitness/Running days.md",
     "🏃‍♂ Fitness/Best Treadmills.md",
     "🏃‍♂ Fitness/Fitness Utilities.md",
-    "Canvas 🖼️/Canvas Test.canvas",
     "🫀 Life/Crunch Plan.md",
     "🫀 Life/Garden Bits.md",
     "🫀 Life/House WIP.md",
@@ -245,7 +244,6 @@
     "🧪 Scratch/⚒️ How.md",
     "🧪 Scratch/🐶 202203271636 Dog.md",
     "🥑 Nutrition/Breakfasts/Breakfast Ideas.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-29.md",
-    "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md"
+    "📆 Calendar/2023/2023-WK4/2023-01-29.md"
   ]
 }
