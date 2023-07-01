@@ -8,7 +8,7 @@ Do the following:
 - Upgrade chest armour.
 - Imprint with 'Fortify your earth skills gain two ranks.'.
 - Nothing good on the first cut.
-- Need
+- NeedBoo
 
 Then:
 
@@ -26,4 +26,11 @@ Then:
 - Keep duration to Earthen Bulwark (it's good).
 
 Keep gloves, weapon, one good ring and amulet for now.
+
+----
+
+Boots
+- If we can just find movement speed!!!
+
+
 
