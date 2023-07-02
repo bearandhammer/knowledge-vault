@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming 🎮/Diablo 4 Class Notes.md",
+                "file": "📆 Calendar/2023/2023-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaming 🎮/Diablo 4 Class Notes.md",
+                "file": "📆 Calendar/2023/2023-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,10 +215,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce2fe0c7e5947fc0",
+  "active": "2f3718000c851daf",
   "lastOpenFiles": [
-    "Canvas 🖼️/Canvas Test.canvas",
     "Gaming 🎮/Diablo 4 Class Notes.md",
+    "📆 Calendar/2023/2023-07-02.md",
+    "Canvas 🖼️/Canvas Test.canvas",
     "💻 Programming/Azure Blob Storage Container Post.md",
     "Gaming 🎮",
     "💻 Programming/EF Custom Expressions.md",
