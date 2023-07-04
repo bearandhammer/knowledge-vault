@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Diablo 4 Class Notes",
+      "path": "🎮 Gaming/Diablo 4 Class Notes.md"
+    },
+    {
       "basename": "2023-07-02",
       "path": "📆 Calendar/2023/2023-07-02.md"
     },
     {
-      "basename": "Diablo 4 Class Notes",
-      "path": "Gaming 🎮/Diablo 4 Class Notes.md"
+      "basename": "2023-01-02",
+      "path": "📆 Calendar/2023/2023-WK1/2023-01-02.md"
     },
     {
       "basename": "Canvas Test",
-      "path": "Canvas 🖼️/Canvas Test.canvas"
+      "path": "🖼️ Canvas/Canvas Test.canvas"
     },
     {
       "basename": "Azure Blob Storage Container Post",
@@ -195,10 +199,6 @@
     {
       "basename": "Holiday Plans",
       "path": "📧 Inbox/Holiday Plans.md"
-    },
-    {
-      "basename": "Hydration Aids",
-      "path": "📧 Inbox/Hydration Aids.md"
     }
   ],
   "omittedPaths": [],

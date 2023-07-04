@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/2023/2023-07-02.md",
+                "file": "🎮 Gaming/Diablo 4 Class Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas 🖼️/Canvas Test.canvas",
+                "file": "🖼️ Canvas/Canvas Test.canvas",
                 "viewState": {
                   "x": -40,
                   "y": 35,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/2023/2023-07-02.md",
+                "file": "🎮 Gaming/Diablo 4 Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,11 +217,12 @@
   },
   "active": "2f3718000c851daf",
   "lastOpenFiles": [
-    "Gaming 🎮/Diablo 4 Class Notes.md",
     "📆 Calendar/2023/2023-07-02.md",
-    "Canvas 🖼️/Canvas Test.canvas",
+    "📆 Calendar/2023/2023-WK1/2023-01-02.md",
+    "🎮 Gaming/Diablo 4 Class Notes.md",
+    "🖼️ Canvas/Canvas Test.canvas",
     "💻 Programming/Azure Blob Storage Container Post.md",
-    "Gaming 🎮",
+    "🎮 Gaming",
     "💻 Programming/EF Custom Expressions.md",
     "💻 Programming/CSharp Language Feature Course Timeline.md",
     "💻 Programming/Certifications.md",
@@ -237,14 +238,13 @@
     "🫀 Life/House WIP.md",
     "🫀 Life/Kitchen Cribsheet.md",
     "🫀 Life/House Organisation Hacks.md",
-    "Canvas 🖼️",
+    "🖼️ Canvas",
     "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
     "🫀 Life/Kitchen Purchases.md",
     "🧪 Scratch/🙀 202203271629 Test Note.md",
     "🧪 Scratch/🤔 202203271630 Workflow Learning.md",
     "🧪 Scratch/⚒️ How.md",
     "🧪 Scratch/🐶 202203271636 Dog.md",
-    "🥑 Nutrition/Breakfasts/Breakfast Ideas.md",
-    "📆 Calendar/2023/2023-WK4/2023-01-29.md"
+    "🥑 Nutrition/Breakfasts/Breakfast Ideas.md"
   ]
 }
