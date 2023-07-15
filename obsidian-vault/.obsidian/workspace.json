@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Kitchen Purchases.md",
+                "file": "🎮 Gaming/Diablo 4 Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,12 +212,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b75dc0b9cb16f1f9",
+  "active": "ce2fe0c7e5947fc0",
   "lastOpenFiles": [
+    "🫀 Life/Kitchen Purchases.md",
+    "🎮 Gaming/Diablo 4 Class Notes.md",
     "🫀 Life/Crunch Plan.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "🖼️ Canvas/Canvas Test.canvas",
-    "🎮 Gaming/Diablo 4 Class Notes.md",
     "📆 Calendar/2023/2023-07-02.md",
     "📆 Calendar/2023/2023-WK1/2023-01-02.md",
     "💻 Programming/Azure Blob Storage Container Post.md",
@@ -239,7 +239,6 @@
     "🫀 Life/House Organisation Hacks.md",
     "🖼️ Canvas",
     "🏃‍♂ Fitness/Bodyweight Exercise Research.md",
-    "🫀 Life/Kitchen Purchases.md",
     "🧪 Scratch/🙀 202203271629 Test Note.md",
     "🧪 Scratch/🤔 202203271630 Workflow Learning.md",
     "🧪 Scratch/⚒️ How.md",

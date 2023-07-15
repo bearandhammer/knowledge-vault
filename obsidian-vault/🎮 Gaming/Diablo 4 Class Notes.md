@@ -32,5 +32,12 @@ Keep gloves, weapon, one good ring and amulet for now.
 Boots
 - If we can just find movement speed!!!
 
+---
+
+Sites:
+
+Helltides.com
+
+
 
 
