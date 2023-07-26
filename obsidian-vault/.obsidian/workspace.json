@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎮 Gaming/Diablo 4 Class Notes.md",
+                "file": "🫀 Life/Kitchen Purchases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,10 +213,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce2fe0c7e5947fc0",
+  "active": "b75dc0b9cb16f1f9",
   "lastOpenFiles": [
-    "🫀 Life/Kitchen Purchases.md",
     "🎮 Gaming/Diablo 4 Class Notes.md",
+    "🫀 Life/Kitchen Purchases.md",
     "🫀 Life/Crunch Plan.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "🖼️ Canvas/Canvas Test.canvas",
