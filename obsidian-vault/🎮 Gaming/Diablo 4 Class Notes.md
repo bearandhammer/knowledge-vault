@@ -41,7 +41,8 @@ Diablo 4 wiki
 
 ---
 
-
+Necro
+- Bone spear unique - lookup.
 
 
 
