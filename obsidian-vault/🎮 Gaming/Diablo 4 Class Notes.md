@@ -46,7 +46,16 @@ Necro
 
 ---
 
+Damage Buckets
 
+Weapon Damage
+Vul Damage
+Crit Strike Damage
+
+Then
+- Main stat.
+- Core skill damage.
+- Other damage.
 
 
 
