@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce2fe0c7e5947fc0",
+            "id": "b75dc0b9cb16f1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b75dc0b9cb16f1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🫀 Life/Kitchen Purchases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "021865f5212c8071",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Kitchen Purchases.md",
+                "file": "🎮 Gaming/Diablo 4 Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,8 +192,8 @@
   },
   "active": "b75dc0b9cb16f1f9",
   "lastOpenFiles": [
-    "🎮 Gaming/Diablo 4 Class Notes.md",
     "🫀 Life/Kitchen Purchases.md",
+    "🎮 Gaming/Diablo 4 Class Notes.md",
     "🫀 Life/Crunch Plan.md",
     "📰 Blog Notes (Archive)/Current/April 2022 Highlights Blog.md",
     "🖼️ Canvas/Canvas Test.canvas",

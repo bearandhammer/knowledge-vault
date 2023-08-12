@@ -7,10 +7,10 @@ tags: 🫀
 
 - [x] 🔶 Fridge magnetic trays.
 - [x] 🔶 Chopping board with drainer for over sink.
-- [ ] 🔶 Loads more jars and containers.
+- [x] 🔶 Loads more jars and containers.
 - [x] 🔶 Joseph Joseph cutlery organiser.
 - [x] 🔶 Joseph Joseph sink caddy.
-- [ ] 🔶 Baskets.
+- [x] 🔶 Baskets.
 - [x] 🔶 Plate shelves.
 - [x] 🔶 Roller caddy for under the sink.
 - [x] 🔶 Sticky trays (3M command strips).
