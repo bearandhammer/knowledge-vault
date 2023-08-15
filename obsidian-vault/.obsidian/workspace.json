@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91a5c06008198c7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +201,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b75dc0b9cb16f1f9",
+  "active": "91a5c06008198c7f",
   "lastOpenFiles": [
     "🫀 Life/Kitchen Purchases.md",
     "🎮 Gaming/Diablo 4 Class Notes.md",
