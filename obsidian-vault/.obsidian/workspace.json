@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b75dc0b9cb16f1f9",
+            "id": "fb30273689acc8ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "🫀 Life/Garden Bits.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -105,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🫀 Life/Garden Bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +187,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b75dc0b9cb16f1f9",
+  "active": "fb30273689acc8ba",
   "lastOpenFiles": [
+    "🫀 Life/Garden Bits.md",
     "🫀 Life/Crunch Plan.md",
     "🎮 Gaming/Diablo 4 Class Notes.md",
     "🫀 Life/Kitchen Purchases.md",
@@ -211,7 +209,6 @@
     "🏃‍♂ Fitness/Running days.md",
     "🏃‍♂ Fitness/Best Treadmills.md",
     "🏃‍♂ Fitness/Fitness Utilities.md",
-    "🫀 Life/Garden Bits.md",
     "🫀 Life/House WIP.md",
     "🫀 Life/Kitchen Cribsheet.md",
     "🫀 Life/House Organisation Hacks.md",
