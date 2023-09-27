@@ -23,3 +23,5 @@ TODO:
 - Daily drink (gut microbiome) - Symprov.
 - AG1 - powder.
 - Blood tests.
+- Supplementation amounts.
+- 
